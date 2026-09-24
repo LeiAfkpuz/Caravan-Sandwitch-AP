@@ -1,0 +1,188 @@
+id	name	apworld_chapter	kind	category
+7681013	Primary.030GetTheTools3a_AntennaUnlocked.BuildAntenna	30	build	
+7681420	World.MetaNefleAntenna.ScrapB	30	tag	scrap
+7681419	World.MetaNefleAntenna.ScrapA	30	tag	scrap
+7681043	Primary.Common.030End	30	tag	
+7681019	Primary.040.StartSecondary	30	tag	
+7681068	Secondary.ClementineWaterPressure.Start	30	tag	
+7681113	Secondary.RoseToolRobot.ToolDelivered	30	tag	
+7681108	Secondary.RoseToolRobot.QuestDone	30	tag	
+7681052	Primary.Common.VillageDoorOpen	30	tag	door/gate
+7681018	Primary.040.OpenWorldOpened	30	tag	
+7681066	Secondary.ClementineWaterPressure.PumpRepaired	30	tag	
+7681067	Secondary.ClementineWaterPressure.QuestDone	30	tag	
+7681405	World.Guarrigue.VanJump6	30	tag	vanjump
+7681587	Plushy #4	30	pool	pool
+7681609	Snack #2	30	pool	pool
+7681406	World.Guarrigue_CollectibleRuinA.SmallScrapA	30	tag	scrap
+7681283	World.Desert_Heliport.Scrap_160	0	tag	scrap
+7681278	World.Desert_Heliport.Scrap_110	0	tag	scrap
+7681156	World.CalanquesHigh_MediumFactoryRuin.SmallScrapB	30	tag	scrap
+7681155	World.CalanquesHigh_MediumFactoryRuin.SmallScrapA	30	tag	scrap
+7681558	Clue #3	30	pool	pool
+7681152	World.CalanquesHigh_MediumFactoryRuin.Scrap_53	30	tag	scrap
+7681149	World.CalanquesHigh_MediumFactoryRuin.Scrap_108	30	tag	scrap
+7681158	World.CalanquesHigh_MediumFactoryRuin.SmallScrapF	30	tag	scrap
+7681157	World.CalanquesHigh_MediumFactoryRuin.SmallScrapD	30	tag	scrap
+7681291	World.Desert_Heliport.Scrap_81	0	tag	scrap
+7681598	Sandwich Clue #2	50	pool	pool
+7681351	World.Desert_RobotFactory.Scrap_CalanqueGate_02	50	tag	scrap
+7681467	World.Shore.Scrap_CalanqueGate_03	50	tag	scrap
+7681469	World.Shore.VanJump5	90	tag	vanjump
+7681468	World.Shore.Scrap_Desert_01	70	tag	scrap
+7681523	World.Shore_FallenSpaceShip.Scrap_03	30	tag	scrap
+7681497	World.Shore_FallenSpaceShip.Scrap15	30	tag	scrap
+7681498	World.Shore_FallenSpaceShip.Scrap17	30	tag	scrap
+7681489	World.Shore_FallenSpaceShip.Jammer	30	tag	jammer
+7681527	World.Shore_FallenSpaceShip.Scrap_17	30	tag	scrap
+7681221	World.Desert.VanJump4	90	tag	vanjump
+7681610	Snack #3	30	pool	pool
+7681611	Snack #4	30	pool	pool
+7681479	World.Shore_CliffRuin.Scrap_0654	30	tag	scrap
+7681612	Snack #5	30	pool	pool
+7681477	World.Shore_CliffRuin.Scrap_04	30	tag	scrap
+7681473	World.Shore_CliffRuin.ScrapP	30	tag	scrap
+7681470	World.Shore_CliffRuin.ScrapM	30	tag	scrap
+7681483	World.Shore_CliffRuin.Scrap_147	30	tag	scrap
+7681485	World.Shore_CliffRuin.Scrap_31	30	tag	scrap
+7681472	World.Shore_CliffRuin.ScrapMetal_58	30	tag	scrap
+7681471	World.Shore_CliffRuin.ScrapMetal_05	30	tag	scrap
+7681478	World.Shore_CliffRuin.Scrap_06	30	tag	scrap
+7681599	Sandwich Clue #3	50	pool	pool
+7681073	Secondary.HylaAdventure.ArchivesParabol	30	tag	
+7681482	World.Shore_CliffRuin.Scrap_135	30	tag	scrap
+7681559	Clue #4	30	pool	pool
+7681078	Secondary.HylaAdventure.ParabolRuin.Finished	30	tag	
+7681263	World.Desert_Heliport.ScrapG	30	tag	scrap
+7681280	World.Desert_Heliport.Scrap_127	30	tag	scrap
+7681265	World.Desert_Heliport.ScrapH	30	tag	scrap
+7681279	World.Desert_Heliport.Scrap_121	30	tag	scrap
+7681285	World.Desert_Heliport.Scrap_174	90	tag	scrap
+7681282	World.Desert_Heliport.Scrap_159	0	tag	scrap
+7681287	World.Desert_Heliport.Scrap_24	0	tag	scrap
+7681276	World.Desert_Heliport.Scrap_03	0	tag	scrap
+7681324	World.Desert_RobotFactory.Scrap_12	30	tag	scrap
+7681319	World.Desert_RobotFactory.Scrap_04	0	tag	scrap
+7681357	World.Desert_RobotFactory.SmallScrapA	30	tag	scrap
+7681349	World.Desert_RobotFactory.Scrap_87	30	tag	scrap
+7681333	World.Desert_RobotFactory.Scrap_182	30	tag	scrap
+7681020	Primary.040AcquireGrapple.JammerBroken	30	tag	jammer
+7681303	World.Desert_RobotFactory.Jammer_Factory	30	tag	jammer
+7681342	World.Desert_RobotFactory.Scrap_36	30	tag	scrap
+7681350	World.Desert_RobotFactory.Scrap_99	30	tag	scrap
+7681359	World.Desert_RobotFactory.SmallScrapM	30	tag	scrap
+7681336	World.Desert_RobotFactory.Scrap_196	30	tag	scrap
+7681302	World.Desert_RobotFactory.Factory_scrap_02	30	tag	scrap
+7681353	World.Desert_RobotFactory.Scrap_Factory_01	30	tag	scrap
+7681347	World.Desert_RobotFactory.Scrap_64	30	tag	scrap
+7681344	World.Desert_RobotFactory.Scrap_52	30	tag	scrap
+7681348	World.Desert_RobotFactory.Scrap_81	30	tag	scrap
+7681354	World.Desert_RobotFactory.Scrap_Factory_06	0	tag	scrap
+7681338	World.Desert_RobotFactory.Scrap_28	30	tag	scrap
+7681341	World.Desert_RobotFactory.Scrap_35	30	tag	scrap
+7681312	World.Desert_RobotFactory.ScrapQ	30	tag	scrap
+7681329	World.Desert_RobotFactory.Scrap_157	30	tag	scrap
+7681335	World.Desert_RobotFactory.Scrap_19	30	tag	scrap
+7681345	World.Desert_RobotFactory.Scrap_53	30	tag	scrap
+7681084	Secondary.LostNomads.Met	30	tag	
+7681398	World.Desert_TutoRuinCable.Scrap_191	30	tag	scrap
+7681386	World.Desert_StormWall.Scrap_37	0	tag	scrap
+7681388	World.Desert_StormWall.Scrap_65	0	tag	scrap
+7681385	World.Desert_StormWall.Scrap_27	0	tag	scrap
+7681374	World.Desert_StormWall.ScrapZ	0	tag	scrap
+7681548	World.Village.Scrap_14	30	tag	scrap
+7681613	Snack #6	30	pool	pool
+7681550	World.Village.Scrap_184	30	tag	scrap
+7681391	World.Desert_StormWall.Scrap_87	30	tag	scrap
+7681381	World.Desert_StormWall.Scrap_178	30	tag	scrap
+7681389	World.Desert_StormWall.Scrap_68	30	tag	scrap
+7681375	World.Desert_StormWall.Scrap_01	0	tag	scrap
+7681390	World.Desert_StormWall.Scrap_77	30	tag	scrap
+7681373	World.Desert_StormWall.ScrapX	30	tag	scrap
+7681614	Snack #7	30	pool	pool
+7681363	World.Desert_StormWall.ScrapC	30	tag	scrap
+7681379	World.Desert_StormWall.Scrap_168	30	tag	scrap
+7681367	World.Desert_StormWall.ScrapP	30	tag	scrap
+7681384	World.Desert_StormWall.Scrap_22	30	tag	scrap
+7681376	World.Desert_StormWall.Scrap_02	30	tag	scrap
+7681560	Clue #5	30	pool	pool
+7681362	World.Desert_StormWall.ScrapAF	30	tag	scrap
+7681297	World.Desert_NomadStand.VanJump2	90	tag	vanjump
+7681298	World.Desert_NomadStand.VanJump3	90	tag	vanjump
+7681223	World.Desert_ExcavationSite.ScrapB	30	tag	scrap
+7681227	World.Desert_ExcavationSite.ScrapI	30	tag	scrap
+7681228	World.Desert_ExcavationSite.ScrapJ	30	tag	scrap
+7681233	World.Desert_ExcavationSite.Scrap_144	30	tag	scrap
+7681248	World.Desert_ExcavationSite.Scrap_80	90	tag	scrap
+7681229	World.Desert_ExcavationSite.Scrap_113	30	tag	scrap
+7681243	World.Desert_ExcavationSite.Scrap_34	30	tag	scrap
+7681246	World.Desert_ExcavationSite.Scrap_47	30	tag	scrap
+7681235	World.Desert_ExcavationSite.Scrap_159	30	tag	scrap
+7681239	World.Desert_ExcavationSite.Scrap_173	30	tag	scrap
+7681251	World.Desert_ExcavationSite.Scrap_94	30	tag	scrap
+7681226	World.Desert_ExcavationSite.ScrapF	0	tag	scrap
+7681234	World.Desert_ExcavationSite.Scrap_151	30	tag	scrap
+7681588	Plushy #5	30	pool	pool
+7681244	World.Desert_ExcavationSite.Scrap_41	30	tag	scrap
+7681232	World.Desert_ExcavationSite.Scrap_126	30	tag	scrap
+7681247	World.Desert_ExcavationSite.Scrap_48	30	tag	scrap
+7681236	World.Desert_ExcavationSite.Scrap_17	0	tag	scrap
+7681242	World.Desert_ExcavationSite.Scrap_25	90	tag	scrap
+7681238	World.Desert_ExcavationSite.Scrap_172	90	tag	scrap
+7681250	World.Desert_ExcavationSite.Scrap_84	90	tag	scrap
+7681241	World.Desert_ExcavationSite.Scrap_23	90	tag	scrap
+7681230	World.Desert_ExcavationSite.Scrap_115	90	tag	scrap
+7681240	World.Desert_ExcavationSite.Scrap_199	90	tag	scrap
+7681231	World.Desert_ExcavationSite.Scrap_122	90	tag	scrap
+7681245	World.Desert_ExcavationSite.Scrap_46	90	tag	scrap
+7681249	World.Desert_ExcavationSite.Scrap_82	90	tag	scrap
+7681237	World.Desert_ExcavationSite.Scrap_171	90	tag	scrap
+7681225	World.Desert_ExcavationSite.ScrapD	30	tag	scrap
+7681224	World.Desert_ExcavationSite.ScrapC	30	tag	scrap
+7681222	World.Desert_ExcavationSite.ScrapA	30	tag	scrap
+7681452	World.Plateau_TutoRuinOrdi.Scrap_01	70	tag	scrap
+7681456	World.Plateau_TutoRuinOrdi.Scrap_46	70	tag	scrap
+7681454	World.Plateau_TutoRuinOrdi.Scrap_155	70	tag	scrap
+7681455	World.Plateau_TutoRuinOrdi.Scrap_175	70	tag	scrap
+7681457	World.Plateau_TutoRuinOrdi.SitspotCepeQuest	70	tag	sitspot
+7681424	World.Plateau_TowerRuin.RuinRadio	70	tag	collectible
+7681615	Snack #8	30	pool	pool
+7681449	World.Plateau_TowerRuinSurrounding.SmallScrapA	30	tag	scrap
+7681252	World.Desert_ExcavationSite.Scrap_96	90	tag	scrap
+7681404	World.Geocarriere_Hidden_Cache.SitSpot	90	tag	sitspot
+7681542	World.SucculentForest_RuinEnergy.Jammer	30	tag	jammer
+7681301	World.Desert_PotoGliderLevel.Scrap_47	30	tag	scrap
+7681300	World.Desert_PotoGliderLevel.Scrap_162	30	tag	scrap
+7681299	World.Desert_PotoGliderLevel.Scrap_16	30	tag	scrap
+7681600	Sandwich Clue #4	50	pool	pool
+7681616	Snack #9	30	pool	pool
+7681541	World.SucculentForest_ReinetoEntrance.SitSpotChill	30	tag	sitspot
+7681618	Teto #1	30	pool	pool
+7681032	Primary.070BuyCable.MeetReneitosFinished	30	tag	shop
+7681460	World.ReinetoCave.SmallRadio	30	tag	collectible
+7681459	World.ReinetoCave.BigReinetoSitSpot	30	tag	sitspot
+7681561	Clue #6	30	pool	pool
+7681562	Clue #7	30	pool	pool
+7681563	Clue #8	30	pool	pool
+7681564	Clue #9	30	pool	pool
+7681565	Clue #10	30	pool	pool
+7681619	Teto #2	30	pool	pool
+7681411	World.Guarrigue_RuinGrappleDoor.SmallScrapA	30	tag	scrap
+7681410	World.Guarrigue_RuinGrappleDoor.Scrap_79	30	tag	scrap
+7681589	Plushy #6	30	pool	pool
+7681590	Plushy #7	30	pool	pool
+7681591	Plushy #8	30	pool	pool
+7681592	Plushy #9	30	pool	pool
+7681593	Plushy #10	30	pool	pool
+7681415	World.Guarrigue_RuinMain.FRM_Scrap_02	0	tag	scrap
+7681412	World.Guarrigue_RuinMain.FMR_Scrap_03	0	tag	scrap
+7681417	World.Guarrigue_RuinMain.SmallScrapC	0	tag	scrap
+7681418	World.Guarrigue_RuinMain.SmallScrapH	0	tag	scrap
+7681414	World.Guarrigue_RuinMain.FMR_Scrap_07	0	tag	scrap
+7681413	World.Guarrigue_RuinMain.FMR_Scrap_06	0	tag	scrap
+7681620	Teto #3	30	pool	pool
+7681621	Teto #4	30	pool	pool
+7681294	World.Desert_NomadCurryCamp.Scrap1	30	tag	scrap
+7681594	Plushy #11	30	pool	pool
+7681595	Plushy #12	30	pool	pool
+7681596	Plushy #13	30	pool	pool

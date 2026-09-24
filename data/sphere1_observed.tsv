@@ -1,0 +1,91 @@
+id	name	apworld_chapter	kind	category
+7681003	Primary.010Intro2a_Station.Prologue	10	tag	
+7681000	Primary.010Intro2a_Station.EntranceStairsTop_LCP	10	tag	
+7681540	World.Station.SaugeJumpTutorial	10	tag	vanjump
+7681001	Primary.010Intro2a_Station.FirstFloorStationEntrance_Jump_LCP	10	tag	vanjump
+7681005	Primary.010Intro2a_Station.TrainStopTunnelEnd_LCP	10	tag	
+7681004	Primary.010Intro2a_Station.Quest	10	tag	
+7681051	Primary.Common.ChapterChanged	10	tag	
+7681041	Primary.Common.010End	10	tag	
+7681011	Primary.020WelcomeBackToCigalo2b_TrainStop.ShowSmokeOnVan	20	tag	
+7681552	World.Village.Scrap_52	20	tag	scrap
+7681009	Primary.020WelcomeBackToCigalo2b_TrainStop.HideSmokeOnVan	20	tag	
+7681007	Primary.020WelcomeBackToCigalo2b_EstelloJammerCrisis.BigReunionB	20	build	jammer
+7681547	World.Village.JammerNoDM	20	tag	jammer
+7681008	Primary.020WelcomeBackToCigalo2b_EstelloJammerCrisis.JammerToBreakNoDM	20	tag	jammer
+7681006	Primary.020WelcomeBackToCigalo2b_DrivingRoseToHerPlace.UseVan	20	build	
+7681042	Primary.Common.020End	20	tag	
+7681012	Primary.030.StartSecondary	30	tag	
+7681016	Primary.030GetTheTools3a_AntennaUnlocked.Start	30	tag	
+7681568	Mallow Flower #1	30	pool	pool
+7681584	Plushy #1	30	pool	pool
+7681179	World.Calanques_RoseHome.Scrap_Calanques_RoseHome_A	30	tag	scrap
+7681569	Mallow Flower #2	30	pool	pool
+7681139	World.Calanques.Scrap_115	30	tag	scrap
+7681570	Mallow Flower #3	30	pool	pool
+7681186	World.Calanques_RuinVillage.Scrap_128	30	tag	scrap
+7681015	Primary.030GetTheTools3a_AntennaUnlocked.IntroducingNefleGarage	30	tag	
+7681549	World.Village.Scrap_164	0	tag	scrap
+7681056	Secondary.AperoQuest.AperoStarted	30	tag	
+7681057	Secondary.AperoQuest.IsOver	30	tag	
+7681544	World.Village.BridgeSitSpot	30	tag	sitspot
+7681551	World.Village.Scrap_42	30	tag	scrap
+7681136	World.Calanques.ScrapL	30	tag	scrap
+7681185	World.Calanques_RuinVillage.Scrap_01	30	tag	scrap
+7681183	World.Calanques_RuinVillage.ScrapA	30	tag	scrap
+7681571	Mallow Flower #4	30	pool	pool
+7681163	World.Calanques_CollectibleRuinC.Scrap_98	30	tag	scrap
+7681184	World.Calanques_RuinVillage.ScrapB	30	tag	scrap
+7681164	World.Calanques_CollectibleRuinC.SmallScrapA	30	tag	scrap
+7681572	Mallow Flower #5	30	pool	pool
+7681141	World.Calanques.SitSpotCalanque_02	30	tag	sitspot
+7681175	World.Calanques_MicroRuinCollectibleA.Scrap_MicroRuin_Calanque	30	tag	scrap
+7681161	World.Calanques_CollectibleRuinA.Collectible_CallectibleRuin02	30	tag	collectible
+7681573	Mallow Flower #6	30	pool	pool
+7681556	Clue #1	30	pool	pool
+7681137	World.Calanques.ScrapO	30	tag	scrap
+7681173	World.Calanques_LandmarkRuin.SmallScrapA	30	tag	scrap
+7681171	World.Calanques_LandmarkRuin.ScrapE	30	tag	scrap
+7681172	World.Calanques_LandmarkRuin.Scrap_27	30	tag	scrap
+7681407	World.Guarrigue_RuinGrappleDoor.Jammer	30	tag	jammer
+7681170	World.Calanques_LandmarkRuin.ScrapB	30	tag	scrap
+7681574	Mallow Flower #7	30	pool	pool
+7681168	World.Calanques_Gate.Scrap_74	50	tag	scrap
+7681575	Mallow Flower #8	30	pool	pool
+7681166	World.Calanques_Gate.Scrap_17	50	tag	scrap
+7681134	World.Calanques.ScrapJ	50	tag	scrap
+7681135	World.Calanques.ScrapK	50	tag	scrap
+7681167	World.Calanques_Gate.Scrap_192	50	tag	scrap
+7681576	Mallow Flower #9	30	pool	pool
+7681577	Mallow Flower #10	30	pool	pool
+7681608	Snack #1	30	pool	pool
+7681578	Mallow Flower #11	30	pool	pool
+7681195	World.Calanques_RuinWaterTreatment.Scrap_09	0	tag	scrap
+7681187	World.Calanques_RuinWaterTreatment.ScrapA	30	tag	scrap
+7681196	World.Calanques_RuinWaterTreatment.Scrap_10	30	tag	scrap
+7681585	Plushy #2	30	pool	pool
+7681201	World.Calanques_RuinWaterTreatment.SmallScrapD	30	tag	scrap
+7681189	World.Calanques_RuinWaterTreatment.ScrapD	30	tag	scrap
+7681190	World.Calanques_RuinWaterTreatment.ScrapG	30	tag	scrap
+7681188	World.Calanques_RuinWaterTreatment.ScrapB	30	tag	scrap
+7681597	Sandwich Clue #1	50	pool	pool
+7681199	World.Calanques_RuinWaterTreatment.Scrap_52	30	tag	scrap
+7681545	World.Village.CafeSmallRadio	30	tag	collectible
+7681106	Secondary.RoseToolRobot.CollectorDoorOpen	30	tag	door/gate
+7681112	Secondary.RoseToolRobot.TakeRoseTool	30	tag	
+7681110	Secondary.RoseToolRobot.Reacted	30	tag	
+7681107	Secondary.RoseToolRobot.ItemRoseTool	30	tag	
+7681133	World.Calanques.ScrapC	30	tag	scrap
+7681198	World.Calanques_RuinWaterTreatment.Scrap_176	30	tag	scrap
+7681162	World.Calanques_CollectibleRuinB.Scrap_01	30	tag	scrap
+7681586	Plushy #3	30	pool	pool
+7681464	World.RoseHome.SitSpotCalanque	30	tag	sitspot
+7681143	World.Calanques.SmallRadio	30	tag	collectible
+7681176	World.Calanques_MicroRuinCollectibleB.Scrap_MicroRuinCalanque	30	tag	scrap
+7681177	World.Calanques_RoseHome.RoseHomeSitSpotRocks	30	tag	sitspot
+7681138	World.Calanques.ScrapT	30	tag	scrap
+7681178	World.Calanques_RoseHome.Scrap_184	30	tag	scrap
+7681182	World.Calanques_RoseHome.ledge	30	tag	
+7681180	World.Calanques_RoseHome.SmallScrapA	30	tag	scrap
+7681557	Clue #2	30	pool	pool
+7681014	Primary.030GetTheTools3a_AntennaUnlocked.EnoughScraps	30	tag	scrap

@@ -1,0 +1,2019 @@
+include	namespace	category	chapter	source	states	tag	x	y	z
+			50	history	Common_Done|ScrapMetal_Collected				
+N	Developers			census		Developers.Charles.eafwfe	23600	-130900	622350
+N	Developers			census		Developers.Trailers.NefleStationScene	22340	-261073	-34650
+N	Primary	ambient		census		Primary.010Intro2a_Station.BackRoom_SelfTalkTrigger	19220	-264990	-34710
+	Primary			census		Primary.010Intro2a_Station.BasilThread	21385	-269286	-34497
+	Primary			census		Primary.010Intro2a_Station.DiscoveringStation_Trigger01	20250	-270050	-34300
+	Primary			census		Primary.010Intro2a_Station.DysonSphere	21720	-270144	-34560
+	Primary			census		Primary.010Intro2a_Station.EnsureTrainSpawned	22132	-262311	-34700
+	Primary		10	both	LoadCheckPointTrigger_Triggerd	Primary.010Intro2a_Station.EntranceStairsTop_LCP	21350	-267950	-34500
+	Primary			census		Primary.010Intro2a_Station.EntranceStairsTop_TP	21350	-268050	-34700
+	Primary	vanjump	10	both	LoadCheckPointTrigger_Triggerd	Primary.010Intro2a_Station.FirstFloorStationEntrance_Jump_LCP	20900	-264900	-34500
+	Primary	vanjump		census		Primary.010Intro2a_Station.FirstFloorStationEntrance_Jump_TP	21100	-264550	-34650
+	Primary		10	both	LoadCheckPointTrigger_Triggerd	Primary.010Intro2a_Station.FirstFloorStationEntrance_Ticket_LCP	22000	-263550	-34500
+	Primary			census		Primary.010Intro2a_Station.FirstFloorStationEntrance_Ticket_TP	21800	-263150	-34650
+N	Primary	ambient		census		Primary.010Intro2a_Station.LookStars_SelfTalk02	22040	-266440	-34980
+N	Primary	ambient		census		Primary.010Intro2a_Station.MeetNefleInTrainDialogue	0	0	0
+N	Primary	ambient		census		Primary.010Intro2a_Station.MissTrain_SelfTalkTrigger	21150	-262750	-34550
+	Primary		10	history	Common_Done	Primary.010Intro2a_Station.Prologue			
+	Primary		10	history	Common_Done	Primary.010Intro2a_Station.Quest			
+N	Primary	ambient		census		Primary.010Intro2a_Station.SelfTalk_AngryRobot	21710	-265625	-34965
+N	Primary	ambient		census		Primary.010Intro2a_Station.SelfTalk_CorgiAd	20521	-265730	-34960
+N	Primary	ambient		census		Primary.010Intro2a_Station.SelfTalk_LostBag	21637	-266845	-34988
+N	Primary	ambient		census		Primary.010Intro2a_Station.SelfTalk_MeetTrain	21145	-260815	-34495
+	Primary			census		Primary.010Intro2a_Station.SpatioTrainArrivalTrigger	0	0	0
+	Primary		10	both	LoadCheckPointTrigger_Triggerd	Primary.010Intro2a_Station.TrainStopTunnelEnd_LCP	21150	-261550	-34500
+	Primary			census		Primary.020WelcomeBackToCigalo2b_DrivingRoseToHerPlace.EstelloToRose	0	0	0
+	Primary			census		Primary.020WelcomeBackToCigalo2b_DrivingRoseToHerPlace.TaxiA	0	0	0
+	Primary			census		Primary.020WelcomeBackToCigalo2b_DrivingRoseToHerPlace.TaxiB	0	0	0
+	Primary			census		Primary.020WelcomeBackToCigalo2b_DrivingRoseToHerPlace.TrustingSauge	0	0	0
+	Primary		20	history	Upgrade_Unlocked	Primary.020WelcomeBackToCigalo2b_DrivingRoseToHerPlace.UseVan			
+	Primary	jammer	20	history	Upgrade_Unlocked	Primary.020WelcomeBackToCigalo2b_EstelloJammerCrisis.BigReunionB			
+	Primary	jammer		census		Primary.020WelcomeBackToCigalo2b_EstelloJammerCrisis.BigReunion_First	0	0	0
+	Primary	jammer		census		Primary.020WelcomeBackToCigalo2b_EstelloJammerCrisis.BigReunion_Second	0	0	0
+	Primary	jammer		census		Primary.020WelcomeBackToCigalo2b_EstelloJammerCrisis.CepRosApero	0	0	0
+	Primary	jammer		census		Primary.020WelcomeBackToCigalo2b_EstelloJammerCrisis.CleOliApero	0	0	0
+	Primary	jammer	20	both	Jammer_Broken	Primary.020WelcomeBackToCigalo2b_EstelloJammerCrisis.JammerToBreakNoDM	0	0	0
+	Primary	scrap		census		Primary.020WelcomeBackToCigalo2b_EstelloJammerCrisis.ScrapsQuest	0	0	0
+	Primary	jammer		census		Primary.020WelcomeBackToCigalo2b_EstelloJammerCrisis.YucSafApero	70815	-44975	3070
+	Primary			census		Primary.020WelcomeBackToCigalo2b_TrainStop.FromStationPreLoadTargetPoint	107394	-33989	957
+	Primary		20	history	Common_Done	Primary.020WelcomeBackToCigalo2b_TrainStop.HideSmokeOnVan			
+	Primary			census		Primary.020WelcomeBackToCigalo2b_TrainStop.NefleUnloading	0	0	0
+	Primary			census		Primary.020WelcomeBackToCigalo2b_TrainStop.RoseAndNefleFixingVan_PartA	0	0	0
+	Primary			census		Primary.020WelcomeBackToCigalo2b_TrainStop.RoseAndNefleFixingVan_PartB	0	0	0
+	Primary			census		Primary.020WelcomeBackToCigalo2b_TrainStop.RoseAndNefleFixingVan_PartB2	0	0	0
+	Primary			census		Primary.020WelcomeBackToCigalo2b_TrainStop.RoseCrashingVanAutoTrigger	0	0	0
+	Primary			census		Primary.020WelcomeBackToCigalo2b_TrainStop.RoseCrashingVanPartA	0	0	0
+	Primary			census		Primary.020WelcomeBackToCigalo2b_TrainStop.RoseCrashingVanPartB	0	0	0
+	Primary		20	history	Common_Done	Primary.020WelcomeBackToCigalo2b_TrainStop.SaugeFunny			
+N	Primary	ambient		census		Primary.020WelcomeBackToCigalo2b_TrainStop.SaugeReminder_Selftalk	0	0	0
+N	Primary	ambient		census		Primary.020WelcomeBackToCigalo2b_TrainStop.SelfTalk_SodaVendingMachine	106680	-34210	1070
+	Primary		20	history	Common_Done	Primary.020WelcomeBackToCigalo2b_TrainStop.ShowSmokeOnVan			
+N	Primary	ambient		census		Primary.020WelcomeBackToCigalo2b_TrainStop.TaxiDialogueA	0	0	0
+N	Primary	ambient		census		Primary.020WelcomeBackToCigalo2b_TrainStop.TrainArrivalNefleDialogue	0	0	0
+	Primary			census		Primary.020WelcomeBackToCigalo2b_TrainStop.TrainStopToVillageTaxi	0	0	0
+	Primary		30	history	Common_Done	Primary.030.StartSecondary			
+	Primary		30	history	Upgrade_Unlocked	Primary.030GetTheTools3a_AntennaUnlocked.BuildAntenna			
+	Primary			census		Primary.030GetTheTools3a_AntennaUnlocked.CepePassedOut	64432	-27363	761
+	Primary			census		Primary.030GetTheTools3a_AntennaUnlocked.EndDemoFade	66849	-32948	1262
+	Primary	scrap	30	history	Common_Done	Primary.030GetTheTools3a_AntennaUnlocked.EnoughScraps			
+N	Primary	ambient		census		Primary.030GetTheTools3a_AntennaUnlocked.Fuscus_Ambiant	0	0	0
+N	Primary	ambient		census		Primary.030GetTheTools3a_AntennaUnlocked.Hyla_Ambiant	69520	-43443	2880
+	Primary		30	history	Common_Done	Primary.030GetTheTools3a_AntennaUnlocked.IntroducingNefleGarage			
+N	Primary	ambient		census		Primary.030GetTheTools3a_AntennaUnlocked.Rana_Ambiant	0	0	0
+	Primary	door/gate		census		Primary.030GetTheTools3a_AntennaUnlocked.SafranYuccaAsideOpenDoor	70322	-43060	1674
+N	Primary	ambient		census		Primary.030GetTheTools3a_AntennaUnlocked.SelfTalk_Reneitos	72870	-44505	3030
+	Primary		30	history	Common_Done	Primary.030GetTheTools3a_AntennaUnlocked.Start			
+	Primary			census		Primary.030GetTheTools3a_AntennaUnlocked.TaxiToCepeSelfTak	67034	-33341	1262
+	Primary		30	both	Upgrade_Unlocked	Primary.030GetTheTools3a_GrappleUnlocked.NefleGrappleReady	72867	-43229	1455
+	Primary			census		Primary.030GetTheTools3a_Temporary.VanSpawnRose	88950	-71323	33
+	Primary		30	history	Common_Done	Primary.040.OpenWorldOpened			
+	Primary		30	history	Common_Done	Primary.040.StartSecondary			
+	Primary	jammer	30	history	Common_Done	Primary.040AcquireGrapple.JammerBroken			
+	Primary			census		Primary.040AcquireGrapple.OlivierAbricot	0	0	0
+	Primary	door/gate		census		Primary.040AcquireGrapple.OpenVillageDoorTaxiSpline	70550	-42283	1337
+	Primary			census		Primary.040AcquireGrapple.PreviewBuildEndInterlude	70125	-44630	-13735
+	Primary			census		Primary.040AcquireGrapple.Safran	0	0	0
+	Primary			census		Primary.040AcquireGrapple.Yucca	0	0	0
+	Primary		50	history	Common_Done	Primary.050.SignalFound			
+	Primary		30	history	Common_Done	Primary.050.StartSecondary			
+	Primary	jammer		census		Primary.050DestroyAllJammers.AqueducTaxiSpline	70960	-42950	1290
+	Primary	jammer		census		Primary.050DestroyAllJammers.Cepe_DestroyAllJammers	70981	-46128	2980
+	Primary	jammer	50	history	Common_Done	Primary.050DestroyAllJammers.ControlRoomComputersA			
+	Primary	jammer	50	history	Common_Done	Primary.050DestroyAllJammers.ControlRoomComputersB			
+	Primary	jammer	50	history	Common_Done	Primary.050DestroyAllJammers.ControlRoomComputersD			
+	Primary	jammer		census		Primary.050DestroyAllJammers.Curry_DestroyAllJammers	45540	9610	2640
+	Primary	jammer	50	history	Common_Done	Primary.050DestroyAllJammers.HideVanNote			
+	Primary	jammer		census		Primary.050DestroyAllJammers.LargeJammersRadius	29700	39920	520
+	Primary	jammer		census		Primary.050DestroyAllJammers.NefleAtGarage_QE	72844	-43328	1455
+	Primary	jammer		census		Primary.050DestroyAllJammers.NefleSauge_CommCenter	25029	41870	958
+	Primary	jammer	30	history	Common_Done	Primary.050DestroyAllJammers.NomadCampFinished			
+	Primary	jammer		census		Primary.050DestroyAllJammers.OlivierAbricot_DestroyAllJammers	92469	-61639	44
+	Primary	jammer		census		Primary.050DestroyAllJammers.Orgeat_DestroyAllJammers	41360	9010	2230
+	Primary	jammer		census		Primary.050DestroyAllJammers.Poto_TargetPoint_ST	25860	20490	-520
+	Primary	jammer		census		Primary.050DestroyAllJammers.SelfTalk_Reneitos	36640	-31890	370
+	Primary	jammer		census		Primary.050DestroyAllJammers.TaxiSpline_Trigger	0	0	0
+	Primary	jammer		census		Primary.050DestroyAllJammers.TaxiSpline_TriggerB	0	0	0
+	Primary	jammer		census		Primary.050DestroyAllJammers.TaxiSpline_TriggerC	0	0	0
+	Primary		50	history	Common_Done	Primary.060.StartSecondary			
+	Primary			census		Primary.060UnlockPulley.AccessKey_TP	58110	36280	5580
+	Primary			census		Primary.060UnlockPulley.AllRobots_Reunion	52782	33884	1980
+	Primary		50	history	Upgrade_Unlocked	Primary.060UnlockPulley.AntennaHackPylonsUpgrade			
+	Primary			census		Primary.060UnlockPulley.CurryOptionalDLG_OrgeatSideQuest	0	0	0
+	Primary			census		Primary.060UnlockPulley.DS_RoseDoubtSW	0	0	0
+	Primary			census		Primary.060UnlockPulley.Hawking_UnlockPulley	0	0	0
+	Primary			census		Primary.060UnlockPulley.LamarrQG	51607	35468	1978
+N	Primary	ambient		census		Primary.060UnlockPulley.LaunchTuringDialogue_Trigger	56952	37080	2120
+	Primary			census		Primary.060UnlockPulley.NearingAccessKey	57880	37540	4120
+	Primary			census		Primary.060UnlockPulley.NefleAtGarage_QG	0	0	0
+	Primary			census		Primary.060UnlockPulley.NefleTaxiQuest	0	0	0
+	Primary			census		Primary.060UnlockPulley.Nostradamus_UnlockPulley	0	0	0
+	Primary			census		Primary.060UnlockPulley.OrgeatConsortium	0	0	0
+	Primary			census		Primary.060UnlockPulley.Poivron_MeetRobots	71450	-43590	1300
+	Primary			census		Primary.060UnlockPulley.SafranNomads	0	0	0
+N	Primary	ambient		census		Primary.060UnlockPulley.SelfTalk_ReneitosCaveStillClosed	0	0	0
+	Primary			census		Primary.060UnlockPulley.TaggedVan_CleaningTogether	0	0	0
+	Primary			census		Primary.060UnlockPulley.TaggedVan_Surprise	0	0	0
+	Primary			census		Primary.060UnlockPulley.Turing_FirstMeet	52914	35388	2000
+	Primary	collectible		census		Primary.060UnlockPulley.YuccaBaieFlowers	0	0	0
+	Primary		70	history	Common_Done	Primary.070.StartSecondary			
+	Primary	shop		census		Primary.070BuyCable.CinematicTrigger_Reineto	0	0	0
+	Primary	shop		census		Primary.070BuyCable.ClementineAbricot_BuyCable	0	0	0
+	Primary	collectible		census		Primary.070BuyCable.Connecto_AfterTetos	0	0	0
+	Primary	shop		census		Primary.070BuyCable.Hawkins_BuyCable	0	0	0
+	Primary	shop	70	history	Common_Done	Primary.070BuyCable.Is070Finished			
+	Primary	shop		census		Primary.070BuyCable.Liberto_FirstMeet	0	0	0
+	Primary	shop	30	history	Common_Done	Primary.070BuyCable.MeetReneitosFinished			
+	Primary	shop		census		Primary.070BuyCable.NefleAtGarage	72795	-43399	1453
+	Primary	shop		census		Primary.070BuyCable.NostradamusLamarr_BuyCable	0	0	0
+	Primary	shop		census		Primary.070BuyCable.OlivierTuring_BuyCable	0	0	0
+	Primary	shop		census		Primary.070BuyCable.Poivron_BuyCable	0	0	0
+N	Primary	ambient		census		Primary.070BuyCable.Rose_BuyCable_Ambiant	0	0	0
+	Primary	shop		census		Primary.070BuyCable.Safran_BuyCable	0	0	0
+N	Primary	ambient		census		Primary.070BuyCable.SelfTalk_SaugeMemory	0	0	0
+	Primary	shop	70	history	Common_Done	Primary.070BuyCable.Started			
+N	Primary	ambient		census		Primary.070BuyCable.TriggerReineto_SaugeSelfTalk	0	0	0
+	Primary	shop	70	both	Upgrade_Unlocked	Primary.070BuyCable.VanSpawn_TutoZipline	70885	-46448	773281
+	Primary	shop		census		Primary.070BuyCable.YuccaBaie_BuyCable	0	0	0
+	Primary	shop		census		Primary.070BuyCable.ZiplineTuto_MetaNefle	66333	-47329	772874
+	Primary		70	history	Common_Done	Primary.080.StartSecondary			
+	Primary			census		Primary.080HackAllComputers.AfterCinematic_Nefle	72864	-43201	1455
+	Primary			census		Primary.080HackAllComputers.Cepe_HackAllComputers	70890	-46090	2980
+	Primary			census		Primary.080HackAllComputers.ClemAbricotOlivier_HackAllComputers	74230	-43730	2980
+	Primary			census		Primary.080HackAllComputers.Curry_HackAllComputers	45490	9650	2640
+	Primary		70	history	Common_Done	Primary.080HackAllComputers.DelayNoReturn			
+N	Primary	ambient		census		Primary.080HackAllComputers.Lamarr_Ambiant	70250	-45550	2980
+	Primary	shop		census		Primary.080HackAllComputers.Nostradamus_BuyCable	0	0	0
+	Primary			census		Primary.080HackAllComputers.Orgeat_HackAllComputers	41250	9010	2230
+	Primary			census		Primary.080HackAllComputers.PoivronHawkins_HackAllComputers	46270	10630	2490
+	Primary		70	history	Common_Done	Primary.080HackAllComputers.PowerCableTutoDone			
+N	Primary	ambient		census		Primary.080HackAllComputers.Rana_Ambiant	70360	-44660	2980
+	Primary			census		Primary.080HackAllComputers.SafranPoto_HackAllComputers	73130	-44240	2880
+	Primary			census		Primary.080HackAllComputers.VanSpawnPoint	0	0	0
+	Primary			census		Primary.080HackAllComputers.YuccaBaie_HackAllComputers	69700	-44050	2980
+	Primary	door/gate		census		Primary.090FollowKea.BatteryVehiculeDoor	-155514	-115929	-9354
+	Primary	door/gate		census		Primary.090FollowKea.DoorVehicle	-156410	-115626	-9375
+	Primary			census		Primary.090FollowKea.EnteringBuilding	-164135	-105297	-8314
+N	Primary	ambient		census		Primary.090FollowKea.GaranceShipDialogueScene	-164020	-94364	-9027
+	Primary	door/gate	90	both	GrappableDoor_Broken	Primary.090FollowKea.GrappableDoor	-164999	-102808	-8876
+	Primary			census		Primary.090FollowKea.InterludeExitStorm	-163239	-95702	-9365
+	Primary			census		Primary.090FollowKea.KeaBeforeTunnel	30800	47290	-677
+	Primary			census		Primary.090FollowKea.RoseAtVan_GiveHelp	72600	-45230	1300
+	Primary			census		Primary.090FollowKea.RoseSaugeGaranceShip	-164277	-95999	-9411
+	Primary			census		Primary.090FollowKea.SaugeCheckpoint	-164442	-96214	-9414
+	Primary			census		Primary.090FollowKea.SuageTowerEntranceTP	25140	48420	504
+	Primary			census		Primary.090FollowKea.VanCheckpointGaranceShip	-164200	-96239	-9414
+	Primary		90	both	Energy_Activated|Energy_Deactivated|Energy_Hacked	Primary.090FollowKea.VehiclePlate	-156425	-116355	-9303
+	Primary		90	history	Common_Done	Primary.100SaveNefle.EndSelfDestruct			
+	Primary		10	history	Common_Done	Primary.Common.010End			
+	Primary		20	history	Common_Done	Primary.Common.020End			
+	Primary		30	history	Common_Done	Primary.Common.030End			
+	Primary		30	history	Common_Done	Primary.Common.040End			
+	Primary		50	history	Common_Done	Primary.Common.050End			
+	Primary		50	history	Common_Done	Primary.Common.060End			
+	Primary		70	history	Common_Done	Primary.Common.070End			
+	Primary		70	history	Common_Done	Primary.Common.080End			
+	Primary		90	history	Common_Done	Primary.Common.090End			
+	Primary		90	history	Common_Done	Primary.Common.100End			
+	Primary			census		Primary.Common.AbricotOlivierInsideHouse	75999	-43709	-15274
+N	Primary	ambient		census		Primary.Common.BackFromAqueducVanDialogue	27177	32655	580
+N	Primary	ambient		census		Primary.Common.BackFromAqueducVanDialogue2	29495	-13597	-857
+	Primary			census		Primary.Common.CafeTrigger	69456	-44853	-13696
+	Primary			census		Primary.Common.CepePassedOut	68811	-44552	-13740
+	Primary		10	history	Common_Done	Primary.Common.ChapterChanged			
+	Primary	scrap		census		Primary.Common.CheatScrapA	72506	-42936	724
+	Primary	scrap		census		Primary.Common.CheatScrapB	72792	-42964	658
+	Primary	scrap		census		Primary.Common.CheatScrapC	73109	-42938	658
+	Primary	scrap		census		Primary.Common.CheatScrapD	73413	-42946	658
+	Primary	scrap		census		Primary.Common.CheatScrapE	73694	-42931	658
+N	Primary	ambient		census		Primary.Common.ControlRoomTopSandwitchSelfTalk	30971	41863	4117
+	Primary			census		Primary.Common.NefleAqueducControlRoom	29114	38635	3159
+	Primary			census		Primary.Common.NefleAtGarageWaitingSauge_DS	0	0	0
+	Primary			census		Primary.Common.NefleControlRoomLookAtScreen	29181	38630	3159
+	Primary			census		Primary.Common.NefleSaugeAqueduc	28832	38887	3759
+	Primary			census		Primary.Common.NefleSaugeOnBridge	72455	-44683	2880
+	Primary			census		Primary.Common.NotifyPendingMessagesChapterBegginningTrigger	72124	-44120	2537
+	Primary	door/gate		census		Primary.Common.OpenVillageDoorDialogue	70347	-42043	1319
+	Primary			census		Primary.Common.RoseFrontHouse	90628	-72171	555
+	Primary			census		Primary.Common.SafranLookingDesert	0	0	0
+N	Primary	ambient		census		Primary.Common.SafranWatchingDialogueScene	0	0	0
+	Primary			census		Primary.Common.SandwitchControlRoomTop	30489	42662	3958
+	Primary			census		Primary.Common.SandwitchControlRoomTopTrigger	31161	42255	4056
+	Primary			census		Primary.Common.SaugeRoomTrigger	68753	-45661	-13359
+	Primary			census		Primary.Common.TaxiBackFromSignal	28820	36405	1012
+	Primary	door/gate	30	history	Common_Done	Primary.Common.VillageDoorOpen			
+	Primary	door/gate		census		Primary.Common.VillageDoorTrigger	70163	-41642	1300
+	Primary			census		Primary.Common.VillageNomadsReunion	69465	-45531	-13757
+	Secondary			census		Secondary.AbricotOlivierRattle.AbricotRequest	74520	-44010	2980
+	Secondary			census		Secondary.AbricotOlivierRattle.AfterRattleQuest	74883	-44081	3408
+	Secondary			census		Secondary.AbricotOlivierRattle.Beach_TP	92557	-59956	0
+	Secondary			census		Secondary.AbricotOlivierRattle.Bridge_TP	72747	-44870	2880
+Y	Secondary		30	both	Rattle_Collected	Secondary.AbricotOlivierRattle.ItemRattle	0	0	0
+	Secondary			census		Secondary.AbricotOlivierRattle.OlivierWorried	74477	-43927	2977
+	Secondary			census		Secondary.AbricotOlivierRattle.QG	74420	-44180	2980
+Y	Secondary		30	history	Common_Done	Secondary.AbricotOlivierRattle.QuestDone			
+	Secondary			census		Secondary.AbricotOlivierRattle.SaugeMemoryTrigger	93540	-59660	0
+	Secondary		30	history	Common_Done	Secondary.AbricotOlivierRattle.StationYes			
+	Secondary		30	history	Common_Done	Secondary.AperoQuest.AperoStarted			
+	Secondary			census		Secondary.AperoQuest.AperoTP	70700	-45280	2980
+	Secondary			census		Secondary.AperoQuest.FetchBread	72440	-42310	3000
+	Secondary			census		Secondary.AperoQuest.FetchCheese	74420	-43640	2980
+	Secondary			census		Secondary.AperoQuest.FetchSpread	70510	-44670	2980
+	Secondary			census		Secondary.AperoQuest.IngredientsRadius	72685	-44680	2880
+Y	Secondary		30	history	Common_Done	Secondary.AperoQuest.IsOver			
+	Secondary			census		Secondary.AperoQuest.PotoApero	70742	-45905	2980
+	Secondary			census		Secondary.AperoQuest.Talk_AbricotAndNefle	70035	-45103	2980
+	Secondary			census		Secondary.AperoQuest.Talk_ClementineAndOlivier	70290	-45170	2980
+	Secondary			census		Secondary.AperoQuest.Talk_SafranAndYucca	70320	-45560	2980
+	Secondary			census		Secondary.AperoQuest.YuccaAtPlace_Hello	70935	-45563	2978
+	Secondary			census		Secondary.BaieVehicleParts.ArriveAtPointC	0	0	0
+	Secondary			census		Secondary.BaieVehicleParts.AtNomadFire_TP	0	0	0
+	Secondary			census		Secondary.BaieVehicleParts.BaieQuestGiver_DS	0	0	0
+	Secondary			census		Secondary.BaieVehicleParts.BaieTalkAboutYucca_DS	0	0	0
+	Secondary			census		Secondary.BaieVehicleParts.BaieThanksSaugeParty	0	0	0
+	Secondary			census		Secondary.BaieVehicleParts.EndTaxiABaieClimbing	0	0	0
+	Secondary			census		Secondary.BaieVehicleParts.EndTaxiBBaieClimbing	0	0	0
+	Secondary			census		Secondary.BaieVehicleParts.EndTaxiDBackToNomadCamp_DS	0	0	0
+	Secondary			census		Secondary.BaieVehicleParts.EntTaxiBBaieRest	0	0	0
+	Secondary			census		Secondary.BaieVehicleParts.InterludeScene	0	0	0
+	Secondary			census		Secondary.BaieVehicleParts.PointABaieRest_DS	0	0	0
+	Secondary			census		Secondary.BaieVehicleParts.PointBLeave_DS	0	0	0
+Y	Secondary		50	history	Common_Done	Secondary.BaieVehicleParts.QuestDone			
+	Secondary		50	history	Common_Done	Secondary.BaieVehicleParts.QuestStart			
+	Secondary			census		Secondary.BaieVehicleParts.TargetPointQuestArea	87423	-35439	2492
+	Secondary			census		Secondary.BaieVehicleParts.TaxiBackToNomad	0	0	0
+	Secondary			census		Secondary.BaieVehicleParts.TaxiSplineA_DLGA	49194	-2072	523
+	Secondary			census		Secondary.BaieVehicleParts.TaxiSplineA_DLGB	63825	-21919	719
+	Secondary			census		Secondary.BaieVehicleParts.TaxiSplineA_EndingPoint_Objective	0	0	0
+	Secondary			census		Secondary.BaieVehicleParts.TaxiSplineB_DLGA	78218	-23924	616
+	Secondary			census		Secondary.BaieVehicleParts.TaxiSplineB_EndingPoint_Objective	0	0	0
+	Secondary			census		Secondary.BaieVehicleParts.TaxiSplineC_DLGA	77024	-23044	4408
+	Secondary			census		Secondary.BaieVehicleParts.TaxiSplineC_EndingPoint_Objective	0	0	0
+	Secondary			census		Secondary.BaieVehicleParts.TaxiSplineD_DLGA	91101	-21173	628
+	Secondary			census		Secondary.BaieVehicleParts.TaxiSplineD_DLGB	80368	1211	483
+	Secondary			census		Secondary.BaieVehicleParts.TaxiSplineD_DLGC	52769	15258	703
+	Secondary			census		Secondary.BaieVehicleParts.TaxiSplineD_EndingPoint_Objective	0	0	0
+	Secondary			census		Secondary.BaieVehicleParts.TaxiToPointA	0	0	0
+	Secondary			census		Secondary.BaieVehicleParts.TaxiToPointB	0	0	0
+	Secondary			census		Secondary.BaieVehicleParts.TaxiToPointC	74090	-16650	4650
+	Secondary		50	both	BuriedObject_Pulled	Secondary.BaieVehicleParts.VehiclePartA	88666	-33381	2456
+	Secondary		50	both	BuriedObject_Pulled	Secondary.BaieVehicleParts.VehiclePartB	87014	-32602	2582
+	Secondary		50	both	BuriedObject_Pulled	Secondary.BaieVehicleParts.VehiclePartC	87116	-37148	2557
+	Secondary		50	both	BuriedObject_Pulled	Secondary.BaieVehicleParts.VehiclePartD	86752	-33506	2540
+	Secondary			census		Secondary.BaieVehicleParts.YuccaArrive_DS	0	0	0
+	Secondary			census		Secondary.BaieVehicleParts.YuccaConfessAfterParty	0	0	0
+	Secondary			census		Secondary.BaieVehicleParts.YuccaReadyForTaxi	0	0	0
+	Secondary			census		Secondary.CepeRoadTrip.ActivityChill	0	0	0
+	Secondary			census		Secondary.CepeRoadTrip.BeforeCelebrations	0	0	0
+	Secondary			census		Secondary.CepeRoadTrip.BeforeGoingBackToEstello	0	0	0
+	Secondary			census		Secondary.CepeRoadTrip.BeforePuzzle	0	0	0
+	Secondary			census		Secondary.CepeRoadTrip.CepeAtVillage	0	0	0
+	Secondary			census		Secondary.CepeRoadTrip.GoToSeedHideout	0	0	0
+	Secondary			census		Secondary.CepeRoadTrip.InterludeEndQuest	0	0	0
+	Secondary			census		Secondary.CepeRoadTrip.NomadArch_SaugeCommentary	0	0	0
+Y	Secondary		70	history	Common_Done	Secondary.CepeRoadTrip.QuestDone			
+	Secondary			census		Secondary.CepeRoadTrip.QuestEnding	0	0	0
+	Secondary			census		Secondary.CepeRoadTrip.QuestGiver_DLG	0	0	0
+	Secondary		70	both	Seed_Collected	Secondary.CepeRoadTrip.SeedA	0	0	0
+N	Secondary	ambient		census		Secondary.CepeRoadTrip.SelftalkTrigger	0	0	0
+	Secondary			census		Secondary.CepeRoadTrip.TP_Van_CepeRoadTrip	37645	-27640	-135
+	Secondary			census		Secondary.CepeRoadTrip.TargetPointPinForest	-3756	-18252	3044
+	Secondary			census		Secondary.CepeRoadTrip.TaxiA_TargetPoint	0	0	0
+	Secondary			census		Secondary.CepeRoadTrip.TaxiB_TP	0	0	0
+	Secondary			census		Secondary.CepeRoadTrip.TaxiSplineA_DLGA	66510	-32112	1721
+	Secondary			census		Secondary.CepeRoadTrip.TaxiSplineA_DLGB	44500	-7200	-255
+	Secondary			census		Secondary.CepeRoadTrip.TaxiSplineA_DLGC	16095	-17206	-1748
+	Secondary			census		Secondary.CepeRoadTrip.TaxiSplineB_DLGA	18392	-16131	-1672
+	Secondary			census		Secondary.CepeRoadTrip.TaxiSplineB_DLGB	38685	-27066	392
+	Secondary			census		Secondary.CepeRoadTrip.TaxiSplineB_DLGC	54713	-28589	809
+	Secondary			census		Secondary.CepeRoadTrip.TaxiSplineBackToEstello	0	0	0
+	Secondary			census		Secondary.ClementineWaterPressure.BackToEstello	0	0	0
+	Secondary			census		Secondary.ClementineWaterPressure.ClementineAtEstello_Hello	0	0	0
+	Secondary			census		Secondary.ClementineWaterPressure.ClementineReflecting	0	0	0
+	Secondary			census		Secondary.ClementineWaterPressure.Departure	0	0	0
+	Secondary		30	history	Common_Done	Secondary.ClementineWaterPressure.PumpRepaired			
+	Secondary			census		Secondary.ClementineWaterPressure.QE	0	0	0
+Y	Secondary		30	history	Common_Done	Secondary.ClementineWaterPressure.QuestDone			
+	Secondary			census		Secondary.ClementineWaterPressure.RepairingPump_DS	0	0	0
+	Secondary		30	history	Common_Done	Secondary.ClementineWaterPressure.Start			
+	Secondary		30	history	Common_Done	Secondary.ClementineWaterPressure.StationYes			
+	Secondary			census		Secondary.ClementineWaterPressure.TargetPoint_TaxiSpline_BackToEstello	0	0	0
+	Secondary			census		Secondary.ClementineWaterPressure.TaxiBackSpline	0	0	0
+	Secondary			census		Secondary.ClementineWaterPressure.TaxiGOSpline	0	0	0
+	Secondary			census		Secondary.ClementineWaterPressure.TaxiSplineA_DLG1	63918	-27137	435
+	Secondary			census		Secondary.ClementineWaterPressure.TaxiSplineB_DLG1	43305	-29970	-205
+	Secondary			census		Secondary.ClementineWaterPressure.TaxiSplineB_DLG2	39090	-13515	1945
+	Secondary			census		Secondary.ClementineWaterPressure.TaxiSplineB_DLG3	55249	-17474	-925
+	Secondary			census		Secondary.ClementineWaterPressure.WaterPressureArrival	0	0	0
+	Secondary			census		Secondary.ClementineWaterPressure.WaterPump_Target	0	0	0
+	Secondary			census		Secondary.Common.LostNomadsChill	0	0	0
+	Secondary			census		Secondary.Common.LostNomadsRepair	0	0	0
+	Secondary		30	history	Common_Done	Secondary.CurryFood.CloseCurryAtCamp			
+	Secondary			census		Secondary.CurryFood.CurryAtCamp_DLGScene	0	0	0
+	Secondary			census		Secondary.CurryFood.DLG_Feast	0	0	0
+Y	Secondary	collectible		census		Secondary.CurryFood.MallowA	92171	-40724	1782
+Y	Secondary	collectible	30	both	Mallow_Collected	Secondary.CurryFood.MallowB	90441	-44172	1948
+Y	Secondary	collectible	30	both	Mallow_Collected	Secondary.CurryFood.MallowC	82732	-50075	548
+	Secondary	collectible		census		Secondary.CurryFood.MallowD	78572	-54967	1478
+	Secondary	collectible	50	history	Common_Done	Secondary.CurryFood.MallowDone			
+Y	Secondary	collectible	30	both	Mallow_Collected	Secondary.CurryFood.MallowE	79240	-60645	24
+Y	Secondary	collectible	30	both	Mallow_Collected	Secondary.CurryFood.MallowF	98794	-64338	82
+Y	Secondary	collectible	30	both	Mallow_Collected	Secondary.CurryFood.MallowG	86817	-67793	133
+Y	Secondary	collectible	30	both	Mallow_Collected	Secondary.CurryFood.MallowH	99115	-63998	1190
+Y	Secondary	collectible	30	both	Mallow_Collected	Secondary.CurryFood.MallowI	101590	-46927	580
+	Secondary	collectible		census		Secondary.CurryFood.MallowJ	98247	-37624	1001
+	Secondary	collectible		census		Secondary.CurryFood.MallowK	103036	-32693	84
+	Secondary	collectible		census		Secondary.CurryFood.MallowL	105715	-30572	90
+Y	Secondary	collectible	50	both	Mallow_Collected	Secondary.CurryFood.MallowM	87640	-48956	580
+Y	Secondary	collectible	30	both	Mallow_Collected	Secondary.CurryFood.MallowN	85980	-63184	278
+Y	Secondary	collectible	30	both	Mallow_Collected	Secondary.CurryFood.MallowO	91886	-73303	480
+	Secondary		50	history	Common_Done	Secondary.CurryFood.QuestDone			
+	Secondary			census		Secondary.CurryFood.QuestGiver_Calanques	0	0	0
+	Secondary			census		Secondary.CurryFood.QuestGiver_NomadsCamp	41113	9143	2241
+Y	Secondary		50	both	Sandwich_Collected	Secondary.CurryFood.Sandwich1	58192	36504	5743
+Y	Secondary		30	both	Sandwich_Collected	Secondary.CurryFood.Sandwich10	26061	20113	-860
+Y	Secondary		30	both	Sandwich_Collected	Secondary.CurryFood.Sandwich11	30048	39501	3246
+Y	Secondary		30	both	Sandwich_Collected	Secondary.CurryFood.Sandwich12	45388	9893	4154
+	Secondary			census		Secondary.CurryFood.Sandwich13	65456	-611	2999
+	Secondary			census		Secondary.CurryFood.Sandwich14	79631	-66989	2185
+Y	Secondary		30	both	Sandwich_Collected	Secondary.CurryFood.Sandwich15	76536	-60903	1628
+	Secondary			census		Secondary.CurryFood.Sandwich16	103669	-29195	1846
+	Secondary			census		Secondary.CurryFood.Sandwich17	84870	-7241	3395
+Y	Secondary		30	both	Sandwich_Collected	Secondary.CurryFood.Sandwich18	91988	23589	2011
+Y	Secondary		30	both	Sandwich_Collected	Secondary.CurryFood.Sandwich19	-9167	33998	1008
+	Secondary			census		Secondary.CurryFood.Sandwich2	26703	47329	3661
+	Secondary			census		Secondary.CurryFood.Sandwich20	87541	-38368	2941
+Y	Secondary		50	both	Sandwich_Collected	Secondary.CurryFood.Sandwich3	92992	23487	3717
+	Secondary			census		Secondary.CurryFood.Sandwich4	89044	-9168	1261
+Y	Secondary		30	both	Sandwich_Collected	Secondary.CurryFood.Sandwich5	65685	-8794	329
+Y	Secondary		30	both	Sandwich_Collected	Secondary.CurryFood.Sandwich6	47921	-10001	-26698
+	Secondary			census		Secondary.CurryFood.Sandwich7	1784	-6969	2975
+	Secondary			census		Secondary.CurryFood.Sandwich8	-368	-22149	3843
+	Secondary			census		Secondary.CurryFood.Sandwich9	-3450	-22681	5374
+	Secondary		50	history	Common_Done	Secondary.CurryFood.SandwichDone			
+	Secondary			census		Secondary.CurryFood.Snack1	25231	19091	316
+	Secondary			census		Secondary.CurryFood.Snack2	46097	9835	2950
+	Secondary			census		Secondary.CurryFood.Snack3	106020	-28076	2248
+Y	Secondary		30	both	SnackBar_Collected	Secondary.CurryFood.Snack4	96335	22057	1564
+	Secondary			census		Secondary.CurryFood.Snack5	-3488	-22158	4475
+Y	Secondary		10	both	SnackBar_Collected	Secondary.CurryFood.SnackA	21645	-266077	-35050
+Y	Secondary		30	both	SnackBar_Collected	Secondary.CurryFood.SnackBar1	67911	-25802	275
+Y	Secondary		30	both	SnackBar_Collected	Secondary.CurryFood.SnackBar10	-9813	36802	2845
+Y	Secondary		30	both	SnackBar_Collected	Secondary.CurryFood.SnackBar11	24042	47907	813
+Y	Secondary		30	both	SnackBar_Collected	Secondary.CurryFood.SnackBar12	37694	-26282	542
+Y	Secondary		30	both	SnackBar_Collected	Secondary.CurryFood.SnackBar13	26485	39801	1060
+Y	Secondary		50	both	SnackBar_Collected	Secondary.CurryFood.SnackBar2	35924	-14747	1954
+	Secondary			census		Secondary.CurryFood.SnackBar4	-44484	-5388	193
+Y	Secondary		30	both	SnackBar_Collected	Secondary.CurryFood.SnackBar5	94962	18447	446
+	Secondary			census		Secondary.CurryFood.SnackBar6	77391	15930	233
+	Secondary			census		Secondary.CurryFood.SnackBar7	41179	9290	2263
+	Secondary			census		Secondary.CurryFood.SnackBarA	96828	-38349	1604
+	Secondary			census		Secondary.CurryFood.SnackBar_01	80776	-65525	2749
+	Secondary			census		Secondary.CurryFood.Snackbar3	-14	-22702	3811
+	Secondary		50	history	Common_Done	Secondary.CurryFood.SnacksDone			
+Y	Secondary		50	history	Common_Done	Secondary.CurryFood.UnlockPanVan			
+	Secondary			census		Secondary.ExtraQuests.CatFound	49216	-47873	2562
+	Secondary	collectible		census		Secondary.FetchPlushies.AbricotsBed	76187	-43659	-15128
+	Secondary	collectible		census		Secondary.FetchPlushies.AllPlushiesDialogue	75446	-43826	-15274
+	Secondary	collectible		census		Secondary.FetchPlushies.Bear1	-3484	-23231	5820
+Y	Secondary	collectible	30	both	Plush_CollectedE	Secondary.FetchPlushies.Bear2	70339	-26888	487
+	Secondary	collectible		census		Secondary.FetchPlushies.Bear3	-8615	33320	1565
+	Secondary	collectible		census		Secondary.FetchPlushies.Chicken1	101163	20506	76
+	Secondary	collectible		census		Secondary.FetchPlushies.Chicken2	72862	-42190	3720
+Y	Secondary	collectible	30	both	Plush_CollectedB	Secondary.FetchPlushies.Chicken3	76810	-61700	1552
+	Secondary	collectible		census		Secondary.FetchPlushies.Dino1	-10065	36140	3574
+	Secondary	collectible		census		Secondary.FetchPlushies.Dino2	50521	33373	214
+Y	Secondary	collectible	30	both	Plush_CollectedF	Secondary.FetchPlushies.Dino3	78257	-62585	148
+	Secondary	collectible		census		Secondary.FetchPlushies.Frog1	39925	-40745	2815
+Y	Secondary	collectible	30	both	Plush_CollectedC	Secondary.FetchPlushies.Frog2	16524	-30841	-32446
+	Secondary	collectible		census		Secondary.FetchPlushies.Frog3	91677	-72142	536
+	Secondary	collectible	30	history	Common_Done	Secondary.FetchPlushies.GivePlushA			
+	Secondary	collectible	30	history	Common_Done	Secondary.FetchPlushies.GivePlushB			
+	Secondary	collectible	30	history	Common_Done	Secondary.FetchPlushies.GivePlushC			
+	Secondary	collectible	30	history	Common_Done	Secondary.FetchPlushies.GivePlushD			
+	Secondary	collectible	30	history	Common_Done	Secondary.FetchPlushies.GivePlushE			
+	Secondary	collectible	30	history	Common_Done	Secondary.FetchPlushies.GivePlushF			
+Y	Secondary	collectible	30	both	Plush_CollectedA	Secondary.FetchPlushies.Octopus1	15029	-9826	-512
+	Secondary	collectible		census		Secondary.FetchPlushies.Octopus2	58327	37536	4010
+	Secondary	collectible		census		Secondary.FetchPlushies.Octopus3	81443	-39273	8847
+	Secondary	collectible	30	history	Common_Done	Secondary.FetchPlushies.QuestDone			
+	Secondary	collectible		census		Secondary.FetchPlushies.Shark1	53859	36097	1265
+	Secondary	collectible		census		Secondary.FetchPlushies.Shark2	87539	-34329	3950
+Y	Secondary	collectible	30	both	Plush_CollectedD	Secondary.FetchPlushies.Shark3	102132	-61965	1382
+	Secondary			census		Secondary.HylaAdventure.AfterParty	20648	-34134	-31986
+	Secondary			census		Secondary.HylaAdventure.AqueducEnd	0	0	0
+	Secondary			census		Secondary.HylaAdventure.AqueducSearchZone	28088	41905	959
+	Secondary			census		Secondary.HylaAdventure.AqueducStart	21929	43925	1182
+Y	Secondary		30	both	ArchiveBox_Collected	Secondary.HylaAdventure.ArchivesParabol	92818	23305	1793
+	Secondary		50	history	Common_Done	Secondary.HylaAdventure.Docks.Finished			
+Y	Secondary		50	both	ArchiveBox_Collected	Secondary.HylaAdventure.DocksArchives	91033	-8677	1705
+	Secondary			census		Secondary.HylaAdventure.DocksEnd	0	0	0
+	Secondary			census		Secondary.HylaAdventure.DocksSearchZone	87056	-9860	950
+	Secondary			census		Secondary.HylaAdventure.DocksStart	0	0	0
+	Secondary		30	history	Common_Done	Secondary.HylaAdventure.Labotech.Finished			
+Y	Secondary		30	both	ArchiveBox_Collected	Secondary.HylaAdventure.LabotechArchives	-8030	35039	660
+	Secondary			census		Secondary.HylaAdventure.LabotechEnd	-6063	32788	575
+	Secondary			census		Secondary.HylaAdventure.LabotechSearchZone	-7042	35793	570
+	Secondary			census		Secondary.HylaAdventure.LabotechStart	-5963	32781	570
+	Secondary		30	history	Common_Done	Secondary.HylaAdventure.ParabolRuin.Finished			
+	Secondary			census		Secondary.HylaAdventure.ParabolRuinEnd	0	0	0
+	Secondary			census		Secondary.HylaAdventure.ParabolRuinSearchZone	94700	23357	1483
+	Secondary			census		Secondary.HylaAdventure.ParabolRuinStart	0	0	0
+	Secondary			census		Secondary.HylaAdventure.Party	20503	-33757	-31969
+Y	Secondary		70	history	Common_Done	Secondary.HylaAdventure.QuestDone			
+	Secondary			census		Secondary.HylaAdventure.StartParty	0	0	0
+	Secondary		70	history	Common_Done	Secondary.HylaAdventure.ThesisDone			
+	Secondary			census		Secondary.LamarrCeremony.AfterClosingTomb	0	0	0
+	Secondary			census		Secondary.LamarrCeremony.Ceremony_DS	0	0	0
+	Secondary			census		Secondary.LamarrCeremony.EndQuest_DS	0	0	0
+	Secondary			census		Secondary.LamarrCeremony.GatherItemAreaTarget	0	0	0
+	Secondary			census		Secondary.LamarrCeremony.LamarWantsItemsFrontOfTomb	0	0	0
+	Secondary			census		Secondary.LamarrCeremony.LamarrQG_DS	0	0	0
+N	Secondary	ambient	70	both	MusicInstrument_Collected	Secondary.LamarrCeremony.MusicInstrument	0	0	0
+Y	Secondary	collectible	70	both	OrnementalFlower_Collected	Secondary.LamarrCeremony.OrnementalFlower1	0	0	0
+Y	Secondary	collectible	70	both	OrnementalFlower_Collected	Secondary.LamarrCeremony.OrnementalFlower2	0	0	0
+Y	Secondary	collectible	70	both	OrnementalFlower_Collected	Secondary.LamarrCeremony.OrnementalFlower3	0	0	0
+Y	Secondary	collectible	70	both	OrnementalFlower_Collected	Secondary.LamarrCeremony.OrnementalFlower4	0	0	0
+Y	Secondary	collectible	70	both	OrnementalFlower_Collected	Secondary.LamarrCeremony.OrnementalFlower5	0	0	0
+Y	Secondary		70	history	Common_Done	Secondary.LamarrCeremony.QuestDone			
+	Secondary			census		Secondary.LamarrCeremony.ReadingTomb_WD	65497	29542	634
+	Secondary			census		Secondary.LamarrCeremony.TargetPointTomb	0	0	0
+	Secondary		70	history	Common_Done	Secondary.LamarrCeremony.TombClosed			
+	Secondary	door/gate	70	both	BuriedObject_Pulled	Secondary.LamarrCeremony.TombDoor	64783	29505	677
+	Secondary			census		Secondary.LamarrCeremony.TombEpitaph	64380	29500	580
+	Secondary		30	history	Common_Done	Secondary.LostNomads.Met			
+Y	Secondary	collectible	30	history	Common_Done	Secondary.LostTetos.AllTetoFound			
+	Secondary	collectible		census		Secondary.LostTetos.LostTetoA	35935	-32476	-214
+Y	Secondary	collectible		census		Secondary.LostTetos.LostTetoABack	16543	-31956	-32446
+	Secondary	collectible		census		Secondary.LostTetos.LostTetoB	90509	-37315	3900
+Y	Secondary	collectible		census		Secondary.LostTetos.LostTetoB_Back	16380	-32372	-32446
+	Secondary	collectible		census		Secondary.LostTetos.LostTetoC	36102	-27873	572
+Y	Secondary	collectible		census		Secondary.LostTetos.LostTetoCBack	18831	-31124	-32259
+	Secondary	collectible		census		Secondary.LostTetos.LostTetoD	15612	-22112	2179
+Y	Secondary	collectible		census		Secondary.LostTetos.LostTetoDBack	16048	-32969	-32446
+	Secondary	collectible		census		Secondary.LostTetos.LostTetoE	35424	47280	1654
+Y	Secondary	collectible		census		Secondary.LostTetos.LostTetoEBack	16418	-33221	-32446
+	Secondary	collectible		census		Secondary.LostTetos.LostTetoF	98760	-65775	45
+Y	Secondary	collectible		census		Secondary.LostTetos.LostTetoFBack	17143	-31919	-32360
+	Secondary	collectible		census		Secondary.LostTetos.ParticlesA	36149	-32545	-196
+	Secondary	collectible		census		Secondary.LostTetos.ParticlesB	90552	-37328	3924
+	Secondary	collectible		census		Secondary.LostTetos.ParticlesC	36070	-27772	621
+	Secondary	collectible		census		Secondary.LostTetos.ParticlesD	15621	-22126	2213
+	Secondary	collectible		census		Secondary.LostTetos.ParticlesE	35446	47292	1665
+	Secondary	collectible		census		Secondary.LostTetos.ParticlesF	98765	-65758	68
+	Secondary	collectible	30	history	Common_Done	Secondary.LostTetos.TetoEscaped			
+	Secondary	collectible	30	history	Common_Done	Secondary.LostTetos.TetoFound			
+	Secondary	collectible	30	history	Common_Done	Secondary.LostTetos.TetoRecovered			
+	Secondary	door/gate		census		Secondary.MetaDoorActivation.DarkInstanceCheckpoint	85033	32611	673840
+	Secondary	door/gate		census		Secondary.MetaDoorActivation.DarkMetaNefleSandwitchScene	85704	34079	673840
+	Secondary	door/gate		census		Secondary.MetaDoorActivation.DarkMetaSpaceDoor	84856	32306	673839
+	Secondary	door/gate		census		Secondary.MetaDoorActivation.DarkSandwitchSceneTrigger	85745	34108	673835
+	Secondary	door/gate		census		Secondary.MetaDoorActivation.HangingInAirAfterDarkSandwitch	83412	34846	673835
+	Secondary	door/gate		census		Secondary.MetaDoorActivation.InterludeAfterDarkSandwitch	83872	33223	673835
+	Secondary	door/gate	50	history	Common_Done	Secondary.MetaDoorActivation.MetaDoorActivationAFinish			
+	Secondary	door/gate	70	history	Common_Done	Secondary.MetaDoorActivation.MetaDoorActivationBFinish			
+	Secondary	door/gate	70	history	Common_Done	Secondary.MetaDoorActivation.MetaDoorActivationCFinish			
+	Secondary	door/gate		census		Secondary.MetaDoorActivation.NefleApologies	69472	-44911	-13835
+	Secondary	door/gate		census		Secondary.MetaDoorActivation.NefleAppearMetaDoorA	78928	27598	-27130
+	Secondary	door/gate	70	history	Common_Done	Secondary.MetaDoorActivation.NefleTransferToTaraask			
+	Secondary	door/gate		census		Secondary.MetaDoorActivation.RoseAfterDeepUnderground	83698	-55732	-32352
+	Secondary	door/gate		census		Secondary.MetaDoorActivation.RoseReadyForTaraask	72672	-43562	1454
+	Secondary	door/gate		census		Secondary.MetaDoorActivation.SandwitchDoorActivation	78859	28877	-27200
+	Secondary	door/gate	50	both	SWTeaser_Triggered	Secondary.MetaDoorActivation.SandwitchTeaserCloseDoor	78851	29303	-27224
+	Secondary	door/gate		census		Secondary.MetaDoorActivation.TaxiBackToGarageRoseA	84393	-54700	-32645
+	Secondary	door/gate		census		Secondary.MetaDoorActivation.TaxiBackToGarageRoseB	87778	-70673	225
+	Secondary	door/gate		census		Secondary.MetaDoorActivation.TriggerNefleSceneA	78934	27723	-26751
+	Secondary			census		Secondary.MetaNefleTaraask.AfterGaranceMetaNefle	-34584	-120886	604044
+	Secondary	door/gate		census		Secondary.MetaNefleTaraask.ControlRoomMetaDoor	-76821	-147561	-10433
+	Secondary			census		Secondary.MetaNefleTaraask.GaranceMetaNefle	-34357	-120153	604044
+	Secondary			census		Secondary.MetaNefleTaraask.GaranceTrigger	-34356	-120368	604044
+	Secondary			census		Secondary.MetaNefleTaraask.GoInsideCapsule	-74214	-146061	-10307
+	Secondary	door/gate		census		Secondary.MetaNefleTaraask.MetaDoorTaraask	-34345	-122132	604044
+	Secondary			census		Secondary.MetaNefleTaraask.NefleGaranceEnd	-34358	-120576	604044
+	Secondary			census		Secondary.MetaNefleTaraask.NefleGaranceGenWorldTrigger	-34420	-121610	604319
+	Secondary			census		Secondary.MetaNefleTaraask.SaugeCheckpointMetaNefleTaraask	-34345	-122119	604077
+	Secondary		30	history	Common_Done	Secondary.NomadCamp.CepeDiscussion			
+	Secondary			census		Secondary.NomadCamp.HawkingThinking	44959	9918	2641
+	Secondary		30	history	Common_Done	Secondary.NomadCamp.TalkedAboutSeeds			
+	Secondary			census		Secondary.NomadCamp.YuccaCepeGarden	0	0	0
+	Secondary			census		Secondary.NomadCamps.CampTrigger	0	0	0
+	Secondary			census		Secondary.NomadCamps.DS_Poivron	0	0	0
+	Secondary	door/gate	30	both	GrappableDoor_Broken	Secondary.NomadCamps.LockedDoorNomads	45540	9190	2670
+	Secondary			census		Secondary.NomadCamps.NomadsReunion	0	0	0
+	Secondary			census		Secondary.NomadsNeedRobots.AfterBackToNomads	46829	9684	2494
+	Secondary		50	history	Common_Done	Secondary.NomadsNeedRobots.AskedNavigationComputerAtReunion			
+	Secondary		50	history	Common_Done	Secondary.NomadsNeedRobots.CafeReunion			
+	Secondary		50	both	NavigationComputer_Collected	Secondary.NomadsNeedRobots.NavigationComputerA	51184	35746	1968
+	Secondary		50	history	Common_Done	Secondary.NomadsNeedRobots.QuestDone			
+	Secondary			census		Secondary.NomadsNeedRobots.SaugeFoundNavigationComputer	51326	35969	1978
+	Secondary			census		Secondary.NomadsNeedRobots.TaxiBackToNomads	50663	34384	177
+N	Secondary	ambient		census		Secondary.NomadsNeedRobots.VanDialogueNomadsNeedRobots	47231	31622	305
+	Secondary	door/gate		census		Secondary.OpenReinetoDoor.OpenDoorDS	35550	-33221	-220
+	Secondary			census		Secondary.OrgeatScavengerHunt.AfterTagOrgeat	0	0	0
+	Secondary			census		Secondary.OrgeatScavengerHunt.ArrivedAtDock_DS	0	0	0
+	Secondary			census		Secondary.OrgeatScavengerHunt.ContainerArea	0	0	0
+	Secondary	vanjump		census		Secondary.OrgeatScavengerHunt.CurryHawkingJumpscare	0	0	0
+	Secondary			census		Secondary.OrgeatScavengerHunt.GrappableA01	0	0	0
+	Secondary		30	both	GrappableDoor_Broken	Secondary.OrgeatScavengerHunt.GrappableA02	0	0	0
+	Secondary			census		Secondary.OrgeatScavengerHunt.GrappableA03	0	0	0
+	Secondary		30	both	GrappableDoor_Broken	Secondary.OrgeatScavengerHunt.GrappableA04	0	0	0
+	Secondary		30	both	GrappableDoor_Broken	Secondary.OrgeatScavengerHunt.GrappableA05	0	0	0
+N	Secondary	ambient		census		Secondary.OrgeatScavengerHunt.InteractSelfTalk_ContainerA	0	0	0
+N	Secondary	ambient		census		Secondary.OrgeatScavengerHunt.InteractSelfTalk_ContainerB	0	0	0
+N	Secondary	ambient		census		Secondary.OrgeatScavengerHunt.InteractSelftalk_ContainerC	0	0	0
+N	Secondary	ambient		census		Secondary.OrgeatScavengerHunt.InteractSelftalk_ContainerD	0	0	0
+	Secondary			census		Secondary.OrgeatScavengerHunt.InterludeOrgeatQuest	0	0	0
+	Secondary		30	both	ScrapMetal_Collected	Secondary.OrgeatScavengerHunt.JunkInContainer	95506	1370	71
+	Secondary		30	both	ScrapMetal_Collected	Secondary.OrgeatScavengerHunt.JunkInContainer1	87792	684	95
+	Secondary		30	both	ScrapMetal_Collected	Secondary.OrgeatScavengerHunt.JunkInContainer2	95088	1387	108
+	Secondary			census		Secondary.OrgeatScavengerHunt.OrgeatBackToNomadCamp	0	0	0
+	Secondary			census		Secondary.OrgeatScavengerHunt.OrgeatCurryArgument	0	0	0
+	Secondary			census		Secondary.OrgeatScavengerHunt.OrgeatFilters	91555	-4565	-60
+	Secondary			census		Secondary.OrgeatScavengerHunt.OrgeatQG_DS	0	0	0
+	Secondary			census		Secondary.OrgeatScavengerHunt.OrgeatQuest_VanTP	0	0	0
+	Secondary			census		Secondary.OrgeatScavengerHunt.OrgeatSaugeThanks	0	0	0
+	Secondary			census		Secondary.OrgeatScavengerHunt.OrgeatSurprised	0	0	0
+	Secondary		30	history	Common_Done	Secondary.OrgeatScavengerHunt.QuestDone			
+	Secondary		30	history	Common_Done	Secondary.OrgeatScavengerHunt.QuestStarted			
+	Secondary			census		Secondary.OrgeatScavengerHunt.TargetPointContainer	0	0	0
+	Secondary			census		Secondary.OrgeatScavengerHunt.TaxiAToDocks	0	0	0
+	Secondary			census		Secondary.OrgeatScavengerHunt.TaxiBToNomadCamp	0	0	0
+	Secondary			census		Secondary.OrgeatScavengerHunt.TaxiSplineA_DLG1	53920	15278	1450
+	Secondary			census		Secondary.OrgeatScavengerHunt.TaxiSplineA_DLG2	71355	17020	-100
+	Secondary			census		Secondary.OrgeatScavengerHunt.TaxiSplineB_DLG1	72765	15040	-55
+	Secondary			census		Secondary.OrgeatScavengerHunt.TriggerContainerA	0	0	0
+	Secondary			census		Secondary.OrgeatScavengerHunt.TriggerContainerB	0	0	0
+	Secondary			census		Secondary.OrgeatScavengerHunt.TriggerContainerC	0	0	0
+	Secondary			census		Secondary.OrgeatScavengerHunt.TriggerContainerD	0	0	0
+	Secondary			census		Secondary.PotoGlider.OutOfCaveTrigger	35265	-33012	-340
+	Secondary			census		Secondary.PotoGlider.PotoFunTaxiBarks	37490	-29451	-120
+	Secondary			census		Secondary.PotoGlider.PotoImpressTaxiBarks	40122	-26644	129
+	Secondary			census		Secondary.PotoGlider.PotoTaxiOutOfRuins_SpaceshipWD	30240	-17530	330
+	Secondary			census		Secondary.PotoGlider.PotoinReinetosCave_DS	0	0	0
+	Secondary		50	history	Common_Done	Secondary.Robots.Met			
+N	Secondary	ambient		census		Secondary.RoseToolRobot.AfterGardeningDialogueScene	0	0	0
+	Secondary	collectible		census		Secondary.RoseToolRobot.AwakeCollectorRobotDialogueScene	0	0	0
+	Secondary	door/gate		census		Secondary.RoseToolRobot.ButtonTrigger	0	0	0
+	Secondary	door/gate	30	history	Common_Done	Secondary.RoseToolRobot.CollectorDoorOpen			
+	Secondary	collectible		census		Secondary.RoseToolRobot.CollectorRobotAreaTrigger	0	0	0
+	Secondary		30	both	RoseTool_Collected	Secondary.RoseToolRobot.ItemRoseTool	0	0	0
+	Secondary		30	history	Common_Done	Secondary.RoseToolRobot.QuestDone			
+	Secondary		30	history	Common_Done	Secondary.RoseToolRobot.QuestGiven			
+	Secondary		30	history	Common_Done	Secondary.RoseToolRobot.Reacted			
+	Secondary			census		Secondary.RoseToolRobot.RobotBeach	86755	-58623	515
+	Secondary			census		Secondary.RoseToolRobot.RobotOutside	79600	-61300	50
+	Secondary			census		Secondary.RoseToolRobot.RobotPlaceInTP	77239	-62004	243
+N	Secondary	ambient		census		Secondary.RoseToolRobot.RoseGardeningDialogueScene	0	0	0
+	Secondary			census		Secondary.RoseToolRobot.RoseToolTrigger	0	0	0
+	Secondary	scrap	70	both	ScrapMetal_Collected	Secondary.RoseToolRobot.Scrap_CalanqueGate_02	105595	-28864	2193
+	Secondary		30	history	Common_Done	Secondary.RoseToolRobot.TakeRoseTool			
+	Secondary		30	history	Common_Done	Secondary.RoseToolRobot.ToolDelivered			
+	Secondary			census		Secondary.SafranWrongParcel.AfterWrongParcel_Safran	0	0	0
+	Secondary			census		Secondary.SafranWrongParcel.ConsortiumLocker	105624	-34655	817
+	Secondary			census		Secondary.SafranWrongParcel.DeliveryInteractable	105555	-34760	975
+	Secondary		70	history	Common_Done	Secondary.SafranWrongParcel.GiveDelivery			
+	Secondary			census		Secondary.SafranWrongParcel.LockerTrigger	0	0	0
+	Secondary			census		Secondary.SafranWrongParcel.ParcelKeepOrGive_DS	0	0	0
+	Secondary			census		Secondary.SafranWrongParcel.QE	0	0	0
+	Secondary		70	history	Common_Done	Secondary.SafranWrongParcel.QuestDone			
+	Secondary			census		Secondary.SafranWrongParcel.SafranAtBakeryAngry	0	0	0
+	Secondary			census		Secondary.SafranWrongParcel.SaugeParcelTP	0	0	0
+	Secondary		70	history	Common_Done	Secondary.SafranWrongParcel.SendParcelDirectly			
+	Secondary		70	history	Common_Done	Secondary.SafranWrongParcel.TalkedToLocker			
+	Secondary			census		Secondary.SafranWrongParcel.TargetPoint	0	0	0
+	Secondary			census		Secondary.SafranWrongParcel.TargetPoint2	0	0	0
+	Secondary	collectible		census		Secondary.SandwitchClues.AmbientQuestDone	21888	-32511	-31300
+	Secondary	collectible		census		Secondary.SandwitchClues.BombA	2527	-7299	2872
+	Secondary	collectible		census		Secondary.SandwitchClues.BombB	87132	-10005	66
+	Secondary	collectible		census		Secondary.SandwitchClues.BombC	28956	41518	2527
+Y	Secondary	collectible	30	both	SandwitchClue_Collected	Secondary.SandwitchClues.BombD	49432	-14194	-26580
+	Secondary	collectible		census		Secondary.SandwitchClues.DetonatorA	25084	42703	2796
+	Secondary	collectible		census		Secondary.SandwitchClues.DetonatorB	-4416	35594	3029
+Y	Secondary	collectible	30	both	SandwitchClue_Collected	Secondary.SandwitchClues.DetonatorC	91726	23745	2923
+	Secondary	collectible		census		Secondary.SandwitchClues.DetonatorD	64622	29398	1409
+	Secondary	collectible		census		Secondary.SandwitchClues.FuscusIntervention	17149	-30472	-32463
+	Secondary	collectible	30	history	Common_Done	Secondary.SandwitchClues.GaveClue			
+	Secondary	collectible		census		Secondary.SandwitchClues.HatA	82873	-9632	2439
+	Secondary	collectible		census		Secondary.SandwitchClues.HatB	17763	43646	539
+Y	Secondary	collectible	30	both	SandwitchClue_Collected	Secondary.SandwitchClues.HatC	84788	-34956	2760
+	Secondary	collectible		census		Secondary.SandwitchClues.HatD	-5489	38498	1434
+	Secondary	collectible	30	history	Common_Done	Secondary.SandwitchClues.IntroducedToScarecrow			
+	Secondary	collectible	30	history	Common_Done	Secondary.SandwitchClues.MissedRanaAfterOpenCave			
+	Secondary	collectible	30	history	Common_Done	Secondary.SandwitchClues.Mistake			
+	Secondary	collectible	30	history	Common_Done	Secondary.SandwitchClues.Perfect			
+Y	Secondary	collectible	30	both	SandwitchClue_Collected	Secondary.SandwitchClues.PhotoA	73424	-42252	4262
+	Secondary	collectible		census		Secondary.SandwitchClues.PhotoB	105580	-30435	2190
+	Secondary	collectible		census		Secondary.SandwitchClues.PhotoC	100712	-31365	6831
+	Secondary	collectible		census		Secondary.SandwitchClues.PhotoD	60587	-36566	3780
+	Secondary	collectible	30	history	Common_Done	Secondary.SandwitchClues.QuestDone			
+	Secondary	collectible		census		Secondary.SandwitchClues.SandwitchApparition	15519	-29962	-31305
+	Secondary	collectible		census		Secondary.SandwitchClues.ScarecrowScene	16792	-30573	-32460
+Y	Secondary	collectible	30	both	SandwitchClue_Collected	Secondary.SandwitchClues.ScarfA	102663	-46193	2290
+	Secondary	collectible		census		Secondary.SandwitchClues.ScarfB	75324	-63059	2920
+	Secondary	collectible		census		Secondary.SandwitchClues.ScarfC	50398	35530	2431
+	Secondary	collectible		census		Secondary.SandwitchClues.ScarfD	31881	-648	-567
+Y	Secondary	collectible	30	history	Common_Done	Secondary.SandwitchClues.Success			
+	Secondary	collectible		census		Secondary.SandwitchClues.TestCamera	18005	-30284	-32988
+	Secondary	collectible		census		Secondary.SandwitchClues.TestDetonator	17956	-30363	-32988
+	Secondary	collectible		census		Secondary.SandwitchClues.TestHat	17867	-30291	-32988
+	Secondary	collectible		census		Secondary.SandwitchClues.TestScarf	18134	-30397	-32988
+	Secondary	collectible		census		Secondary.SandwitchClues.TestToolbox	17767	-30236	-32988
+	Secondary			census		Secondary.TuringConsciousness.ConsciousRobotA	-2385	32187	-29069
+	Secondary			census		Secondary.TuringConsciousness.ConsciousRobotB	-26118	-12768	-28989
+	Secondary			census		Secondary.TuringConsciousness.ConsciousRobotC	78701	31654	-28601
+	Secondary			census		Secondary.TuringConsciousness.ConsciousRobotD	82130	-12747	-29230
+	Secondary			census		Secondary.TuringConsciousness.ConsciousRobotE	85000	-51950	-32050
+	Secondary	collectible	70	history	Common_Done	Secondary.TuringConsciousness.ConsciousnessCollected			
+	Secondary		50	history	Common_Done	Secondary.TuringConsciousness.ConsciousnessFound			
+	Secondary		70	history	Common_Done	Secondary.TuringConsciousness.FoundRobotA			
+	Secondary		70	history	Common_Done	Secondary.TuringConsciousness.FoundRobotB			
+	Secondary		50	history	Common_Done	Secondary.TuringConsciousness.FoundRobotC			
+	Secondary		70	history	Common_Done	Secondary.TuringConsciousness.FoundRobotD			
+	Secondary		70	history	Common_Done	Secondary.TuringConsciousness.FoundRobotE			
+	Secondary		70	history	Common_Done	Secondary.TuringConsciousness.QuestDone			
+	Secondary		50	history	Common_Done	Secondary.TuringConsciousness.QuestGiven			
+	Secondary			census		Secondary.TuringConsciousness.RobotMapMarkerA	-2420	32163	-28928
+	Secondary			census		Secondary.TuringConsciousness.RobotMapMarkerB	-26115	-12838	-28949
+	Secondary			census		Secondary.TuringConsciousness.RobotMapMarkerC	78719	31639	-28598
+	Secondary			census		Secondary.TuringConsciousness.RobotMapMarkerD	82157	-12813	-29230
+	Secondary			census		Secondary.TuringConsciousness.RobotMapMarkerE	85023	-52055	-32152
+	Secondary			census		Secondary.TuringConsciousness.Server	52118	33677	1978
+	Secondary			census		Secondary.TuringConsciousness.ServerEnd	52149	33707	1978
+	Secondary			census		Secondary.TuringConsciousness.TuringQuestEnd	51677	34111	1977
+Y	Secondary	shop	70	history	Common_Done	Secondary.VanShop.BuySkinA			
+Y	Secondary	shop	70	history	Common_Done	Secondary.VanShop.BuySkinB			
+Y	Secondary	shop	90	history	Common_Done	Secondary.VanShop.BuySkinC			
+Y	Secondary	shop	90	history	Common_Done	Secondary.VanShop.BuySkinD			
+Y	Secondary	shop	90	history	Common_Done	Secondary.VanShop.BuySkinE			
+	Secondary	shop		census		Secondary.VanShop.HylaSurprise	76970	-52587	1294
+	Secondary	shop		census		Secondary.VanShop.Lamarr	76486	-51133	996
+	Secondary	shop		census		Secondary.VanShop.LamarrHyla	76477	-51138	993
+	Secondary	shop	70	history	Common_Done	Secondary.VanShop.MetLamarr			
+	Secondary	shop		census		Secondary.VanShop.ToasterUpdateTrigger	75330	-51085	-25
+	Secondary	shop		census		Secondary.VanShop.VanShop	75075	-51179	1100
+	World			census		World.Accessibility.TtsSpeaker	10	50	0
+	World	jammer		census		World.Boundaries.JammersPosition	29400	40450	270
+	World			census		World.Calanques.BridgeTP	72787	-42959	3023
+	World			census		World.Calanques.CalanqueMiddle	91977	-55003	-98
+	World			census		World.Calanques.LeftOfBridgeBeforeRosesPlace_LoadArea	84500	-58590	521
+	World			census		World.Calanques.LoadArea	98706	-62462	43
+	World		20	both	LocationNotifier_Discovered	World.Calanques.LocationNotifierCalanques	96730	-46640	2020
+	World	collectible		census		World.Calanques.PhotoSWClue1	0	0	0
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques.ScrapC	90016	-61007	4
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Calanques.ScrapJ	105151	-30160	913
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Calanques.ScrapK	105286	-30111	1063
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques.ScrapL	74790	-45498	1554
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques.ScrapO	102547	-46306	2440
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques.ScrapT	85851	-70696	1094
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques.Scrap_115	84894	-56924	388
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques.Scrap_23	93337	-59829	8
+	World			census		World.Calanques.SignsHint_01	85870	-61962	517
+	World			census		World.Calanques.SignsHint_02	84173	-50814	451
+	World			census		World.Calanques.SignsHint_05	86167	-58947	491
+	World			census		World.Calanques.SignsHint_06	85272	-59089	569
+	World			census		World.Calanques.SignsHint_07	86654	-61612	379
+Y	World	sitspot	30	both	SitSpot_Discovered	World.Calanques.SitSpotCalanque_02	90480	-46199	2604
+Y	World	sitspot	90	both	SitSpot_Discovered	World.Calanques.SmallPlaformSitSpot	78481	-30788	8219
+Y	World	collectible	30	both	SmallRadio_Discovered	World.Calanques.SmallRadio	94000	-60345	1448
+	World		20	both	Common_Done	World.Calanques.VanBoostTutorial	0	0	0
+	World	vanjump	90	both	VanJump_Triggered	World.Calanques.VanJump7	85022	-57297	876
+	World		20	both	Common_Done	World.Calanques.VanMoveTutorial	0	0	0
+N	World	ambient		census		World.Calanques.WorldDialogue_27	98933	-65285	133
+N	World	ambient		census		World.Calanques.WorldDialogue_55	83102	-45076	2196
+N	World	ambient		census		World.Calanques.WorldDialogue_57	93053	-28420	3130
+N	World	ambient		census		World.Calanques.WorldDialogue_58	96242	-42873	1419
+	World			census		World.CalanquesHigh.DroneEnding	96027	-28713	2941
+N	World	ambient		census		World.CalanquesHigh.DroneStartSelfTalk	95909	-65089	2946
+	World			census		World.CalanquesHigh_MediumFactoryRuin.AudioSpline	87700	-32440	2650
+	World			census		World.CalanquesHigh_MediumFactoryRuin.AudioSpline2	86850	-38350	3030
+	World	door/gate		census		World.CalanquesHigh_MediumFactoryRuin.BatteryDoor	86616	-34234	2505
+	World	energy		census		World.CalanquesHigh_MediumFactoryRuin.BridgeHgenerator	85974	-34662	4040
+	World	door/gate	30	both	Energy_Activated	World.CalanquesHigh_MediumFactoryRuin.ButtonDoor	86518	-34067	2512
+	World	door/gate		census		World.CalanquesHigh_MediumFactoryRuin.ButtonsBattery	87215	-35294	3950
+	World	door/gate		census		World.CalanquesHigh_MediumFactoryRuin.ButtonsFork	87023	-35344	4003
+	World	energy		census		World.CalanquesHigh_MediumFactoryRuin.EnergyLadder_01	87336	-35564	3249
+	World	door/gate		census		World.CalanquesHigh_MediumFactoryRuin.EntranceDoor	87124	-33201	2908
+	World	door/gate		census		World.CalanquesHigh_MediumFactoryRuin.EntranceDoorBattery	86871	-32795	2532
+	World			census		World.CalanquesHigh_MediumFactoryRuin.EntranceTPLookIn	89282	-31980	2474
+	World	energy		census		World.CalanquesHigh_MediumFactoryRuin.GrappleGeneratorBridge	87323	-35120	4261
+	World	door/gate	30	both	Energy_Activated	World.CalanquesHigh_MediumFactoryRuin.LadderButton	87148	-35617	3246
+	World			census		World.CalanquesHigh_MediumFactoryRuin.LoadArea	92805	-32812	2543
+	World		30	both	LocationNotifier_Discovered	World.CalanquesHigh_MediumFactoryRuin.LocationNotifier	86475	-34557	3575
+	World			census		World.CalanquesHigh_MediumFactoryRuin.MFR_Bridge_02	85271	-35459	3216
+	World		30	both	Energy_Activated	World.CalanquesHigh_MediumFactoryRuin.MFR_Cam	87378	-32965	2507
+	World		70	both	Energy_Activated|Energy_Deactivated|Energy_Hacked	World.CalanquesHigh_MediumFactoryRuin.MFR_Cam_02	86799	-38010	2850
+	World	door/gate	70	both	Energy_Activated	World.CalanquesHigh_MediumFactoryRuin.MFR_TButton	85401	-35334	3240
+	World	door/gate		census		World.CalanquesHigh_MediumFactoryRuin.MFR_TDoor	86976	-38205	2850
+Y	World	scrap	70	both	ScrapMetal_Collected	World.CalanquesHigh_MediumFactoryRuin.Scrap	85570	-36180	4150
+Y	World	scrap	70	both	ScrapMetal_Collected	World.CalanquesHigh_MediumFactoryRuin.Scrap1	85854	-33175	3924
+Y	World	scrap	70	both	ScrapMetal_Collected	World.CalanquesHigh_MediumFactoryRuin.Scrap2	86851	-38673	2916
+Y	World	scrap	70	both	ScrapMetal_Collected	World.CalanquesHigh_MediumFactoryRuin.Scrap3	84263	-35111	3944
+Y	World	scrap	70	both	ScrapMetal_Collected	World.CalanquesHigh_MediumFactoryRuin.Scrap6	85900	-37145	3790
+Y	World	scrap	30	both	ScrapMetal_Collected	World.CalanquesHigh_MediumFactoryRuin.Scrap_108	87049	-35039	3335
+Y	World	scrap	70	both	ScrapMetal_Collected	World.CalanquesHigh_MediumFactoryRuin.Scrap_118	85712	-37171	3760
+Y	World	scrap	70	both	ScrapMetal_Collected	World.CalanquesHigh_MediumFactoryRuin.Scrap_44	87140	-38638	2899
+Y	World	scrap	30	both	ScrapMetal_Collected	World.CalanquesHigh_MediumFactoryRuin.Scrap_53	85864	-33521	3229
+Y	World	scrap	70	both	ScrapMetal_Collected	World.CalanquesHigh_MediumFactoryRuin.Scrap_59	84295	-36496	4392
+Y	World	scrap	70	both	ScrapMetal_Collected	World.CalanquesHigh_MediumFactoryRuin.Scrap_93	86104	-33114	4057
+	World			census		World.CalanquesHigh_MediumFactoryRuin.SmallRoomBattery	87582	-38708	2850
+	World	door/gate	70	both	Energy_Activated	World.CalanquesHigh_MediumFactoryRuin.SmallRoomLever	87694	-38579	2849
+Y	World	scrap	30	both	ScrapMetal_Collected	World.CalanquesHigh_MediumFactoryRuin.SmallScrapA	86433	-35046	2574
+Y	World	scrap	30	both	ScrapMetal_Collected	World.CalanquesHigh_MediumFactoryRuin.SmallScrapB	86652	-34830	2574
+Y	World	scrap	30	both	ScrapMetal_Collected	World.CalanquesHigh_MediumFactoryRuin.SmallScrapD	85230	-36643	2658
+Y	World	scrap	30	both	ScrapMetal_Collected	World.CalanquesHigh_MediumFactoryRuin.SmallScrapF	85776	-36226	3315
+	World	door/gate		census		World.CalanquesHigh_MediumFactoryRuin.TDoorPlateBattery	86556	-38492	2850
+	World	door/gate		census		World.CalanquesHigh_MediumFactoryRuin.TPDoorInsideStairsBot	86577	-30886	-32300
+	World	door/gate		census		World.CalanquesHigh_MediumFactoryRuin.TPDoorInsideStairsTop	86310	-30598	-30700
+	World	door/gate		census		World.CalanquesHigh_MediumFactoryRuin.TPDoorUndergroundPlateBattery	87587	-45562	-31679
+	World	door/gate		census		World.CalanquesHigh_MediumFactoryRuin.TPDoorUndergroundePlate	88237	-45618	-31679
+	World	door/gate		census		World.CalanquesHigh_MediumFactoryRuin.TP_Door_Generator	91982	-35091	2589
+	World	door/gate		census		World.CalanquesHigh_MediumFactoryRuin.TP_Door_Generator_Underground	87823	-45962	-31679
+Y	World		70	both	ToasterBox_Collected|ToasterBox_Hacked	World.CalanquesHigh_MediumFactoryRuin.ToasterBox	84574	-35592	4260
+	World	door/gate		census		World.CalanquesHigh_MediumFactoryRuin.TpDoorGenerator_Down	84105	-36236	4260
+	World	door/gate		census		World.CalanquesHigh_MediumFactoryRuin.TpDoorGenerator_Up	82665	-37445	7855
+	World	energy		census		World.CalanquesHigh_MediumFactoryRuin.WindTurbineRelay	83612	-37628	7850
+N	World	ambient		census		World.CalanquesHigh_MediumFactoryRuin.WorldDialogue_54	77544	-37178	7883
+N	World	ambient		census		World.CalanquesHigh_MediumFactoryRuin.WorldDialogue_57	85284	-33217	3330
+N	World	ambient		census		World.CalanquesHigh_MediumFactoryRuin.WorldDialogue_63	85862	-34699	2649
+Y	World	scrap	70	both	ScrapMetal_Collected	World.CalanquesHigh_MediumFactoryRuin.scrap7	84505	-36575	4460
+Y	World	collectible	30	both	ScrapMetal_Collected	World.Calanques_CollectibleRuinA.Collectible_CallectibleRuin02	91498	-40935	2605
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques_CollectibleRuinB.Scrap_01	100452	-60824	38
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques_CollectibleRuinC.Scrap_98	80546	-53147	2664
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques_CollectibleRuinC.SmallScrapA	79290	-53854	1711
+	World	door/gate		census		World.Calanques_Gate.CalanqueSideTPLookOut	104596	-30235	229
+	World	door/gate		census		World.Calanques_Gate.Calanques_GateVehicleDoor	104559	-29312	230
+	World	door/gate		census		World.Calanques_Gate.DesertSideTPLookOut	104489	-28439	229
+	World	door/gate	50	both	Energy_Activated	World.Calanques_Gate.GateButton	103544	-29614	1691
+	World	door/gate		census		World.Calanques_Gate.GateButtonBattery	103302	-29594	1691
+	World	door/gate		census		World.Calanques_Gate.GateFork	103733	-29542	1749
+	World	door/gate	50	both	Energy_Activated|Energy_Deactivated	World.Calanques_Gate.GatePlate1	104558	-29970	231
+	World	door/gate	50	both	Energy_Activated|Energy_Deactivated	World.Calanques_Gate.GatePlate2	104566	-28517	231
+	World	door/gate	50	both	LocationNotifier_Discovered	World.Calanques_Gate.LocationNotifier	103286	-27468	287
+Y	World	scrap	90	both	ScrapMetal_Collected	World.Calanques_Gate.Scrap_138	91778	27082	3679
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Calanques_Gate.Scrap_17	103414	-29805	342
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Calanques_Gate.Scrap_192	105131	-29833	914
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Calanques_Gate.Scrap_74	105285	-34382	248
+Y	World	door/gate	70	both	SmallRadio_Discovered	World.Calanques_Gate.TrainStationRadio	105947	-28094	2248
+	World	door/gate		census		World.Calanques_Gate.WorldDialogue_19	104490	-30527	338
+	World	energy		census		World.Calanques_LandmarkRuin.EnergyLadderA	102984	-46020	2185
+	World			census		World.Calanques_LandmarkRuin.LadderBattery	103463	-46858	2185
+	World	door/gate	30	both	Energy_Activated	World.Calanques_LandmarkRuin.LadderButton	103306	-46295	2185
+	World			census		World.Calanques_LandmarkRuin.LandmarkRuinCalanques	102635	-46437	2290
+	World		30	both	LocationNotifier_Discovered	World.Calanques_LandmarkRuin.LocationNotifier	102695	-47369	2330
+	World		30	both	SWTeaser_Triggered	World.Calanques_LandmarkRuin.SandwitchTeaser	102291	-46871	2300
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques_LandmarkRuin.ScrapB	104215	-48382	2499
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques_LandmarkRuin.ScrapE	102794	-47514	4112
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques_LandmarkRuin.Scrap_27	102819	-47591	4168
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques_LandmarkRuin.SmallScrapA	102991	-47362	2802
+Y	World		90	both	ToasterBox_Hacked	World.Calanques_LandmarkRuin.ToasterBox	103798	-48374	2400
+N	World	ambient		census		World.Calanques_LandmarkRuin.WorldDialogue_01	102837	-46916	4224
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques_MicroRuinCollectibleA.Scrap_MicroRuin_Calanque	90586	-43310	1960
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques_MicroRuinCollectibleB.Scrap_MicroRuinCalanque	91233	-65544	1969
+	World			census		World.Calanques_RoseHome.AnimalGoatBrown	89463	-72554	276
+	World			census		World.Calanques_RoseHome.AnimalGoatGrey	89390	-72603	295
+	World			census		World.Calanques_RoseHome.AnimalSheep	89225	-72733	316
+	World			census		World.Calanques_RoseHome.AreaTrigger	90389	-73446	768
+	World	door/gate		census		World.Calanques_RoseHome.ButtonPylonUnderground	92790	-68154	-31727
+	World	door/gate		census		World.Calanques_RoseHome.EnergyDoorUndergroundA	85958	-56839	-32347
+	World			census		World.Calanques_RoseHome.EnterRoseHome	90544	-72404	678
+	World			census		World.Calanques_RoseHome.ExitRoseHome	90410	-72555	-23200
+N	World	ambient		census		World.Calanques_RoseHome.GardenMemoryWorldDialogue_01	87730	-72360	470
+N	World	ambient		census		World.Calanques_RoseHome.GardenMemoryWorldDialogue_02	93392	-73778	565
+N	World	ambient		census		World.Calanques_RoseHome.GardenMemoryWorldDialogue_03	92260	-72900	600
+	World			census		World.Calanques_RoseHome.GardenTPLookIn	91170	-73190	470
+	World	energy		census		World.Calanques_RoseHome.GrappleGeneratorUnderground	86495	-56226	-32573
+	World			census		World.Calanques_RoseHome.InsideRoseHome	90477	-72707	-23316
+	World			census		World.Calanques_RoseHome.InsideRoseHomeTea	91297	-73001	-23571
+	World			census		World.Calanques_RoseHome.InterludeRoseOnlySauge	0	0	0
+	World			census		World.Calanques_RoseHome.Interlude_RoseArea	0	0	0
+	World			census		World.Calanques_RoseHome.LoadArea	90322	-70172	60
+	World		20	both	LocationNotifier_Discovered	World.Calanques_RoseHome.LocationNotifierCalanques_RoseHome	88590	-73380	1300
+	World			census		World.Calanques_RoseHome.OutsideRoseHome	90410	-72254	557
+	World	energy		census		World.Calanques_RoseHome.RElayBatteryC	86590	-70232	995
+	World	energy		census		World.Calanques_RoseHome.RelayBatteryA	83201	-37661	7855
+	World	energy		census		World.Calanques_RoseHome.RelayBatteryB	96021	-65383	2498
+	World	door/gate	70	both	Energy_Activated	World.Calanques_RoseHome.RelayLeverA	83347	-37559	7855
+	World	door/gate	70	both	Energy_Activated	World.Calanques_RoseHome.RelayLeverB	95893	-65795	2655
+Y	World	sitspot	30	both	SitSpot_Discovered	World.Calanques_RoseHome.RoseHomeSitSpotRocks	86495	-66917	1971
+	World			census		World.Calanques_RoseHome.RoseHouse_TiggerArea	90917	-72362	865
+	World	energy		census		World.Calanques_RoseHome.RoseRelayB	86668	-70308	927
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques_RoseHome.Scrap_184	86620	-69642	998
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques_RoseHome.Scrap_Calanques_RoseHome_A	86995	-72056	395
+	World			census		World.Calanques_RoseHome.SleepSpotRose	91556	-73059	-23562
+N	World	ambient		census		World.Calanques_RoseHome.SmallHulkWorldDialogue	92260	-70640	148
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques_RoseHome.SmallScrapA	94657	-73379	58
+	World	door/gate	70	both	Energy_Activated|Energy_Deactivated|Energy_Hacked	World.Calanques_RoseHome.TPDoorPlate	86702	-70873	268
+	World	door/gate		census		World.Calanques_RoseHome.TPDoorUndergroundPlate	92952	-67409	-31669
+	World	door/gate		census		World.Calanques_RoseHome.TPDoorUndergroundPlateBattery	92896	-68052	-31669
+	World	door/gate		census		World.Calanques_RoseHome.TP_Door_Rose	86384	-70568	286
+	World	door/gate		census		World.Calanques_RoseHome.TP_Door_Underground	93279	-67735	-31653
+Y	World		70	both	ToasterBox_Collected|ToasterBox_Hacked	World.Calanques_RoseHome.ToasterBoxRose	90444	-71943	454
+	World			census		World.Calanques_RoseHome.UndergroundMarkerA	86454	-70632	326
+	World	energy		census		World.Calanques_RoseHome.UndergroundRelayRose	92918	-64282	-31683
+	World	energy		census		World.Calanques_RoseHome.UndergroundRelayRose2	90041	-56376	-32697
+	World			census		World.Calanques_RoseHome.WoodStairsTP	90150	-71320	250
+Y	World		30	both	ScrapMetal_Collected	World.Calanques_RoseHome.ledge	89318	-73309	1595
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques_RuinVillage.ScrapA	74586	-50856	2200
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques_RuinVillage.ScrapB	79407	-53854	1711
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques_RuinVillage.Scrap_01	74568	-51385	2323
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques_RuinVillage.Scrap_128	76214	-48906	1110
+	World			census		World.Calanques_RuinWaterTreatment.AreaTrigger	77533	-64555	1702
+	World			census		World.Calanques_RuinWaterTreatment.Battery	84945	-56913	-32352
+	World			census		World.Calanques_RuinWaterTreatment.BatteryLadderInside	79677	-64379	47
+	World	door/gate		census		World.Calanques_RuinWaterTreatment.BigTunnelDoorButtonBattery	80251	-63645	450
+	World	door/gate		census		World.Calanques_RuinWaterTreatment.BigTunnelDoorGakeReceptor	79338	-62308	293
+	World	door/gate	30	both	Energy_Activated	World.Calanques_RuinWaterTreatment.ButtonLadderInside	79462	-64448	-10
+	World			census		World.Calanques_RuinWaterTreatment.ComputerRoomSpline	80760	-65350	2020
+	World	door/gate	70	both	Energy_Activated	World.Calanques_RuinWaterTreatment.ControlRoomLever	80712	-65392	1558
+	World	door/gate		census		World.Calanques_RuinWaterTreatment.ControlRoomLeverBattery	80865	-65244	1659
+	World	door/gate		census		World.Calanques_RuinWaterTreatment.EnergyDoor_01	77583	-62768	200
+	World	energy		census		World.Calanques_RuinWaterTreatment.EnergyLadder_01	78653	-61269	974
+	World	energy		census		World.Calanques_RuinWaterTreatment.EnergyLadder_02	80304	-64168	1476
+	World			census		World.Calanques_RuinWaterTreatment.EntrySpline	78730	-62950	340
+	World	door/gate	30	both	Energy_Activated	World.Calanques_RuinWaterTreatment.ErnergyButton_03	76778	-63215	765
+	World	door/gate		census		World.Calanques_RuinWaterTreatment.ErnergyButton_03Battery	77015	-63066	765
+	World		70	both	Energy_Activated|Energy_Deactivated	World.Calanques_RuinWaterTreatment.HumanPlate	85479	-56747	-32352
+	World	door/gate	30	both	Energy_Activated	World.Calanques_RuinWaterTreatment.Ladder2Button	80354	-64333	1475
+	World	door/gate		census		World.Calanques_RuinWaterTreatment.Ladder2ButtonBattery	80437	-64468	1467
+	World	door/gate	30	both	Energy_Activated	World.Calanques_RuinWaterTreatment.LadderButton	78694	-61429	975
+	World	door/gate		census		World.Calanques_RuinWaterTreatment.LadderButtonBattery	78567	-61639	975
+	World	energy		census		World.Calanques_RuinWaterTreatment.LadderEnergyInside	79424	-64772	875
+	World		30	both	LocationNotifier_Discovered	World.Calanques_RuinWaterTreatment.LocationNotifierWaterRuin	77030	-65008	2270
+	World	door/gate		census		World.Calanques_RuinWaterTreatment.MetaDoorRose	83400	-56150	-32353
+	World	door/gate		census		World.Calanques_RuinWaterTreatment.PipeDoor	79317	-62277	464
+	World			census		World.Calanques_RuinWaterTreatment.RobotRoomSpline	76270	-62480	550
+	World		30	both	SWTeaser_Triggered	World.Calanques_RuinWaterTreatment.SandwitchTeaser_01	76948	-62700	1475
+	World	scrap		census		World.Calanques_RuinWaterTreatment.Scrap0052	81323	-62307	-30
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques_RuinWaterTreatment.ScrapA	80754	-63374	453
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques_RuinWaterTreatment.ScrapB	78160	-61026	1586
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques_RuinWaterTreatment.ScrapD	79828	-64763	982
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques_RuinWaterTreatment.ScrapG	79239	-66612	1024
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Calanques_RuinWaterTreatment.ScrapN	86439	-52174	-31849
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Calanques_RuinWaterTreatment.ScrapO	81696	-66542	2185
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Calanques_RuinWaterTreatment.ScrapT	86286	-51986	-31834
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Calanques_RuinWaterTreatment.Scrap_07	76907	-65006	2324
+Y	World	scrap		census		World.Calanques_RuinWaterTreatment.Scrap_09	77183	-60039	510
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques_RuinWaterTreatment.Scrap_10	77094	-64996	392
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Calanques_RuinWaterTreatment.Scrap_11	77573	-67413	2916
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques_RuinWaterTreatment.Scrap_176	98603	-65326	172
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques_RuinWaterTreatment.Scrap_52	75304	-62106	2916
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Calanques_RuinWaterTreatment.SmallScrapC	58495	36440	4544
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Calanques_RuinWaterTreatment.SmallScrapD	80905	-65247	1123
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Calanques_RuinWaterTreatment.SmallScrapF	85859	-9270	2066
+	World	door/gate		census		World.Calanques_RuinWaterTreatment.TPDoorUndegroundPlate	83039	-66516	-30650
+	World	door/gate		census		World.Calanques_RuinWaterTreatment.TPDoorUndergroundPlateBattery	83700	-66572	-30650
+	World	door/gate		census		World.Calanques_RuinWaterTreatment.TP_Door_Underground	83431	-66182	-30650
+	World	door/gate		census		World.Calanques_RuinWaterTreatment.TP_Door_Water	81663	-65675	242
+	World	door/gate	30	both	Energy_Activated	World.Calanques_RuinWaterTreatment.TunnelDoorButton	80519	-63404	450
+N	World	ambient		census		World.Calanques_RuinWaterTreatment.WorldDialogue_10	79919	-62250	96
+N	World	ambient		census		World.Calanques_RuinWaterTreatment.WorldDialogue_16	80569	-66188	1638
+N	World	ambient		census		World.Calanques_RuinWaterTreatment.WorldDialogue_43	75400	-62781	2944
+N	World	ambient		census		World.Calanques_RuinWaterTreatment.WorldDialogue_58	77896	-64328	173
+N	World	ambient		census		World.Calanques_RuinWaterTreatment.WorldDialogue_63	80961	-64993	2762
+	World	jammer		census		World.Calanques_TrainStation.DummyJammer	109034	-34115	-1627
+	World			census		World.Calanques_TrainStation.EntranceTPLookIn	106028	-35499	820
+	World			census		World.Calanques_TrainStation.LoadArea	100270	-34829	305
+	World			census		World.Calanques_TrainStation.SignsHint_08	102143	-35171	154
+	World			census		World.Calanques_TrainStation.TargetPoint_StationToCigaloMoveOrSpawn	107936	-33576	998
+Y	World		70	both	ToasterBox_Collected|ToasterBox_Hacked	World.Calanques_TrainStation.ToasterBoxGare	105314	-34048	816
+N	World	ambient		census		World.Calanques_TrainStation.WorldDialogue_27	106147	-35585	931
+N	World	ambient		census		World.Calanques_TrainStation.WorldDialogue_59	100703	-31036	6984
+	World			census		World.ConsortiumMetaSphere.TargetPoint_Sauge	76170	-65170	2270
+	World			census		World.DeepUnderGround.BatteryA	79507	-93261	-29675
+	World			census		World.DeepUnderGround.ForkA	79583	-93433	-29675
+	World	door/gate		census		World.DeepUnderGround.MetaDoorDeepUnderGround	69850	-94200	-35532
+	World	door/gate		census		World.DeepUnderGround.MetaDoorDeepUnderGroundEscape	79250	-93200	-29677
+N	World	ambient		census		World.DeepUnderGround.RoseDialogueTrigger	83807	-55771	-32352
+	World			census		World.DeepUnderGround.SandwitchWatchingDeepUnderground	70257	-93998	-35533
+	World			census		World.DeepUnderGround.SandwitchWatchingTrigger	69853	-93977	-35467
+	World			census		World.DeepUnderGround.SaugeCheckpoint	69850	-94192	-35483
+	World			census		World.DeepUnderGround.VanCheckpoint	69364	-94463	-40600
+Y	World	scrap		census		World.Desert.BuriedScrapA	62594	15723	274
+Y	World	scrap	50	both	BuriedObject_Collected|BuriedObject_Pulled	World.Desert.BuriedScrapB	53290	35835	658
+Y	World	scrap		census		World.Desert.BuriedScrapC	30373	37068	811
+Y	World	scrap		census		World.Desert.BuriedScrapD	14316	43907	610
+Y	World	scrap	70	both	BuriedObject_Collected|BuriedObject_Pulled	World.Desert.BuriedScrapE	-4008	37457	89
+Y	World	scrap	30	both	BuriedObject_Collected|BuriedObject_Pulled	World.Desert.BuriedScrapF	-6656	30257	715
+Y	World	scrap	70	both	BuriedObject_Collected|BuriedObject_Pulled	World.Desert.BuriedScrapG	-46678	-12414	733
+Y	World	scrap		census		World.Desert.BuriedScrapH	47415	4843	1128
+Y	World	scrap	90	both	BuriedObject_Collected|BuriedObject_Pulled	World.Desert.BuriedScrapJ	57198	-40131	2554
+Y	World	scrap		census		World.Desert.BuriedScrapK	84500	-64841	4
+Y	World	scrap		census		World.Desert.BuriedScrapL	99028	-61925	-48
+Y	World	scrap	70	both	BuriedObject_Collected|BuriedObject_Pulled	World.Desert.BuriedScrapM	105443	-30680	-4
+Y	World	scrap		census		World.Desert.BuriedScrapO	82918	-3144	0
+Y	World	scrap		census		World.Desert.BuriedScrapQ	86164	33291	772
+	World			census		World.Desert.CanyonTP	55796	-9070	-1676
+	World			census		World.Desert.CliffsTP	90070	-29617	2516
+	World			census		World.Desert.EntranceTPLookIn	11460	5320	447
+Y	World	jammer	30	both	Jammer_Broken	World.Desert.Jammer1	45839	9642	4370
+	World			census		World.Desert.LoadArea	60702	551	70
+	World			census		World.Desert.NomadCounterTP	72841	10302	129
+	World			census		World.Desert.NomadTruckA	46967	8460	2438
+	World			census		World.Desert.NomadTruckB	0	0	0
+	World			census		World.Desert.RoseHomeTP	87556	-67330	211
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert.Scrap_02	45767	10211	3807
+	World			census		World.Desert.SignsHint_05	58227	9456	195
+	World			census		World.Desert.SignsHint_08	48000	-7159	-1192
+	World			census		World.Desert.SignsHint_09	64203	21942	210
+Y	World	scrap		census		World.Desert.SmallScrapA	66700	4513	2049
+	World			census		World.Desert.TrainStopTP	103089	-35232	61
+Y	World	vanjump	90	both	VanJump_Triggered	World.Desert.VanJump4	77077	16231	723
+	World			census		World.Desert.WarningSignCrossingArchB	59945	-5211	243
+	World			census		World.Desert.WarningSignCrossingArchD	58758	-5632	313
+	World	collectible		census		World.Desert.WorldDialogueFlowerGardening	87602	12303	1508
+	World			census		World.Desert_ExcavationSite.BuriedReinetoB	31387	7934	-2133
+	World			census		World.Desert_ExcavationSite.LoadArea	9030	-13380	-31
+	World			census		World.Desert_ExcavationSite.LoadArea1	14546	3943	-2218
+	World			census		World.Desert_ExcavationSite.LoadArea2	34716	-7883	-2164
+	World		30	both	LocationNotifier_Discovered	World.Desert_ExcavationSite.LocationNotifier	23550	-2281	-578
+	World		30	both	MushroomGreen_Collected	World.Desert_ExcavationSite.MushroomA	31282	7700	-2194
+	World		30	both	MushroomBrown_Collected	World.Desert_ExcavationSite.MushroomC	31084	7954	-2207
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_ExcavationSite.ScrapA	30305	-8055	-2481
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_ExcavationSite.ScrapB	33792	6431	-1993
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_ExcavationSite.ScrapC	23841	-13428	-2144
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_ExcavationSite.ScrapD	24516	-6326	-2223
+Y	World	scrap		census		World.Desert_ExcavationSite.ScrapF	14994	-2467	-1391
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_ExcavationSite.ScrapI	29162	6240	-1956
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_ExcavationSite.ScrapJ	28601	10168	-1938
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_ExcavationSite.Scrap_113	13129	1439	-1711
+Y	World	scrap	90	both	ScrapMetal_Collected	World.Desert_ExcavationSite.Scrap_115	20812	-2446	-581
+Y	World	scrap	90	both	ScrapMetal_Collected	World.Desert_ExcavationSite.Scrap_122	28155	1220	-576
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_ExcavationSite.Scrap_126	15391	-10333	-484
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_ExcavationSite.Scrap_144	17724	10157	-1765
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_ExcavationSite.Scrap_151	14439	-9996	-1861
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_ExcavationSite.Scrap_159	10973	3142	-2024
+Y	World	scrap		census		World.Desert_ExcavationSite.Scrap_17	16715	-5969	-745
+Y	World	scrap	90	both	ScrapMetal_Collected	World.Desert_ExcavationSite.Scrap_171	25343	-2432	-2045
+Y	World	scrap	90	both	ScrapMetal_Collected	World.Desert_ExcavationSite.Scrap_172	21668	-4386	-589
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_ExcavationSite.Scrap_173	13841	-2071	-1876
+Y	World	scrap	90	both	ScrapMetal_Collected	World.Desert_ExcavationSite.Scrap_199	28040	1268	-553
+Y	World	scrap	90	both	ScrapMetal_Collected	World.Desert_ExcavationSite.Scrap_23	21218	-2242	-1455
+Y	World	scrap	90	both	ScrapMetal_Collected	World.Desert_ExcavationSite.Scrap_25	21082	-3986	-558
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_ExcavationSite.Scrap_34	9000	2529	-2101
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_ExcavationSite.Scrap_41	15142	-10254	-445
+Y	World	scrap	90	both	ScrapMetal_Collected	World.Desert_ExcavationSite.Scrap_46	30585	261	-255
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_ExcavationSite.Scrap_47	10868	3152	-2068
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_ExcavationSite.Scrap_48	17412	-9906	-451
+Y	World	scrap	90	both	ScrapMetal_Collected	World.Desert_ExcavationSite.Scrap_80	18873	1758	-1978
+Y	World	scrap	90	both	ScrapMetal_Collected	World.Desert_ExcavationSite.Scrap_82	28649	-4113	-425
+Y	World	scrap	90	both	ScrapMetal_Collected	World.Desert_ExcavationSite.Scrap_84	20938	-2454	-655
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_ExcavationSite.Scrap_94	14559	-2148	-1705
+Y	World	scrap	90	both	ScrapMetal_Collected	World.Desert_ExcavationSite.Scrap_96	21361	-18091	2656
+	World			census		World.Desert_ExcavationSite.SignsHint_01	17058	13219	-2369
+	World			census		World.Desert_ExcavationSite.SignsHint_02	31536	-9643	-1599
+	World			census		World.Desert_ExcavationSite.SignsHint_03	7658	-2827	-1953
+Y	World	vanjump	30	both	VanJump_Triggered	World.Desert_ExcavationSite.VanJump1	19637	5186	-1675
+N	World	ambient		census		World.Desert_ExcavationSite.WorldDialogueDrill	13146	1149	-1754
+N	World	ambient		census		World.Desert_ExcavationSite.WorldDialogue_01	21504	-2082	-478
+N	World	ambient		census		World.Desert_ExcavationSite.WorldDialogue_02	9436	3209	-2091
+	World			census		World.Desert_Heliport.BatteryE	51924	33552	1978
+	World			census		World.Desert_Heliport.BatteryF	51917	33751	1978
+	World			census		World.Desert_Heliport.BatteryG	51760	33541	1978
+	World			census		World.Desert_Heliport.BatteryH	51743	33744	1978
+	World			census		World.Desert_Heliport.BatteryInRefuge	54068	35864	651
+	World			census		World.Desert_Heliport.BatteryJ	51561	33722	1978
+	World			census		World.Desert_Heliport.BatteryK	51574	33522	1978
+	World			census		World.Desert_Heliport.BatteryOutRefuge	53439	34354	570
+	World			census		World.Desert_Heliport.ConnectPylonsCheat02	55764	33199	-4306
+	World	door/gate		census		World.Desert_Heliport.DoorVehicleRefuge	53782	35013	655
+	World			census		World.Desert_Heliport.EntranceTPLookIn	51990	37797	383
+	World			census		World.Desert_Heliport.EntranceTPLookOut	51813	37854	319
+	World	jammer	30	both	GrappableDoor_Broken	World.Desert_Heliport.GrappleJammerDoor	50688	36856	278
+	World			census		World.Desert_Heliport.InterludeLamarr	62640	29310	420
+	World			census		World.Desert_Heliport.InterludeLamarrOnlySauge	62620	29300	420
+Y	World	jammer	30	both	Jammer_Broken	World.Desert_Heliport.Jammer	49799	35279	935
+	World			census		World.Desert_Heliport.LoadArea	62698	27967	368
+	World		30	both	LocationNotifier_Discovered	World.Desert_Heliport.LocationNotifier	55186	33983	984
+	World		30	both	LocationNotifier_Discovered	World.Desert_Heliport.LocationNotifierConteneur	68871	52444	-15
+	World		50	both	LocationNotifier_Discovered	World.Desert_Heliport.LocationNotifierSouterrain	81511	29824	-28836
+	World			census		World.Desert_Heliport.MainPlaceTP	52206	34231	1984
+	World		30	both	MenacingNote_Collected	World.Desert_Heliport.MenacingNote	50851	36279	1079
+	World	door/gate		census		World.Desert_Heliport.MetaDoorRuinA	78956	27436	-27131
+	World	door/gate	90	both	GrappableDoor_Broken	World.Desert_Heliport.PodGrappableDoor	65812	55310	1102
+	World	jammer		census		World.Desert_Heliport.RadioJammerTP	56038	36365	1979
+	World		50	both	Energy_Activated|Energy_Deactivated|Energy_Hacked	World.Desert_Heliport.RefugeHackPlate	53245	34980	627
+	World		50	both	Energy_Activated|Energy_Deactivated	World.Desert_Heliport.RefugePlateInside	54524	35166	552
+	World	energy		census		World.Desert_Heliport.RefugeRelay	58424	36148	6182
+	World	energy		census		World.Desert_Heliport.RelayBatteryA	58538	35884	6178
+	World	door/gate	50	both	Energy_Activated	World.Desert_Heliport.RelayLeverA	58428	36049	6178
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Desert_Heliport.RobotCamp_Scrap	57617	36964	4070
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Desert_Heliport.Scrap1	54417	33641	424
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_Heliport.Scrap2	50359	33659	2131
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_Heliport.ScrapAL	63574	33952	1574
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_Heliport.ScrapAT	74457	31911	-27867
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_Heliport.ScrapB	76104	32045	-27671
+Y	World	scrap		census		World.Desert_Heliport.ScrapD	57466	37396	3982
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_Heliport.ScrapEO	63899	33398	1887
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_Heliport.ScrapG	67562	42852	81
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_Heliport.ScrapGH	53175	40673	1587
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_Heliport.ScrapH	68558	55825	532
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Desert_Heliport.ScrapJ	58156	38374	1982
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Desert_Heliport.ScrapL	57522	36447	733
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_Heliport.ScrapN	75294	28980	-27762
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Desert_Heliport.ScrapP	77467	29017	-27705
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_Heliport.ScrapR	76001	32068	-27800
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Desert_Heliport.ScrapS	58254	37100	4097
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Desert_Heliport.ScrapW	78973	31913	-28554
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_Heliport.ScrapX	66042	29682	1918
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Desert_Heliport.ScrapY	78260	29689	-27220
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Desert_Heliport.Scrap_01	54308	33359	396
+Y	World	scrap		census		World.Desert_Heliport.Scrap_03	57161	37205	688
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Desert_Heliport.Scrap_04	58320	38545	1981
+Y	World	scrap		census		World.Desert_Heliport.Scrap_110	90500	-34600	2500
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_Heliport.Scrap_121	67332	56380	493
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_Heliport.Scrap_127	66823	46601	118
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_Heliport.Scrap_156	51081	35623	938
+Y	World	scrap		census		World.Desert_Heliport.Scrap_159	70000	48200	0
+Y	World	scrap		census		World.Desert_Heliport.Scrap_160	72767	-15763	4953
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Desert_Heliport.Scrap_169	58459	35061	2628
+Y	World	scrap	90	both	ScrapMetal_Collected	World.Desert_Heliport.Scrap_174	65571	55616	484
+Y	World	scrap		census		World.Desert_Heliport.Scrap_182	72092	48461	-30
+Y	World	scrap		census		World.Desert_Heliport.Scrap_24	70992	49407	19
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_Heliport.Scrap_27	51015	35707	1066
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Desert_Heliport.Scrap_43	57183	36934	6200
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_Heliport.Scrap_47	49950	35750	950
+Y	World	scrap		census		World.Desert_Heliport.Scrap_81	100540	-31372	6937
+	World			census		World.Desert_Heliport.Shore_LoadArea	66449	62030	282
+	World			census		World.Desert_Heliport.SignsHint_02	63421	41341	130
+	World		70	both	Energy_Activated	World.Desert_Heliport.SolarPanelA	52402	35180	1978
+	World		70	both	Energy_Activated	World.Desert_Heliport.SolarPanelB	50863	34420	2078
+	World		50	both	Energy_Activated	World.Desert_Heliport.SolarPanelC	53288	32875	1964
+	World		50	both	Energy_Activated	World.Desert_Heliport.SolarPanelD	52343	32794	1978
+	World		50	both	Energy_Activated	World.Desert_Heliport.SolarPanelE	51549	32705	1978
+	World	door/gate	70	both	Energy_Activated|Energy_Deactivated	World.Desert_Heliport.TPDoorUndergroundPlate	71661	30500	-28579
+	World	door/gate		census		World.Desert_Heliport.TPDoorUndergroundPlateBattery	71213	30928	-28579
+	World	door/gate		census		World.Desert_Heliport.TP_Door_Robots	58152	34723	794
+	World	door/gate		census		World.Desert_Heliport.TP_Door_Underground	71167	30468	-28579
+	World			census		World.Desert_Heliport.ToasterBox	51053	34184	1978
+	World	door/gate	50	both	Energy_Activated	World.Desert_Heliport.TowerBridgeButton	57507	35829	4770
+	World	door/gate		census		World.Desert_Heliport.TowerBridgeButtonBattery	57622	36408	4770
+	World	door/gate	50	both	Energy_Activated	World.Desert_Heliport.TowerDoorButton	58674	37234	3164
+	World	door/gate		census		World.Desert_Heliport.TowerDoorButtonBattery	58589	37148	3164
+	World	door/gate		census		World.Desert_Heliport.TowerDoorPlateBattery	57369	37504	3978
+	World			census		World.Desert_Heliport.UndergroundBattery	78357	29152	-27223
+	World	door/gate	50	both	Energy_Activated|Energy_Deactivated	World.Desert_Heliport.UndergroundLever	78345	29280	-27223
+	World	energy		census		World.Desert_Heliport.UndergroundRelay	87720	28234	-27791
+	World	door/gate		census		World.Desert_Heliport.UndergroundTrapezeDoor	78844	29054	-27220
+N	World	ambient		census		World.Desert_Heliport.WorldDialogueStormView	57392	39425	4016
+N	World	ambient		census		World.Desert_Heliport.WorldDialogue_01	65006	55320	658
+N	World	ambient		census		World.Desert_Heliport.WorldDialogue_16	57794	38408	2093
+N	World	ambient		census		World.Desert_Heliport.WorldDialogue_31	57854	36314	6289
+N	World	ambient		census		World.Desert_Heliport.WorldDialogue_43	69820	48196	220
+N	World	ambient		census		World.Desert_Heliport.WorldDialogue_48	53635	35004	1375
+N	World	ambient		census		World.Desert_Heliport.WorldDialogue_50	78644	29663	-27092
+N	World	ambient		census		World.Desert_Heliport.WorldDialogue_55	49993	34280	2188
+N	World	ambient		census		World.Desert_Heliport.WorldDialogue_56	52433	34905	2092
+N	World	ambient		census		World.Desert_Heliport.WorldDialogue_68	71389	21756	325
+Y	World	sitspot	50	both	SitSpot_Discovered	World.Desert_Heliport.sitspot	58026	39548	3935
+	World			census		World.Desert_NomadCurryCamp.FrontTP	34618	-14935	1906
+	World			census		World.Desert_NomadCurryCamp.LoadArea	34143	-13281	1942
+	World		30	both	LocationNotifier_Discovered	World.Desert_NomadCurryCamp.LocationNotifier	35741	-14668	1900
+Y	World	collectible	50	both	SmallRadio_Discovered	World.Desert_NomadCurryCamp.Radio	38987	-42074	2814
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_NomadCurryCamp.Scrap1	34926	-14537	1982
+N	World	ambient		census		World.Desert_NomadCurryCamp.WorldDialogueCurryCamp	35231	-14856	2024
+	World	door/gate	90	both	GrappableDoor_Broken	World.Desert_NomadOasis.GrappableDoorA	-49518	-15089	712
+	World			census		World.Desert_NomadOasis.LoadArea	-43475	-3660	124
+	World		70	both	LocationNotifier_Discovered	World.Desert_NomadOasis.LocationNotifier	-47000	-8567	764
+	World		70	both	LocationNotifier_Discovered	World.Desert_NomadOasis.LocationNotifierSouterrain	-24822	-12945	-29277
+	World			census		World.Desert_NomadOasis.SrcapH	-49450	-14781	479
+	World			census		World.Desert_NomadOasis.SrcapK	-49107	-8714	1566
+	World			census		World.Desert_NomadOasis.SrcapL	-49013	-8757	1572
+	World	door/gate	70	both	Energy_Activated|Energy_Deactivated	World.Desert_NomadOasis.TPDoorUndegroundPlate	-27353	-19280	-28984
+	World	door/gate		census		World.Desert_NomadOasis.TPDoorUndergroundPlateBattery	-27647	-18852	-28940
+	World	door/gate		census		World.Desert_NomadOasis.TP_Door_Oasis	-36644	-15166	1497
+	World	door/gate		census		World.Desert_NomadOasis.TP_Door_Underground_Oasis	-27752	-19514	-28978
+Y	World		70	both	ToasterBox_Collected|ToasterBox_Hacked	World.Desert_NomadOasis.ToasterBox	-44148	-3587	120
+N	World	ambient		census		World.Desert_NomadOasis.WorldDialogue_01	-49740	-9068	616
+N	World	ambient		census		World.Desert_NomadOasis.WorldDialogue_52	-43558	-5070	247
+	World			census		World.Desert_NomadStand.FrontTP	44210	10990	2480
+	World			census		World.Desert_NomadStand.InterludeBaie	46500	11330	2430
+	World			census		World.Desert_NomadStand.InterludeBaieOnlySauge	46540	11330	2430
+	World			census		World.Desert_NomadStand.InterludeOrgeat	24005	19398	-830
+	World			census		World.Desert_NomadStand.InterludeOrgeatOnlySauge	46400	11290	2450
+	World			census		World.Desert_NomadStand.LoadArea	45073	7814	2360
+	World		30	both	LocationNotifier_Discovered	World.Desert_NomadStand.LocationNotifier	45808	9803	1926
+Y	World	sitspot	30	both	SitSpot_Discovered	World.Desert_NomadStand.OutsideSitSpot	44249	9303	2480
+	World			census		World.Desert_NomadStand.SignsHint_01	44863	12441	2460
+	World			census		World.Desert_NomadStand.SignsHint_03	49560	18161	716
+	World			census		World.Desert_NomadStand.ToasterBox	45100	10077	2641
+Y	World	vanjump	90	both	VanJump_Triggered	World.Desert_NomadStand.VanJump2	46799	21349	1324
+Y	World	vanjump	90	both	VanJump_Triggered	World.Desert_NomadStand.VanJump3	52842	12527	2125
+	World			census		World.Desert_NomadStand.WindTurbineSmallA	45455	9203	4201
+N	World	ambient		census		World.Desert_NomadStand.WorldDialogue_01	47260	8810	2536
+N	World	ambient		census		World.Desert_NomadStand.WorldDialogue_32	45237	9898	4449
+	World		30	both	LocationNotifier_Discovered	World.Desert_PotoGliderLevel.LocationNotifierSouterrain	48655	-12514	-24890
+	World	door/gate		census		World.Desert_PotoGliderLevel.PotoGlider_TpDoor	49110	-14470	160
+	World	door/gate		census		World.Desert_PotoGliderLevel.PotoGlider_TpDoor_02	47900	-14070	-26580
+	World	door/gate		census		World.Desert_PotoGliderLevel.PotoGlider_TpDoor_03	47410	-9850	-26570
+	World	door/gate		census		World.Desert_PotoGliderLevel.PotoGlider_TpDoor_04	43877	-8281	-1180
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_PotoGliderLevel.Scrap_16	48363	-11905	-26362
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_PotoGliderLevel.Scrap_162	48654	-12432	-26518
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_PotoGliderLevel.Scrap_47	48973	-14610	-26402
+	World	door/gate	30	both	Energy_Activated	World.Desert_RobotFactory.BacktrackingButton	-7548	33684	1970
+	World	door/gate		census		World.Desert_RobotFactory.BacktrackingLadderClosingDoor	-7383	33647	1970
+	World			census		World.Desert_RobotFactory.BacktranckingBattery	-7993	33564	1970
+	World			census		World.Desert_RobotFactory.Battery	-9312	35798	570
+	World			census		World.Desert_RobotFactory.Bridge	-9229	38332	3051
+	World	door/gate		census		World.Desert_RobotFactory.BridgeButtonBattery	-10807	37785	2770
+	World	door/gate	30	both	Energy_Activated	World.Desert_RobotFactory.BridgeLever	-10742	37625	2770
+	World			census		World.Desert_RobotFactory.BridgePlateBattery	-9359	36701	1371
+	World			census		World.Desert_RobotFactory.BuriedReinetoC	-17980	46485	936
+	World	door/gate	70	both	GrappableDoor_Broken	World.Desert_RobotFactory.ContainerGrappableDoorC_02	-6502	41098	590
+	World	door/gate	70	both	GrappableDoor_Broken	World.Desert_RobotFactory.ContainerGrappableDoorC_03	-7536	39306	590
+	World	door/gate	70	both	GrappableDoor_Broken	World.Desert_RobotFactory.ContainerGrappableDoorC_04	-6047	39848	590
+	World	door/gate		census		World.Desert_RobotFactory.EnergyDoorUndergroundA	-1397	31693	-27981
+	World	door/gate		census		World.Desert_RobotFactory.EnergyDoorUndergroundB	-1820	32823	-29070
+	World	door/gate		census		World.Desert_RobotFactory.EnergyDoorUndergroundC	-3009	31226	-27971
+	World			census		World.Desert_RobotFactory.EntranceTPLookIn	-4043	29903	409
+	World			census		World.Desert_RobotFactory.Factory	-8790	35702	1120
+	World	door/gate		census		World.Desert_RobotFactory.FactoryDoor	-8288	35653	730
+	World	door/gate	30	both	Energy_Activated	World.Desert_RobotFactory.FactoryDoorButton	-6032	38603	1432
+	World	door/gate		census		World.Desert_RobotFactory.FactoryDoorButtonBattery	-6108	38781	1432
+	World	door/gate		census		World.Desert_RobotFactory.FactoryDoorFakeReceptor	-7443	38704	589
+	World	door/gate	30	both	Energy_Activated	World.Desert_RobotFactory.FactoryTlever	-8245	35954	576
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Factory_scrap_02	-5645	39245	2113
+	World	door/gate	30	both	GrappableDoor_Broken	World.Desert_RobotFactory.GrappableDoorA	-10096	35576	1380
+	World	door/gate	30	both	GrappableDoor_Broken	World.Desert_RobotFactory.GrappableDoorLabotech	-7626	34600	1433
+	World	energy		census		World.Desert_RobotFactory.GrappleGeneratorUndergroundA	-3248	29366	-28944
+	World		30	both	Energy_Activated	World.Desert_RobotFactory.HumanPlate	-8532	36294	570
+Y	World	jammer	30	both	Jammer_Broken	World.Desert_RobotFactory.Jammer_Factory	-8724	32222	2770
+	World			census		World.Desert_RobotFactory.LoadArea	-5655	26873	674
+	World		30	both	LocationNotifier_Discovered	World.Desert_RobotFactory.LocationNotifier	-6485	36180	2584
+	World		70	both	LocationNotifier_Discovered	World.Desert_RobotFactory.LocationNotifierUnderground	-4170	33496	-29206
+	World		30	both	MushroomGreen_Collected	World.Desert_RobotFactory.MushroomC	-18150	46497	917
+	World		30	both	MushroomGreen_Collected	World.Desert_RobotFactory.MushroomD	-18195	46488	925
+	World		30	both	SWTeaser_Triggered	World.Desert_RobotFactory.SWT_Factory	-4622	36438	2288
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_RobotFactory.ScrapAY	-5545	36904	-28000
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_RobotFactory.ScrapAZ	-5698	37261	-27544
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_RobotFactory.ScrapD	-4221	32561	-28053
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_RobotFactory.ScrapG	-1322	32055	-29064
+Y	World	scrap		census		World.Desert_RobotFactory.ScrapGH	600	41308	1795
+Y	World	scrap		census		World.Desert_RobotFactory.ScrapGI	649	40870	1796
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_RobotFactory.ScrapL	-7255	36325	-28576
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_RobotFactory.ScrapP	-5268	32590	-29055
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.ScrapQ	4297	30942	672
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_RobotFactory.ScrapT	-22	32378	-28175
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_RobotFactory.ScrapU	-4396	37236	-27900
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_RobotFactory.ScrapV	-1428	35582	-28029
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_RobotFactory.ScrapZ	-1889	32491	-27987
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_02	-9081	35453	932
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_03	-8214	34564	622
+Y	World	scrap		census		World.Desert_RobotFactory.Scrap_04	-7913	42608	627
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_06	-10160	36219	1507
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_07	-9622	37152	2857
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_10	-8111	38735	3039
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_106	-7748	34998	603
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_12	-11059	38894	979
+Y	World	scrap		census		World.Desert_RobotFactory.Scrap_13	65441	-751	2999
+Y	World	scrap		census		World.Desert_RobotFactory.Scrap_133	-2270	39711	1033
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_137	-7659	36012	3821
+Y	World	scrap		census		World.Desert_RobotFactory.Scrap_142	-2352	39793	1040
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_157	8348	28315	128
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_166	-6817	39659	582
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_171	-1620	31319	-27964
+Y	World	scrap		census		World.Desert_RobotFactory.Scrap_176	-2310	39751	1036
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_182	-8087	31258	1618
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_187	-8854	37516	3709
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_19	8351	28302	185
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_196	-4506	35311	2220
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_198	-6613	39598	637
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_28	3007	31418	29
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_32	15388	71251	1146
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_33	-7604	33023	3362
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_35	2677	31599	372
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_36	-8599	32720	2770
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_51	86216	-51973	-31835
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_52	-7957	34444	1558
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_53	11264	26647	-197
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_58	-2937	32989	-27873
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_64	-7277	34693	1557
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_81	-4801	35437	3004
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_87	-6619	30430	857
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_99	-9057	32944	2841
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_CalanqueGate_02	102155	-29324	1855
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_Factory	-7644	38337	3660
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.Scrap_Factory_01	-7375	39385	1561
+Y	World	scrap		census		World.Desert_RobotFactory.Scrap_Factory_06	-9120	40140	1095
+	World			census		World.Desert_RobotFactory.SignsHint_02	2331	31462	-23
+Y	World		30	both	SitSpot_Discovered	World.Desert_RobotFactory.SitSport_Factory_A	-6684	32679	3370
+	World			census		World.Desert_RobotFactory.SmallBridge_01	-9060	37213	1390
+Y	World	collectible	30	both	SmallRadio_Discovered	World.Desert_RobotFactory.SmallRadio	-9454	36608	2850
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.SmallScrapA	-6880	34356	645
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.SmallScrapB	-7939	33172	3370
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_RobotFactory.SmallScrapM	-3428	33930	1970
+	World	door/gate	30	both	Energy_Activated|Energy_Deactivated|Energy_Hacked	World.Desert_RobotFactory.TPDoorPlate	-9395	37454	570
+	World	door/gate		census		World.Desert_RobotFactory.TPDoorUndegroundPlateBattery	46	36919	-28274
+	World	door/gate	70	both	Energy_Activated|Energy_Deactivated	World.Desert_RobotFactory.TPDoorUndergroundPlate	-225	37381	-28270
+	World	door/gate		census		World.Desert_RobotFactory.TP_Door_Underground	293	37552	-28270
+Y	World		70	both	ToasterBox_Hacked	World.Desert_RobotFactory.ToasterBox	-8603	35649	1400
+	World	door/gate		census		World.Desert_RobotFactory.Tp_Door_Factory	-9868	37284	570
+	World	door/gate	70	both	Energy_Activated	World.Desert_RobotFactory.UndegroundDoorLeverB	-1697	31906	-27986
+	World	door/gate		census		World.Desert_RobotFactory.UndegroundLeverRoomBattery	-1780	32331	-27989
+	World	door/gate		census		World.Desert_RobotFactory.UndegroundPlateButtonBattery	-9823	37944	3370
+	World	door/gate	70	both	Energy_Activated	World.Desert_RobotFactory.UndergroundDoorLeverA	-2596	32414	-27990
+	World	door/gate		census		World.Desert_RobotFactory.UndergroundLeverDoorFork	-1990	32235	-27886
+	World			census		World.Desert_RobotFactory.UndergroundMarkerA	-9728	37500	700
+	World	door/gate	30	both	Energy_Activated	World.Desert_RobotFactory.UndergroundPlateButton	-9795	37823	3370
+N	World	ambient		census		World.Desert_RobotFactory.WorldDialogueNomadRobotFactory	-9841	36950	2919
+N	World	ambient		census		World.Desert_RobotFactory.WorldDialogueRobotFactory	-4660	32605	744
+N	World	ambient		census		World.Desert_RobotFactory.WorldDialogue_01	-5980	32095	-28979
+N	World	ambient		census		World.Desert_RobotFactory.WorldDialogue_15	-4300	34400	1987
+N	World	ambient		census		World.Desert_RobotFactory.WorldDialogue_47	-8361	38707	657
+N	World	ambient		census		World.Desert_RobotFactory.WorldDialogue_52	-7031	34335	3887
+N	World	ambient		census		World.Desert_RobotFactory.WorldDialogue_55	-9566	34917	1060
+	World		30	both	Energy_Activated|Energy_Deactivated	World.Desert_RobotFactory.cam	-9606	37035	1371
+	World		70	both	ArchiveBox_Collected	World.Desert_StormWall.AqueducArchives	26098	47323	3709
+	World	door/gate		census		World.Desert_StormWall.AqueducMetaDoor	30672	38778	3158
+	World	energy		census		World.Desert_StormWall.AqueducRelayB	31595	42528	3959
+	World	energy		census		World.Desert_StormWall.AqueducRelayC	31275	42595	3959
+	World	energy		census		World.Desert_StormWall.AqueducRelayD	30931	42659	3959
+Y	World	sitspot	70	both	SitSpot_Discovered	World.Desert_StormWall.AqueducSitSpot	25985	48612	4160
+	World			census		World.Desert_StormWall.BatteryPylons	31820	42479	3759
+	World			census		World.Desert_StormWall.BuriedReinetoA	37106	48856	927
+	World			census		World.Desert_StormWall.ControlRoomBatteryA	30560	39508	3150
+	World			census		World.Desert_StormWall.ControlRoomBatteryB	28787	39490	3156
+	World			census		World.Desert_StormWall.ControlRoomBatteryC	28402	38480	3159
+	World	door/gate		census		World.Desert_StormWall.ControlRoomDoor	25524	42827	2760
+	World	door/gate		census		World.Desert_StormWall.ControlRoomDoorAPlateBattery	28322	38866	3760
+	World	door/gate		census		World.Desert_StormWall.ControlRoomDoorButtonBattery	25731	42666	2653
+	World	door/gate	30	both	Energy_Activated	World.Desert_StormWall.ControlRoomLeverA	30333	39486	3159
+	World	door/gate	50	both	Energy_Activated	World.Desert_StormWall.ControlRoomLeverB	28906	39565	3158
+	World	door/gate	50	both	Energy_Activated	World.Desert_StormWall.ControlRoomLeverC	28524	38457	3159
+	World			census		World.Desert_StormWall.Desert_StormWallEndStartTargetPoint	29930	42146	2105
+	World	door/gate	70	both	Energy_Activated|Energy_Deactivated	World.Desert_StormWall.DoorCamera	26461	47478	2359
+	World	door/gate		census		World.Desert_StormWall.DoorToTunnelEden	30828	47345	-687
+	World	door/gate		census		World.Desert_StormWall.EnergyDoorCBattery	26683	47930	2359
+	World	door/gate		census		World.Desert_StormWall.EnergyDoorEndTowerB	26193	47523	1560
+	World	door/gate		census		World.Desert_StormWall.EnergyDoorEndTowerC	26200	47527	2370
+	World			census		World.Desert_StormWall.InsideControlRoomAqueduc	29745	38792	3159
+	World			census		World.Desert_StormWall.InterludeAqueducNefle	29669	38880	3187
+	World			census		World.Desert_StormWall.LampB	28818	39504	3436
+	World			census		World.Desert_StormWall.LampD	28453	38515	3426
+	World	door/gate	50	both	Energy_Activated	World.Desert_StormWall.LeverInsideControlRoom	28461	38852	3759
+	World			census		World.Desert_StormWall.LoadArea	19188	29745	599
+	World			census		World.Desert_StormWall.LoadArea1	26307	41687	959
+	World			census		World.Desert_StormWall.LoadArea2	15630	43004	624
+	World		30	both	LocationNotifier_Discovered	World.Desert_StormWall.LocationNotifier	29412	39997	1163
+	World		30	both	LocationNotifier_Discovered	World.Desert_StormWall.LocationNotifierTower	26175	48763	5105
+	World		30	both	MushroomBrown_Collected	World.Desert_StormWall.MushroomB	35747	48894	754
+	World		30	both	MushroomGreen_Collected	World.Desert_StormWall.MushroomC	37209	48688	899
+	World	door/gate		census		World.Desert_StormWall.OrbitalPodDoorA	17021	45688	735
+	World			census		World.Desert_StormWall.OutsideAqueduc	28877	36324	959
+	World	door/gate		census		World.Desert_StormWall.PlateDoorSallBattery	-18615	-12091	-28388
+	World		70	both	Energy_Activated|Energy_Deactivated|Energy_Hacked	World.Desert_StormWall.PressurePlateA	25419	42415	2659
+	World	door/gate		census		World.Desert_StormWall.RampControlRoomDoorA	28420	39014	3159
+	World	energy	50	both	Energy_Activated	World.Desert_StormWall.RelayCardAccessA	31569	42398	3959
+	World	energy	70	both	Energy_Activated	World.Desert_StormWall.RelayCardAccessB	31251	42472	3959
+	World	energy	70	both	Energy_Activated	World.Desert_StormWall.RelayCardAccessD	30916	42532	3959
+	World	energy		census		World.Desert_StormWall.RelayFork	31811	42304	3759
+	World			census		World.Desert_StormWall.SandwitchControlRoomTopInterlude	30769	41919	3759
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_StormWall.ScrapAF	32953	41073	959
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_StormWall.ScrapC	26250	43097	959
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Desert_StormWall.ScrapControlRoomA	29869	38261	3257
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Desert_StormWall.ScrapControlRoomB	29545	38317	3260
+Y	World	scrap		census		World.Desert_StormWall.ScrapJ	25211	43145	3741
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_StormWall.ScrapP	24980	39491	2659
+Y	World	scrap		census		World.Desert_StormWall.ScrapPodA	17139	48322	339
+Y	World	scrap		census		World.Desert_StormWall.ScrapPodB	17345	49339	380
+Y	World	scrap		census		World.Desert_StormWall.ScrapPodC	17313	47928	323
+Y	World	scrap		census		World.Desert_StormWall.ScrapSpaceShipA	25051	50852	797
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_StormWall.ScrapT	25339	43302	3431
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_StormWall.ScrapX	26580	39780	1067
+Y	World	scrap		census		World.Desert_StormWall.ScrapZ	8218	46346	358
+Y	World	scrap		census		World.Desert_StormWall.Scrap_01	32495	48231	1159
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_StormWall.Scrap_02	28689	40049	2565
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Desert_StormWall.Scrap_03	29822	38252	3760
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_StormWall.Scrap_139	25508	43431	2864
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_StormWall.Scrap_168	28677	42745	3162
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_StormWall.Scrap_176	26573	47571	3661
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_StormWall.Scrap_178	30609	45597	1229
+Y	World	scrap		census		World.Desert_StormWall.Scrap_183	17144	46039	342
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_StormWall.Scrap_198	27134	47011	4267
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_StormWall.Scrap_22	27823	38603	3164
+Y	World	scrap		census		World.Desert_StormWall.Scrap_27	14779	46512	326
+Y	World	scrap		census		World.Desert_StormWall.Scrap_37	18850	43497	720
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_StormWall.Scrap_48	25671	44006	2802
+Y	World	scrap		census		World.Desert_StormWall.Scrap_65	12556	43514	684
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_StormWall.Scrap_68	32174	44924	1275
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_StormWall.Scrap_77	28045	39789	1183
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_StormWall.Scrap_87	23639	48075	2011
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Desert_StormWall.Scrap_97	26140	47715	3652
+Y	World	collectible	50	both	SmallRadio_Discovered	World.Desert_StormWall.SmallRadio	28797	38174	3253
+	World			census		World.Desert_StormWall.SpaceShipGrappableShieldA	25246	50735	900
+Y	World		70	both	ToasterBox_Collected|ToasterBox_Hacked	World.Desert_StormWall.ToasterBox	25549	43243	2759
+	World			census		World.Desert_StormWall.TowerTopLadder	27107	47744	3559
+	World			census		World.Desert_StormWall.TowerTopLadderBattery	27072	46914	3559
+	World	door/gate	70	both	Energy_Activated	World.Desert_StormWall.TowerTopLadderLever	27071	47058	3559
+N	World	ambient		census		World.Desert_StormWall.WorldDialogueStomWall	30758	47034	-502
+N	World	ambient		census		World.Desert_StormWall.WorldDialogue_01	17059	46915	408
+N	World	ambient		census		World.Desert_StormWall.WorldDialogue_14	26618	39552	3163
+N	World	ambient		census		World.Desert_StormWall.WorldDialogue_27	24286	48135	945
+N	World	ambient		census		World.Desert_StormWall.WorldDialogue_57	29506	39491	3268
+N	World	ambient		census		World.Desert_StormWall.WorldDialogue_65	23990	48211	1912
+	World			census		World.Desert_StormWall.lampA	30344	39519	3454
+	World	door/gate	30	both	GrappableDoor_Broken	World.Desert_TutoRuinCable.Door	25074	20040	-505
+	World	door/gate	30	both	Energy_Activated	World.Desert_TutoRuinCable.DoorButton	26279	19715	-933
+	World	door/gate		census		World.Desert_TutoRuinCable.DoorButtonBattery	26250	19563	-953
+	World			census		World.Desert_TutoRuinCable.EntranceTPLookIn	24960	22452	-946
+	World			census		World.Desert_TutoRuinCable.LoadArea	26259	22831	-946
+Y	World	scrap		census		World.Desert_TutoRuinCable.ScrapAZ	23785	23718	19
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_TutoRuinCable.Scrap_01	25310	19991	-980
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_TutoRuinCable.Scrap_116	25364	19079	-411
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_TutoRuinCable.Scrap_191	24944	18756	-699
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Desert_TutoRuinCable.SmallScrapC	25305	19549	284
+	World	door/gate		census		World.Desert_TutoRuinCable.TutoRuin_Door_02	26287	19908	-927
+N	World	ambient		census		World.Desert_TutoRuinCable.WorldDialogueSiloRuin	25943	20414	-817
+N	World	ambient		census		World.Desert_TutoRuinCable.WorldDialogue_18	25285	19363	418
+	World	jammer	30	both	Energy_Activated	World.Desert_TutoRuinJammerScan.Button	14349	71631	595
+	World	jammer		census		World.Desert_TutoRuinJammerScan.Door	14412	70799	586
+	World	jammer		census		World.Desert_TutoRuinJammerScan.EntranceTPLookIn	16306	69316	466
+	World	jammer	30	both	GrappableDoor_Broken	World.Desert_TutoRuinJammerScan.GrappableDoor	14810	71480	615
+Y	World	jammer	30	both	Jammer_Broken	World.Desert_TutoRuinJammerScan.JammerA	15656	71565	1095
+	World	jammer		census		World.Desert_TutoRuinJammerScan.LoadArea	19028	68817	845
+	World	jammer	30	both	SWTeaser_Triggered	World.Desert_TutoRuinJammerScan.SandwitchTeaserA	14716	71084	595
+	World	scrap	30	both	ScrapMetal_Collected	World.Desert_TutoRuinJammerScan.Scrap_TutoRuinJammerScan_A	15780	71591	646
+Y	World	jammer	90	both	ToasterBox_Collected|ToasterBox_Hacked	World.Desert_TutoRuinJammerScan.ToasterBox	15842	69261	600
+	World	jammer		census		World.Desert_TutoRuinJammerScan.battery	14476	71779	595
+	World			census		World.Desert_TutoRuinZipline.EntranceLookIn	67280	430	2136
+Y	World	scrap		census		World.Desert_TutoRuinZipline.ScrapA	64872	-1060	3024
+N	World	ambient		census		World.Desert_TutoRuinZipline.WorldDialogue_44	65290	-677	2996
+N	World	ambient		census		World.Desert_TutoRuinZipline.WorldDialogue_65	66837	4502	2109
+	World			census		World.Eden.ConsoleTP	-75958	-151054	3135
+	World		90	both	LoadCheckPointTrigger_Triggerd	World.Eden.ControlRoom_LCP	-74680	-148140	-10390
+	World			census		World.Eden.ControlRoom_TP	-74270	-148150	-10430
+	World	jammer		census		World.Eden.DummyJammer	-74260	-108000	-6150
+	World			census		World.Eden.EdenTarget	-76095	-185753	61
+	World			census		World.Eden.ElevatorBridge	-74200	-153700	1250
+	World		90	both	Energy_Activated|Energy_Deactivated	World.Eden.ElevatorBridgePlate	-74199	-153989	1230
+	World			census		World.Eden.ElevatorBridgePlateBattery	-73861	-153679	1230
+	World			census		World.Eden.ElevatorDown	-74260	-151470	-13030
+N	World	ambient		census		World.Eden.ElevatorStartSelfTalk	-74002	-152223	1411
+	World		90	both	LoadCheckPointTrigger_Triggerd	World.Eden.ElevatorUp_LCP	-74210	-154600	1300
+	World			census		World.Eden.ElevatorUp_TP	-74220	-156400	1163
+	World	door/gate		census		World.Eden.EndMetaDoorInteract	-75558	-147569	-10329
+	World			census		World.Eden.EntranceTP	-84348	-165051	158
+	World	door/gate		census		World.Eden.EscapeDoor	-74267	-147165	-10433
+	World	door/gate		census		World.Eden.EscapePodButton	-74219	-145988	-10432
+Y	World	sitspot		census		World.Eden.GaranceGraveSitSpot	-74472	-156403	1165
+	World			census		World.Eden.GaranceGrave_TP	-74270	-161810	1653
+	World		90	both	LoadCheckPointTrigger_Triggerd	World.Eden.GaranceShip_LCP	-74110	-169920	2410
+	World			census		World.Eden.GaranceShip_TP	-74110	-172180	2020
+	World			census		World.Eden.KeaRoseFrontTaraask	-75842	-185659	61
+	World			census		World.Eden.RotatingLampA	-75073	-147556	-9928
+	World			census		World.Eden.RotatingLampB	-73452	-147539	-9927
+	World			census		World.Eden.RotatingLampC	-73706	-151849	-12379
+	World			census		World.Eden.RotatingLampD	-74699	-151851	-12388
+	World			census		World.Eden.SaugeInsideCapsule	-74329	-145197	-11430
+	World	door/gate	90	both	Energy_Activated	World.Eden.SelfDestructButton	-73336	-147460	-10433
+	World	door/gate		census		World.Eden.SelfDestructButtonBattery	-72268	-147559	-10433
+N	World	ambient		census		World.Eden.SelfTalkGaranceAfterGrave	-74478	-156150	1278
+	World			census		World.Eden.TaraaskInsideTP	-75745	-145831	6535
+	World			census		World.Eden.TunelEntranceLookToEdenTP	-75935	-185528	60
+	World			census		World.Eden.TurbineA	-96180	-135330	2660
+N	World	ambient		census		World.Eden.WorldDialogue_01	-73455	-160275	1668
+	World			census		World.Eden_StormRuin.EntranceTPLookIn	-162903	-155777	-6078
+	World			census		World.Eden_StormRuin.StormLightsTrigger	-162588	-155655	-5056
+N	World	ambient		census		World.Geocarriere_Hidden_Cache.DialogueScene	21875	-18158	2096
+	World	door/gate		census		World.Geocarriere_Hidden_Cache.Door	21956	-18202	2100
+Y	World	sitspot	90	both	SitSpot_Discovered	World.Geocarriere_Hidden_Cache.SitSpot	21392	-17953	2144
+	World			census		World.Guarrigue.DirectionSignRoundaboutVillageA	55289	-22115	-302
+N	World	ambient		census		World.Guarrigue.EnterOWMusicTrigger	70122	-41532	1510
+	World			census		World.Guarrigue.InFrontOfVillage_LoadArea	63892	-24719	625
+	World			census		World.Guarrigue.LoadArea	83052	2400	57
+	World			census		World.Guarrigue.LoadArea1	47974	-15556	42
+	World			census		World.Guarrigue.SignsHint_01	64496	-26794	737
+Y	World	vanjump	30	both	VanJump_Triggered	World.Guarrigue.VanJump6	70285	-25275	1007
+	World	collectible		census		World.Guarrigue_CollectibleRuinA.Collectible_CollectibleRuin06	74928	-26032	69
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Guarrigue_CollectibleRuinA.SmallScrapA	76337	-27219	764
+	World	collectible		census		World.Guarrigue_CollectibleRuinA.WorldDialogue_13	76366	-27182	2889
+	World	door/gate		census		World.Guarrigue_RuinGrappleDoor.EntranceTPLookIn	64037	-10638	61
+	World	door/gate	30	both	GrappableDoor_Broken	World.Guarrigue_RuinGrappleDoor.GrappleDoor_TutoRuin01	65065	-9987	245
+Y	World	jammer	30	both	Jammer_Broken	World.Guarrigue_RuinGrappleDoor.Jammer	102563	-47227	4110
+	World	door/gate		census		World.Guarrigue_RuinGrappleDoor.LoadArea	62315	-12940	63
+	World	door/gate	30	both	LocationNotifier_Discovered	World.Guarrigue_RuinGrappleDoor.LocationNotifier	65456	-9809	1367
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Guarrigue_RuinGrappleDoor.Scrap_110	65386	-10339	1471
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Guarrigue_RuinGrappleDoor.Scrap_36	65016	-10765	1501
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Guarrigue_RuinGrappleDoor.Scrap_79	64669	-8932	-148
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Guarrigue_RuinGrappleDoor.SmallScrapA	64946	-9069	-6
+	World	door/gate		census		World.Guarrigue_RuinGrappleDoor.ToasterBox	65490	-9435	662
+	World	door/gate		census		World.Guarrigue_RuinGrappleDoor.WorldDialogueTagStorage	66530	-8405	214
+	World	door/gate		census		World.Guarrigue_RuinGrappleDoor.WorldDialogue_11	65901	-9363	304
+	World	door/gate		census		World.Guarrigue_RuinGrappleDoor.WorldDialogue_20	64820	-10216	1502
+Y	World	scrap		census		World.Guarrigue_RuinMain.FMR_Scrap_03	55970	-36022	3634
+Y	World	scrap		census		World.Guarrigue_RuinMain.FMR_Scrap_06	56104	-36083	2359
+Y	World	scrap		census		World.Guarrigue_RuinMain.FMR_Scrap_07	55940	-38480	3210
+Y	World	scrap		census		World.Guarrigue_RuinMain.FRM_Scrap_02	55360	-35230	2960
+	World			census		World.Guarrigue_RuinMain.LoadArea	56413	-32810	2574
+	World		90	both	LocationNotifier_Discovered	World.Guarrigue_RuinMain.LocationNotifier	57998	-36754	3403
+	World		90	both	LocationNotifier_Discovered	World.Guarrigue_RuinMain.LocationNotifierPassage	52851	-48927	3052
+	World		70	both	LocationNotifier_Discovered	World.Guarrigue_RuinMain.LocationNotifierSouterrain	85542	-54331	-30897
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Guarrigue_RuinMain.Scrap_115	65800	-9756	767
+Y	World	scrap		census		World.Guarrigue_RuinMain.SmallScrapC	60556	-36933	3780
+Y	World	scrap		census		World.Guarrigue_RuinMain.SmallScrapH	58908	-34999	2915
+	World	door/gate		census		World.Guarrigue_RuinMain.TPDoorUndergroundPlate	65531	-44690	-31676
+	World	door/gate		census		World.Guarrigue_RuinMain.TPDoorUndergroundPlateBattery	65093	-44216	-31676
+	World	door/gate		census		World.Guarrigue_RuinMain.UndergroundDoorB	55830	-35715	2358
+	World	door/gate		census		World.Guarrigue_RuinMain.UndergroundTPDoorA	65003	-44687	-31675
+N	World	ambient		census		World.Guarrigue_RuinMain.WorldDialogue_34	59438	-35232	2695
+N	World	ambient		census		World.Guarrigue_RuinMain.WorldDialogue_35	49175	-47538	2552
+N	World	ambient		census		World.Guarrigue_RuinMain.WorldDialogue_51	56754	-36574	3983
+	World		30	both	Energy_Activated	World.Guarrigue_WaterPump.AccessCardTerminal	45082	-36340	1429
+	World			census		World.Guarrigue_WaterPump.LoadArea	47630	-33670	620
+	World		30	both	LocationNotifier_Discovered	World.Guarrigue_WaterPump.LocationNotifier	45068	-36586	810
+	World	door/gate		census		World.Guarrigue_WaterPump.PumpButtonBattery	45047	-36498	1430
+	World	energy		census		World.Guarrigue_WaterPump.PumpPlug	44977	-36279	1128
+N	World	ambient		census		World.Guarrigue_WaterPump.WorldDialogue_56	45100	-35994	453
+	World		30	history	Common_Done	World.MetaNefleA.AntennaTutorialStarted			
+	World			census		World.MetaNefleA.MetaNefle6	69562	-44657	821231
+	World			census		World.MetaNefleA.NefleTutoCable	0	0	0
+	World			census		World.MetaNefleA.NefleTutoZipline	66605	-47401	772878
+	World			census		World.MetaNefleA.TriggerTutoAntennaA	159100	-278350	-39550
+	World			census		World.MetaNefleA.TriggerTutoCableA	162350	-278350	-39550
+	World			census		World.MetaNefleA.TriggerTutoGrappleA	159900	-278350	-39550
+	World			census		World.MetaNefleA.TriggerTutoHackA	161500	-278350	-39550
+	World			census		World.MetaNefleA.TriggerTutoZiplineA	160700	-278350	-39550
+	World			census		World.MetaNefleA.VanSpawnPoint_ZiplineTutorial	70892	-46451	773287
+	World			census		World.MetaNefleA.VanToSaugeTriggerA	71294	-40227	620286
+	World			census		World.MetaNefleA.VanToSaugeTriggerB	71296	-42774	665067
+	World			census		World.MetaNefleA.VanToSaugeTriggerC	71034	-43844	-158472
+	World	door/gate		census		World.MetaNefleAntenna.AndGateA	74656	-40768	622510
+	World			census		World.MetaNefleAntenna.AntennaMarkTuto	23700	-133000	622400
+	World			census		World.MetaNefleAntenna.AntennaTutorialBox	24472	-94229	622600
+	World			census		World.MetaNefleAntenna.BallToScan	73394	-41375	622779
+	World			census		World.MetaNefleAntenna.Battery	66450	-45300	622350
+	World			census		World.MetaNefleAntenna.BatteryB	74555	-41845	622610
+	World			census		World.MetaNefleAntenna.BatteryC	74556	-43681	622460
+	World	jammer		census		World.MetaNefleAntenna.DialogueScene_Nefle_TutoJammer	22584	-38655	622750
+	World	door/gate		census		World.MetaNefleAntenna.Door	73150	-41260	622750
+	World			census		World.MetaNefleAntenna.EquipAntennaTutorial	23599	-41546	622710
+	World	door/gate		census		World.MetaNefleAntenna.ExitDoorAntennaTutorial	23580	-130308	622350
+	World			census		World.MetaNefleAntenna.F	74568	-42475	622610
+	World	jammer		census		World.MetaNefleAntenna.JammerANoDM	73084	-40571	623458
+	World	door/gate		census		World.MetaNefleAntenna.LeverE	74571	-41404	622610
+	World	door/gate		census		World.MetaNefleAntenna.MetaDoorB	22267	-38430	622748
+	World	door/gate		census		World.MetaNefleAntenna.MysteryLever1	24350	-131040	622400
+	World	door/gate	30	both	Energy_Activated	World.MetaNefleAntenna.MysteryLever10	23550	-131040	623055
+	World	door/gate		census		World.MetaNefleAntenna.MysteryLever11	23350	-131040	623055
+	World	door/gate		census		World.MetaNefleAntenna.MysteryLever12	23150	-131040	623055
+	World	door/gate		census		World.MetaNefleAntenna.MysteryLever13	22950	-131040	623055
+	World	door/gate		census		World.MetaNefleAntenna.MysteryLever14	22750	-131040	623055
+	World	door/gate		census		World.MetaNefleAntenna.MysteryLever2	24150	-131040	622400
+	World	door/gate		census		World.MetaNefleAntenna.MysteryLever3	23050	-131040	622400
+	World	door/gate		census		World.MetaNefleAntenna.MysteryLever4	22850	-131040	622400
+	World	door/gate		census		World.MetaNefleAntenna.MysteryLever5	22650	-131040	622400
+	World	door/gate		census		World.MetaNefleAntenna.MysteryLever6	24350	-131040	623055
+	World	door/gate		census		World.MetaNefleAntenna.MysteryLever7	24150	-131040	623055
+	World	door/gate		census		World.MetaNefleAntenna.MysteryLever8	23950	-131040	623055
+	World	door/gate		census		World.MetaNefleAntenna.MysteryLever9	23750	-131040	623055
+	World			census		World.MetaNefleAntenna.ReverserA	74748	-42374	622634
+Y	World	scrap	30	both	ScrapMetal_Collected	World.MetaNefleAntenna.ScrapA	23164	-92766	622560
+Y	World	scrap	30	both	ScrapMetal_Collected	World.MetaNefleAntenna.ScrapB	24919	-88699	622548
+	World			census		World.MetaNefleAntenna.SpawnPart3	23700	-133800	622350
+	World			census		World.MetaNefleAntenna.TargetPointA	23596	-41601	622360
+	World			census		World.MetaNefleAntenna.TargetPointB	22656	-38748	622760
+	World	jammer	30	both	Jammer_Broken	World.MetaNefleAntenna.TutoJammer	28907	-45705	623750
+	World	door/gate		census		World.MetaNefleAntenna.TutoLeversBattery	23700	-131200	622000
+	World			census		World.MetaNefleAntenna.TutoPart2Spawn	24152	-83879	622350
+	World	door/gate		census		World.MetaNefleAntenna.VehiculeDoor	65950	-45000	622360
+	World			census		World.MetaNefleAntenna.VehiculePlate	65950	-45650	622350
+	World		50	both	AccessCard_Collected	World.MetaNefleAqueduc.AccessCodeAqueducA	30450	41200	631518
+	World	door/gate		census		World.MetaNefleAqueduc.MetaDoorA	30050	38850	630958
+	World		50	both	SWTeaser_Triggered	World.MetaNefleAqueduc.SandwitchTeaserMetaNefle	30304	41423	630959
+	World		50	both	AccessCard_Collected	World.MetaNefleCliff.AccessCodeCliff	84594	30720	630422
+	World			census		World.MetaNefleCliff.BatteryA	86200	32300	630535
+	World			census		World.MetaNefleCliff.BatteryB	86100	33900	629634
+	World			census		World.MetaNefleCliff.BatteryC	87530	32580	629645
+	World			census		World.MetaNefleCliff.BatteryD	86740	31007	630300
+	World	door/gate	50	both	GrappableDoor_Broken	World.MetaNefleCliff.BreakableDoorA	85001	34000	629634
+	World			census		World.MetaNefleCliff.BridgeA	86400	32250	630535
+	World			census		World.MetaNefleCliff.BridgeB	85900	30100	630535
+	World			census		World.MetaNefleCliff.BridgeC	85923	29839	630535
+	World			census		World.MetaNefleCliff.DarkMetaSpaceReactTrigger	84895	32587	674072
+	World	door/gate		census		World.MetaNefleCliff.DoorA	86952	34148	629640
+	World	energy	50	both	Energy_Activated|Energy_Deactivated|Energy_Hacked	World.MetaNefleCliff.EnergyPlateA	87156	33292	629630
+	World	energy	50	both	Energy_Activated|Energy_Deactivated|Energy_Hacked	World.MetaNefleCliff.EnergyPlateB	85270	33550	629640
+	World			census		World.MetaNefleCliff.ForkA	85900	32300	630535
+	World			census		World.MetaNefleCliff.ForkB	85700	33200	629634
+	World	energy		census		World.MetaNefleCliff.LadderEnergyA	85960	33107	630530
+	World	energy		census		World.MetaNefleCliff.LadderEnergyB	86730	32803	630530
+	World	door/gate	50	both	Energy_Activated	World.MetaNefleCliff.LeverD	86768	30846	630300
+	World	door/gate		census		World.MetaNefleCliff.MetaDoorA	84973	32538	630232
+	World			census		World.MetaNefleCliff.NefleWorkingMetaNefleCliffA	85460	32320	630230
+	World			census		World.MetaNefleCliff.ReverserA	86000	30800	630858
+	World			census		World.MetaNefleCliff.ReverserB	85870	30710	630860
+	World			census		World.MetaNefleCliff.SaugeTargetPointMetaNefleCliff	85200	32850	630250
+	World	door/gate	50	both	Energy_Activated	World.MetaNefleCliff.TerminalLeverA	86100	32300	630535
+	World			census		World.MetaNefleCliff.VanTargetPointMetaNefleCliff	83627	32409	629650
+	World	energy		census		World.MetaNefleEnergyGrapple.BridgeHumaoindCableTuto	74012	-44820	822206
+	World	energy		census		World.MetaNefleEnergyGrapple.CableGeneratorTuto	74336	-44914	821681
+	World	door/gate		census		World.MetaNefleEnergyGrapple.ExitDoorTutoEnergizer	74320	-43120	822181
+	World	door/gate		census		World.MetaNefleEnergyGrapple.MetaDoorCable	68212	-47857	821631
+	World	energy	70	both	Upgrade_Unlocked	World.MetaNefleEnergyGrapple.MetaNefle_Cable_Tuto	0	0	0
+	World	energy		census		World.MetaNefleEnergyGrapple.TutoCable_TargetPoint	69132	-47877	821231
+	World	door/gate		census		World.MetaNefleGrapple.ExitDoorGrappleTutorial	72030	-41350	669484
+	World			census		World.MetaNefleGrapple.GappableTuto_SaugeTP	66585	-47412	668916
+	World	door/gate	30	both	GrappableDoor_Broken	World.MetaNefleGrapple.GrappableDoorA	74083	-42219	668728
+	World			census		World.MetaNefleGrapple.GrappleTutoVanTP	67644	-48305	668516
+	World	jammer	30	both	Jammer_Broken	World.MetaNefleGrapple.JammerBNoDM	72670	-42017	669385
+	World	door/gate		census		World.MetaNefleGrapple.MetaDoorGrapple	66595	-47662	668916
+	World			census		World.MetaNefleGrapple.NefleTutoGrapple	66648	-47073	668921
+	World		50	both	Energy_Activated|Energy_Deactivated|Energy_Hacked	World.MetaNefleHack.AlarmCameraA	73041	-43904	720649
+	World			census		World.MetaNefleHack.AlarmCameraABattery	73284	-43696	720652
+	World			census		World.MetaNefleHack.Battery	70010	-43377	720652
+	World			census		World.MetaNefleHack.BatteryA	69844	-47554	720304
+	World			census		World.MetaNefleHack.BatteryB	68782	-43433	721739
+	World			census		World.MetaNefleHack.BatteryC	72246	-41696	719902
+	World	door/gate	50	both	Energy_Activated	World.MetaNefleHack.Button	70578	-43374	720652
+	World			census		World.MetaNefleHack.ConnectPylonsCheat01	70800	-42828	716562
+	World	door/gate		census		World.MetaNefleHack.Door2	73103	-41806	720652
+	World	door/gate		census		World.MetaNefleHack.ExitDoorHackPlatformTutorial	73982	-40226	720763
+	World			census		World.MetaNefleHack.Fork	70250	-43300	720652
+	World	door/gate		census		World.MetaNefleHack.HumanDoorA	73053	-43591	720652
+	World			census		World.MetaNefleHack.LadderA	69666	-43288	721739
+	World	door/gate		census		World.MetaNefleHack.MetaDoorHack	68668	-46992	720301
+	World			census		World.MetaNefleHack.NefleTutoHack	68694	-46342	720304
+	World	energy		census		World.MetaNefleHack.RelayA	70036	-47533	720314
+	World	energy		census		World.MetaNefleHack.RelayB	68947	-43472	721740
+	World	energy		census		World.MetaNefleHack.RelayC	72165	-41908	719950
+	World	door/gate	50	both	Energy_Activated	World.MetaNefleHack.RelayLeverA	69110	-43449	721739
+	World		50	both	Upgrade_Unlocked	World.MetaNefleHack.SaugeAntennaHack_TargetPoint_MetaNefle	68688	-46172	720301
+	World			census		World.MetaNefleHack.VanSpawn_MetaNefle	69959	-46696	719901
+	World	door/gate		census		World.MetaNefleHack.VehiculeDoor	70288	-43450	719922
+	World	door/gate		census		World.MetaNefleHub.MetaDoorAqueduc	119550	-45550	622459
+	World	door/gate		census		World.MetaNefleHub.MetaDoorHubCliff	121500	-45550	622458
+	World	door/gate		census		World.MetaNefleHub.MetaDoorHubQuartier	118350	-47100	622461
+	World	door/gate		census		World.MetaNefleHub.MetaDoorHubRose	122650	-47100	622461
+	World	door/gate		census		World.MetaNefleHub.MetaDoorHubVIllage	120500	-48700	622459
+	World		70	both	AccessCard_Collected	World.MetaNefleQuartier.AccessCodeQuartiers	-20934	-12741	642447
+	World			census		World.MetaNefleQuartier.BatteryA	-19054	-13463	635388
+	World			census		World.MetaNefleQuartier.BeforeMetaNefleTrigger	-20133	-11982	-27327
+	World			census		World.MetaNefleQuartier.BridgeA	-19424	-12456	635973
+	World	door/gate	70	both	GrappableDoor_Broken	World.MetaNefleQuartier.GrappableDoorA	-18996	-12952	635400
+	World	door/gate	70	both	Energy_Activated	World.MetaNefleQuartier.LeverA	-19230	-13373	635388
+	World	door/gate		census		World.MetaNefleQuartier.MetaDoorMetaNefleQuartier	-21443	-11832	634302
+	World			census		World.MetaNefleQuartier.NefleWorkingComputerQuartier	-20850	-12050	634300
+	World			census		World.MetaNefleQuartier.NefleWorkingSandwitchAppear	-20917	-11972	634303
+	World			census		World.MetaNefleQuartier.SandwitchSurprise	-20271	-10738	635988
+	World			census		World.MetaNefleQuartier.SaugeCheckpoint	-21275	-11478	634303
+	World			census		World.MetaNefleQuartier.TriggerA	-21100	-11700	634300
+	World			census		World.MetaNefleQuartier.VanCheckpoint	-21896	-11217	634282
+	World		70	both	AccessCard_Collected	World.MetaNefleRose.AccessCodeRose	66395	-123625	624168
+	World			census		World.MetaNefleRose.BatteryB	69172	-123287	622670
+N	World	ambient		census		World.MetaNefleRose.BigSandwitchDialogueScene	71242	-124614	672728
+	World			census		World.MetaNefleRose.BridgeA	69949	-126824	623350
+	World			census		World.MetaNefleRose.BridgeB	68122	-126517	623347
+	World			census		World.MetaNefleRose.BridgeC	70221	-122911	622970
+	World			census		World.MetaNefleRose.CheckpointSauge	68812	-125363	622696
+	World			census		World.MetaNefleRose.CheckpointVan	68418	-124816	622464
+	World	door/gate		census		World.MetaNefleRose.DoorA	66237	-124538	623971
+	World			census		World.MetaNefleRose.ForkA	68912	-127930	623770
+	World	energy		census		World.MetaNefleRose.GrappleGeneratorA	65956	-124534	624200
+	World	energy		census		World.MetaNefleRose.GrappleGeneratorB	68914	-127844	623656
+	World	door/gate		census		World.MetaNefleRose.MetaDoorMetaNefleRose	68810	-125383	622669
+	World			census		World.MetaNefleRose.NefleRoseArgument	69028	-125133	622670
+	World			census		World.MetaNefleRose.NefleWorkingCompputer	69574	-125426	622670
+	World		70	both	Energy_Activated|Energy_Deactivated	World.MetaNefleRose.PlateA	69517	-122793	622970
+	World			census		World.MetaNefleRose.ReadyToTransfer	68811	-125374	622713
+	World	door/gate		census		World.MetaNefleRose.TrapMetadoorRose	70958	-125100	672728
+	World	door/gate		census		World.MetaNefleZipline.ExitDoorZiplineTutorial	69910	-41400	773572
+	World	door/gate		census		World.MetaNefleZipline.MetaDoorZipline	66373	-47859	772874
+	World			census		World.Plateau_TowerRuin.BatteryB	3015	-23908	2870
+	World			census		World.Plateau_TowerRuin.BatteryD	2532	-23608	2870
+	World			census		World.Plateau_TowerRuin.BatteryF	-2383	-19951	3165
+	World			census		World.Plateau_TowerRuin.BatteryG	-2147	-19526	3115
+	World			census		World.Plateau_TowerRuin.BatteryLadder	-3266	-22026	3520
+	World	door/gate	70	both	Energy_Activated	World.Plateau_TowerRuin.BridgeLever	-4079	-26546	3420
+	World	door/gate		census		World.Plateau_TowerRuin.BridgeLeverBattery	-4177	-26830	3420
+	World	door/gate		census		World.Plateau_TowerRuin.ClosedDoorA	-2707	-19605	3150
+	World	door/gate		census		World.Plateau_TowerRuin.ClosedDoorC	2977	-23127	2881
+	World			census		World.Plateau_TowerRuin.CorpseA	-17997	-13140	-28388
+	World	energy		census		World.Plateau_TowerRuin.EnergyLadder	-3728	-23092	4300
+	World	door/gate		census		World.Plateau_TowerRuin.GeneratorOutsideDoor	-3480	-21700	4120
+	World			census		World.Plateau_TowerRuin.InterludeCepe	-3340	-18620	3040
+	World			census		World.Plateau_TowerRuin.InterludeCepeOnlySauge	-3270	-18660	3040
+Y	World	jammer	70	both	Jammer_Broken	World.Plateau_TowerRuin.Jammer	-2985	-22291	5823
+	World	door/gate	70	both	Energy_Activated	World.Plateau_TowerRuin.KnowledgeArk_Button	-4203	-22419	3520
+	World			census		World.Plateau_TowerRuin.LoadArea	-8048	-14596	2769
+	World		30	both	LocationNotifier_Discovered	World.Plateau_TowerRuin.LocationNotifier	-2089	-22764	4213
+	World	door/gate		census		World.Plateau_TowerRuin.MetadoorQuartier	-20250	-11900	-27700
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TowerRuin.PTW_ScrapsNomad	-3885	-22640	3520
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TowerRuin.PTW_ScrapsNomad1	-3790	-21900	3665
+	World		70	both	Energy_Activated|Energy_Deactivated|Energy_Hacked	World.Plateau_TowerRuin.QuartierPlateA	3603	-23366	2870
+	World		70	both	Energy_Activated|Energy_Deactivated	World.Plateau_TowerRuin.QuartierPlateD	2400	-22891	2872
+	World		70	both	Energy_Activated|Energy_Deactivated|Energy_Hacked	World.Plateau_TowerRuin.QuartierPlateE	-2531	-19077	3046
+	World		70	both	Energy_Activated|Energy_Deactivated	World.Plateau_TowerRuin.QuartierPlateF	-2875	-20092	3163
+	World	energy		census		World.Plateau_TowerRuin.QuartierRelay	-6800	-24200	3950
+	World	energy		census		World.Plateau_TowerRuin.RelayBattery	-6849	-24425	3975
+Y	World	collectible	70	both	SmallRadio_Discovered	World.Plateau_TowerRuin.RuinRadio	-2419	-18048	3845
+Y	World	scrap	90	both	ScrapMetal_Collected	World.Plateau_TowerRuin.ScrapAO	11252	-24406	3096
+Y	World	scrap	90	both	ScrapMetal_Collected	World.Plateau_TowerRuin.ScrapAY	11173	-24438	3147
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TowerRuin.ScrapF	-22118	-15355	-28027
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TowerRuin.ScrapGH	-4927	-18695	4701
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TowerRuin.Scrap_05	-5143	-26576	3556
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TowerRuin.Scrap_11	320	-22191	3801
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TowerRuin.Scrap_123	-3435	-23279	6053
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TowerRuin.Scrap_134	-19970	-12359	-28229
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TowerRuin.Scrap_135	-3466	-23128	3574
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TowerRuin.Scrap_151	-17838	-13761	-27525
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TowerRuin.Scrap_156s	-24299	-10707	-28882
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TowerRuin.Scrap_178	589	-21717	3420
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TowerRuin.Scrap_25	-2792	-27215	3608
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TowerRuin.Scrap_46	-3779	-22390	4456
+Y	World	scrap		census		World.Plateau_TowerRuin.Scrap_75	978	-24821	3512
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TowerRuin.Scrap_79	-3456	-23174	5422
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TowerRuin.Scrap_80	-23631	-10675	-28770
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TowerRuin.Scrap_85	-19543	-14206	-28388
+	World	door/gate	70	both	Energy_Activated	World.Plateau_TowerRuin.SeedsDoorAccessCardTerminal	-3313	-21761	4120
+	World			census		World.Plateau_TowerRuin.SignsHint_01	-1145	-12329	1189
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TowerRuin.SmallScrapA	-3074	-22572	4660
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TowerRuin.SmallScrapC	-3500	-23343	5997
+Y	World	scrap		census		World.Plateau_TowerRuin.SmallScrapD	-2217	-27539	3580
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TowerRuin.SmallScrapG	-3941	-22615	4345
+	World	door/gate	70	both	Energy_Activated|Energy_Deactivated|Energy_Hacked	World.Plateau_TowerRuin.TPDoorPlate	-5683	-23844	3246
+	World	door/gate		census		World.Plateau_TowerRuin.TPDoorUndergroundPlate	-14341	-14172	-27951
+	World	door/gate		census		World.Plateau_TowerRuin.TPDoorUndergroundPlateBattery	-13829	-14215	-27951
+	World	door/gate		census		World.Plateau_TowerRuin.TP_Door_Tower	-5856	-24304	3259
+	World	door/gate		census		World.Plateau_TowerRuin.TP_Door_Underground_Pine	-14166	-13696	-27951
+	World			census		World.Plateau_TowerRuin.TargetPoint_TP	0	0	0
+	World		70	both	SWTeaser_Triggered	World.Plateau_TowerRuin.TeaserReceptacle	-20291	-12638	-27695
+Y	World		70	both	ToasterBox_Collected|ToasterBox_Hacked	World.Plateau_TowerRuin.ToasterBox	-3712	-21789	4220
+	World	door/gate		census		World.Plateau_TowerRuin.TowerDoor	-3465	-21820	3520
+	World	door/gate		census		World.Plateau_TowerRuin.UndergroundDoorBattery	-20510	-12248	-28388
+	World	door/gate	70	both	Energy_Activated	World.Plateau_TowerRuin.UndergroundDoorLever	-20337	-12305	-28388
+	World	energy	70	both	Energy_Activated|Energy_Deactivated|Energy_Hacked	World.Plateau_TowerRuin.UndergroundEnergyCamera	-18881	-12455	-28388
+	World	door/gate		census		World.Plateau_TowerRuin.UndergroundEnergyDoor	-19174	-12157	-27700
+	World	door/gate		census		World.Plateau_TowerRuin.UndergroundEnergyDoorSall	-19187	-12339	-28378
+	World			census		World.Plateau_TowerRuin.UndergroundMarkerB	-5809	-24180	3534
+	World	energy		census		World.Plateau_TowerRuin.UndergroundRelay	-14785	-13787	-27951
+N	World	ambient		census		World.Plateau_TowerRuin.WorldDialogueOrgeatNote	-536	-22669	3873
+N	World	ambient		census		World.Plateau_TowerRuin.WorldDialogueVehicleAccident	-6800	-21831	3498
+N	World	ambient		census		World.Plateau_TowerRuin.WorldDialogue_01	-4934	-26049	3586
+N	World	ambient		census		World.Plateau_TowerRuin.WorldDialogue_41	-3409	-22327	5353
+N	World	ambient		census		World.Plateau_TowerRuin.WorldDialogue_43	233	-21640	3443
+N	World	ambient		census		World.Plateau_TowerRuin.WorldDialogue_58	-12650	-16950	-27800
+N	World	ambient		census		World.Plateau_TowerRuin.WorldDialogue_64	-2398	-26947	3549
+	World			census		World.Plateau_TowerRuin.toweruin	-4418	-25914	3470
+	World			census		World.Plateau_TowerRuinSurrounding.EntranceTPLookIn	7590	-21430	1298
+Y	World	scrap		census		World.Plateau_TowerRuinSurrounding.Scrap_02	792	-20025	3868
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Plateau_TowerRuinSurrounding.SmallScrapA	17239	-22127	2268
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TowerRuinSurrounding.SmallScrapB	-3086	-22035	3610
+	World			census		World.Plateau_TowerRuinSurrounding.WindTurbineA	17419	-22251	2129
+N	World	ambient		census		World.Plateau_TowerRuinSurrounding.WorldDialogueWindmill	17174	-21857	2298
+	World	door/gate	70	both	Energy_Activated	World.Plateau_TutoRuinOrdi.DoorButton	-4477	-25315	3224
+	World	door/gate		census		World.Plateau_TutoRuinOrdi.DoorButtonBattery	-4640	-25294	3219
+	World			census		World.Plateau_TutoRuinOrdi.EntranceTPLookIn	864	-5497	2108
+	World	energy		census		World.Plateau_TutoRuinOrdi.GeoCarriereRelay	2191	-7401	3873
+	World	door/gate		census		World.Plateau_TutoRuinOrdi.LadderButtonBattery	2082	-6844	2247
+	World	door/gate	70	both	Energy_Activated	World.Plateau_TutoRuinOrdi.LadderLever	2200	-6670	2247
+	World			census		World.Plateau_TutoRuinOrdi.LoadArea	1571	-4423	2066
+	World		70	both	LocationNotifier_Discovered	World.Plateau_TutoRuinOrdi.LocationNotifier	2364	-7347	2428
+	World			census		World.Plateau_TutoRuinOrdi.PlateBattery	3381	-6906	2872
+	World	energy		census		World.Plateau_TutoRuinOrdi.RelayBatteryA	2303	-7498	3873
+	World	door/gate	70	both	Energy_Activated|Energy_Deactivated	World.Plateau_TutoRuinOrdi.RelayLeverA	2334	-7351	3873
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TutoRuinOrdi.ScrapI	1927	-7188	2910
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TutoRuinOrdi.Scrap_01	2013	-7924	2073
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TutoRuinOrdi.Scrap_109	2312	-7176	2830
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TutoRuinOrdi.Scrap_155	1804	-6953	3677
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TutoRuinOrdi.Scrap_175	1769	-7007	3677
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Plateau_TutoRuinOrdi.Scrap_46	2099	-7353	3440
+Y	World	sitspot	70	both	SitSpot_Discovered	World.Plateau_TutoRuinOrdi.SitspotCepeQuest	2828	-7018	3873
+Y	World		70	both	ToasterBox_Collected|ToasterBox_Hacked	World.Plateau_TutoRuinOrdi.ToasterBox	2421	-6862	3473
+	World		70	both	Energy_Activated|Energy_Deactivated|Energy_Hacked	World.Plateau_TutoRuinOrdi.TutoRuinCam	2904	-6877	2877
+	World	door/gate		census		World.Plateau_TutoRuinOrdi.TutoRuinDoor	2259	-6698	2870
+	World			census		World.Plateau_TutoRuinOrdi.TutoRuinLadder	2693	-7849	2874
+N	World	ambient		census		World.Plateau_TutoRuinOrdi.WorldDialogue_01	2562	-7152	3024
+Y	World	sitspot	30	both	SitSpot_Discovered	World.ReinetoCave.BigReinetoSitSpot	19321	-30809	-32148
+	World	door/gate	30	history	Common_Done	World.ReinetoCave.CaveDoorOpen			
+	World	collectible		census		World.ReinetoCave.ConnectoLookingAfterTeto	19917	-31487	-32475
+	World	door/gate		census		World.ReinetoCave.DoorTP	21186	-39841	-32325
+	World			census		World.ReinetoCave.EntranceTP	18980	-36477	-32260
+	World			census		World.ReinetoCave.GrapopopoTP	19341	-30838	-32155
+Y	World	collectible		census		World.ReinetoCave.LostTetoQuestEnd	16948	-32389	-32444
+Y	World	collectible	30	both	SmallRadio_Discovered	World.ReinetoCave.SmallRadio	20612	-28981	-30141
+	World		30	both	Common_Done	World.ReinetoCave.ToadHead	20027	-28550	-30074
+N	World	ambient		census		World.ReinetoCave.WorldDialogue_29	19743	-32028	-32391
+N	World	ambient		census		World.ReinetoCave.WorldDialogue_32	19381	-30670	-32049
+N	World	ambient		census		World.ReinetoCave.WorldDialogue_59	17559	-31996	-32353
+	World			census		World.RobotCamp.RobotCamp_Bridge	57730	36007	4785
+	World		50	both	Energy_Activated|Energy_Deactivated	World.RobotCamp.RobotCamp_Camera	57837	37233	3980
+	World	door/gate		census		World.RobotCamp.RobotCamp_Door	58404	38056	3180
+	World	door/gate		census		World.RobotCamp.RobotCamp_Door_02	57847	36953	3980
+Y	World	scrap	50	both	ScrapMetal_Collected	World.RobotCamp.RobotCamp_Scrap_01	58485	38595	2620
+Y	World	scrap	50	both	ScrapMetal_Collected	World.RobotCamp.RobotCamp_Scrap_02	57460	37962	3280
+Y	World	scrap	50	both	ScrapMetal_Collected	World.RobotCamp.RobotCamp_Scrap_05	57296	36717	5618
+	World	door/gate	30	both	Energy_Activated	World.RobotFactory.DoorVehicleButton	-6268	36082	570
+	World	door/gate		census		World.RobotFactory.DoorVehicleButtonBattery	-6063	36133	570
+	World			census		World.RobotFactory.RobotFactory	-6620	35763	576
+	World	door/gate	30	both	Energy_Activated	World.RobotFactory.TreasureDoorLever	-8975	35177	920
+	World	door/gate		census		World.RobotFactory.TreasureRoomLeverBattery	-8926	35021	920
+	World	energy		census		World.RoseHome.RoseRelay	95931	-66027	2633
+Y	World	sitspot	30	both	SitSpot_Discovered	World.RoseHome.SitSpotCalanque	103125	-60992	2343
+	World	door/gate		census		World.Ruin_WaterTreatment_calanque.EnergyDoorTrapeze_01	80487	-65369	1544
+Y	World	collectible	90	both	SmallRadio_Discovered	World.Ruin_WaterTreatment_calanque.SmallRadio_01	93056	28626	2617
+	World	door/gate		census		World.SecretMountainDoor.EndSandwitchTrigger	4326	-31409	8429
+	World	door/gate		census		World.SecretMountainDoor.SandWitchA	3844	-50723	10241
+	World	door/gate		census		World.SecretMountainDoor.SandWitchB	2244	-44489	9398
+	World	door/gate		census		World.SecretMountainDoor.SandWitchC	4196	-40399	9300
+	World	door/gate		census		World.SecretMountainDoor.SaugeArriveTrigger	4138	-54080	9734
+	World	door/gate		census		World.SecretMountainDoor.SaugeCheckPoint	4541	-54065	9358
+	World	door/gate		census		World.SecretMountainDoor.SecretMetaDoor	4650	-54111	9263
+	World	door/gate	70	both	SWTeaser_Triggered	World.SecretMountainDoor.TeaserA	3884	-50697	10248
+	World	door/gate	70	both	SWTeaser_Triggered	World.SecretMountainDoor.TeaserB	2261	-44513	9400
+	World	door/gate	70	both	SWTeaser_Triggered	World.SecretMountainDoor.TeaserC	4200	-40379	9300
+	World	door/gate		census		World.SecretMountainDoor.TriggerSandWitchA	3544	-51498	9801
+	World	door/gate		census		World.SecretMountainDoor.TriggerSandWitchB	3104	-46960	9430
+	World	door/gate		census		World.SecretMountainDoor.TriggerSandWitchC	2629	-43048	9275
+	World	door/gate		census		World.SecretMountainDoor.VanCheckPoint	1772	-19948	2901
+	World			census		World.Shore.LoadArea	82667	-22148	56
+Y	World	scrap		census		World.Shore.Scrap_01	64610	2386	2843
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Shore.Scrap_CalanqueGate_03	105254	-30269	1737
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore.Scrap_Desert_01	91773	-17892	8
+	World			census		World.Shore.SignsHint_01	82826	-19040	57
+	World			census		World.Shore.SignsHint_02	88545	-21321	366
+Y	World	vanjump	90	both	VanJump_Triggered	World.Shore.VanJump5	89338	-25085	2071
+	World			census		World.Shore_CliffRuin.Battery	95328	22511	1516
+	World			census		World.Shore_CliffRuin.BuriedReinetoD	81321	29530	274
+	World	energy		census		World.Shore_CliffRuin.CliffRelay	94325	30383	3350
+	World	door/gate	50	both	GrappableDoor_Broken	World.Shore_CliffRuin.GrappableDoor	91236	23428	2940
+	World			census		World.Shore_CliffRuin.LoadArea	97699	13535	202
+	World			census		World.Shore_CliffRuin.LoadArea1	92119	28763	1102
+	World			census		World.Shore_CliffRuin.LoadArea2	94397	20833	1452
+	World		30	both	LocationNotifier_Discovered	World.Shore_CliffRuin.LocationNotifier	98605	23595	2855
+	World			census		World.Shore_CliffRuin.MushroomB	80235	29860	334
+	World		30	both	MushroomGreen_Collected	World.Shore_CliffRuin.MushroomD	81332	29764	221
+	World	door/gate	30	both	Energy_Activated	World.Shore_CliffRuin.OpenDoor	97500	23742	3760
+	World			census		World.Shore_CliffRuin.ParabolePlate	95707	22974	1516
+	World	energy		census		World.Shore_CliffRuin.RelayBatteryA	94432	30290	3328
+	World	door/gate		census		World.Shore_CliffRuin.RotateAntennaButton	93845	23231	2770
+	World		30	both	SWTeaser_Triggered	World.Shore_CliffRuin.SandwitchTeaserC	82732	-7902	950
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Shore_CliffRuin.ScrapM	92327	25406	2794
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Shore_CliffRuin.ScrapMetal_05	96238	22990	4973
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Shore_CliffRuin.ScrapMetal_58	96223	22951	5041
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Shore_CliffRuin.ScrapP	92885	24590	2266
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Shore_CliffRuin.ScrapR	92694	23005	3714
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Shore_CliffRuin.ScrapU	91493	23546	2923
+Y	World	scrap	90	both	ScrapMetal_Collected	World.Shore_CliffRuin.Scrap_03	92079	27469	3685
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Shore_CliffRuin.Scrap_04	99086	21751	121
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Shore_CliffRuin.Scrap_06	92702	23029	2959
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Shore_CliffRuin.Scrap_0654	96615	21663	1555
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Shore_CliffRuin.Scrap_111	92547	23108	3621
+Y	World	scrap		census		World.Shore_CliffRuin.Scrap_128	101041	19104	14
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Shore_CliffRuin.Scrap_135	92867	23708	1839
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Shore_CliffRuin.Scrap_147	96557	22380	3074
+Y	World	scrap		census		World.Shore_CliffRuin.Scrap_27	90992	18620	1158
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Shore_CliffRuin.Scrap_31	97314	22626	3501
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Shore_CliffRuin.Scrap_63	92990	23265	3609
+	World			census		World.Shore_CliffRuin.Shore_CliffRuin_01	93064	23455	2930
+	World			census		World.Shore_CliffRuin.SignsHint_01	79715	12975	-26
+	World			census		World.Shore_CliffRuin.SignsHint_02	90443	18668	1124
+	World	door/gate		census		World.Shore_CliffRuin.TPDoorUndergroundA	94145	29780	1105
+	World	door/gate		census		World.Shore_CliffRuin.TPDoorUndergroundB	88188	27726	-27806
+Y	World		50	both	ToasterBox_Collected|ToasterBox_Hacked	World.Shore_CliffRuin.ToasterBox	92465	23741	1793
+	World	door/gate		census		World.Shore_CliffRuin.UndegroundDoorBPlate	88505	28098	-27808
+	World	door/gate	50	both	Energy_Activated|Energy_Deactivated|Energy_Hacked	World.Shore_CliffRuin.UndergroundDoorAPlate	93855	29462	1090
+	World	door/gate		census		World.Shore_CliffRuin.UndergroundDoorBPlateBattery	87969	28119	-27808
+	World			census		World.Shore_CliffRuin.UndergroundMarkerA	94070	29736	1247
+N	World	ambient		census		World.Shore_CliffRuin.WorldDialogueStormWallSmallCamp	96244	22138	1589
+N	World	ambient		census		World.Shore_CliffRuin.WorldDialogue_01	98651	21586	5036
+N	World	ambient		census		World.Shore_CliffRuin.WorldDialogue_33	94897	18490	502
+N	World	ambient		census		World.Shore_CliffRuin.WorldDialogue_65	102019	19771	109
+	World			census		World.Shore_CliffRuin.rrtert	-2727	-21714	4120
+	World			census		World.Shore_FallenSpaceShip.AudioSpline1	87200	-9930	-28690
+	World			census		World.Shore_FallenSpaceShip.AudioSpline2	89760	-8420	-28690
+	World			census		World.Shore_FallenSpaceShip.BatteryA	85588	-7631	950
+	World			census		World.Shore_FallenSpaceShip.BatteryD	88332	-11782	950
+	World			census		World.Shore_FallenSpaceShip.BatteryUnderground	86150	-9400	-28910
+	World			census		World.Shore_FallenSpaceShip.BigWindturbineD	72750	-16033	4610
+	World	door/gate	50	both	GrappableDoor_Broken	World.Shore_FallenSpaceShip.ContainerGrappableDoorA	83780	-9300	1000
+	World	door/gate	70	both	GrappableDoor_Broken	World.Shore_FallenSpaceShip.ContainerGrappableDoorB	84685	-13656	990
+	World	door/gate	70	both	GrappableDoor_Broken	World.Shore_FallenSpaceShip.ContainerGrappableDoorD	83648	-14041	994
+	World	door/gate		census		World.Shore_FallenSpaceShip.ContainerGrappableDoorE	81580	-8360	990
+	World			census		World.Shore_FallenSpaceShip.DockContainerBattery	88879	-9517	950
+	World			census		World.Shore_FallenSpaceShip.DockMemo	85365	-7892	3345
+	World		50	both	Energy_Activated|Energy_Deactivated|Energy_Hacked	World.Shore_FallenSpaceShip.DocksContainerPlate	88097	-9377	950
+	World	door/gate		census		World.Shore_FallenSpaceShip.DocksDoorA	85349	-8315	950
+	World	door/gate	70	both	Energy_Activated	World.Shore_FallenSpaceShip.DocksDoorButton	87253	-12319	950
+	World	door/gate		census		World.Shore_FallenSpaceShip.DoorHumanoidControlRoom	85638	-8654	3250
+	World	energy		census		World.Shore_FallenSpaceShip.EnergyBridgeA	89419	-11301	1775
+	World	door/gate		census		World.Shore_FallenSpaceShip.EnergyDocksDoorButtonBattery	87080	-12387	945
+	World	door/gate		census		World.Shore_FallenSpaceShip.EnergyDoorDocks	86686	-11927	950
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.EnergyScrapE	87807	-11055	1226
+	World			census		World.Shore_FallenSpaceShip.FlyingShipsTP	86246	-4034	53
+	World	door/gate	50	both	GrappableDoor_Broken	World.Shore_FallenSpaceShip.GrappableDoorDocks	85955	-10169	950
+	World	door/gate		census		World.Shore_FallenSpaceShip.GrappleEnergyTopDoor	86575	-7152	2903
+Y	World	jammer	30	both	Jammer_Broken	World.Shore_FallenSpaceShip.Jammer	80750	-12870	2847
+	World			census		World.Shore_FallenSpaceShip.LampContainerDocks	88360	-8919	2572
+	World			census		World.Shore_FallenSpaceShip.LoadArea	85931	-13701	950
+	World		30	both	LocationNotifier_Discovered	World.Shore_FallenSpaceShip.LocationNotifier	86896	-8536	2066
+	World		50	both	LocationNotifier_Discovered	World.Shore_FallenSpaceShip.LocationNotifierSouterrain	84709	-11297	-28110
+	World	door/gate		census		World.Shore_FallenSpaceShip.MetaDoorEnergyForkA	81217	-12387	-28310
+	World	door/gate		census		World.Shore_FallenSpaceShip.MetaDoorEnergyForkB	81350	-12750	-28310
+	World	door/gate		census		World.Shore_FallenSpaceShip.MetaDoorEnergyLampA	81260	-12570	-28310
+	World	door/gate		census		World.Shore_FallenSpaceShip.MetaDoorEnergyLampB	82690	-11840	-29110
+N	World	ambient		census		World.Shore_FallenSpaceShip.MovingContainerSelfTalk	90680	-7992	1736
+	World		70	both	Energy_Activated|Energy_Deactivated	World.Shore_FallenSpaceShip.PlateD	88647	-11283	950
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap	84421	-12941	1065
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap06	87853	-7797	2044
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap09	88960	-10060	950
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap11	88910	-12200	1090
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap12	88980	-12050	960
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap13	86463	-10969	2190
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap14	83583	-8909	1032
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap15	83520	-10850	1624
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap17	84462	-13287	1513
+Y	World	scrap		census		World.Shore_FallenSpaceShip.Scrap18	85251	-8731	3550
+Y	World	scrap		census		World.Shore_FallenSpaceShip.Scrap19	84787	-7786	3405
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap20	88370	-10030	1445
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap22	87850	-7900	-29470
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap23	87750	-7970	-29450
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap24	88790	-7656	-28640
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap26	87261	-9029	-28872
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap28	92046	-10575	1840
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap32	91586	-10639	1902
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap36	92112	-10449	1904
+Y	World	scrap		census		World.Shore_FallenSpaceShip.ScrapD	82018	-9049	1000
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.ScrapEnergyA	88169	-10774	1040
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.ScrapEnergyB	87971	-10845	1040
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.ScrapEnergyC	88244	-10980	1040
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.ScrapEnergyD	88047	-11052	1040
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.ScrapH	-19099	-11745	-27514
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.ScrapL	-27582	-17934	-28893
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.ScrapM	83581	-13484	992
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.ScrapN	83524	-13575	973
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.ScrapNacelleA	90967	-8068	3775
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.ScrapO	-21961	-13481	-28289
+Y	World	scrap		census		World.Shore_FallenSpaceShip.ScrapQ	81748	-9088	1114
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap_01	87401	-8609	980
+Y	World	scrap		census		World.Shore_FallenSpaceShip.Scrap_02	85258	-7250	3258
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap_03	82574	-8253	1533
+Y	World	scrap	50	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap_05	87191	-7998	1990
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap_114	90636	-8186	3715
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap_124	81445	-12756	-29110
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap_17	80948	-13136	2800
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap_192	86662	-11144	2145
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap_54	90233	-8121	3624
+Y	World	scrap		census		World.Shore_FallenSpaceShip.Scrap_81	84588	-7928	3288
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scrap_Desert_02	84578	-12988	1034
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.Scraps28	83600	-10500	-28900
+Y	World	collectible	70	both	SmallRadio_Discovered	World.Shore_FallenSpaceShip.SmallRadio	90432	-8213	3714
+	World	door/gate		census		World.Shore_FallenSpaceShip.TPDoorDocks	86234	-9058	1000
+	World	door/gate		census		World.Shore_FallenSpaceShip.TPDoorDocksB	89611	-7860	-28710
+	World	door/gate	50	both	Energy_Activated	World.Shore_FallenSpaceShip.TerminalButtonA	85411	-7841	950
+Y	World		50	both	ToasterBox_Collected|ToasterBox_Hacked	World.Shore_FallenSpaceShip.ToasterBox	85594	-9702	950
+	World	door/gate		census		World.Shore_FallenSpaceShip.TopDoorBattery	86736	-6807	2890
+	World	door/gate		census		World.Shore_FallenSpaceShip.TopDoorEnergyPlate	85751	-8972	3245
+	World			census		World.Shore_FallenSpaceShip.UndergroundDocksForkA	84770	-10830	-29110
+	World			census		World.Shore_FallenSpaceShip.UndergroundDocksForkB	83573	-10834	-29110
+	World			census		World.Shore_FallenSpaceShip.UndergroundDocksForkC	86720	-9760	-28410
+	World			census		World.Shore_FallenSpaceShip.UndergroundDocksLightA	84750	-10752	-29110
+	World			census		World.Shore_FallenSpaceShip.UndergroundDocksLightB	83553	-10764	-29110
+	World			census		World.Shore_FallenSpaceShip.UndergroundDocksLightD	86900	-9735	-28400
+	World	door/gate	70	both	Energy_Activated	World.Shore_FallenSpaceShip.UndergroundEnergyButtonA	87320	-8920	-28910
+	World	door/gate		census		World.Shore_FallenSpaceShip.UndergroundEnergyDoorA	87087	-8771	-28910
+	World	door/gate	70	both	Energy_Activated	World.Shore_FallenSpaceShip.UndergroundLightsLever	86236	-9520	-28900
+	World			census		World.Shore_FallenSpaceShip.UndergroundMarkerA	86265	-9046	1000
+	World		70	both	SWTeaser_Triggered	World.Shore_FallenSpaceShip.UndergroundSandwitchTeaserA	83060	-10730	-29910
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.UndergroundScrapA	84750	-10530	-29940
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.UndergroundScrapB	84666	-10538	-29940
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.UndergroundScrapC	86280	-8655	-29950
+Y	World	scrap	70	both	ScrapMetal_Collected	World.Shore_FallenSpaceShip.UndergroundScrapE	86364	-8646	-29888
+N	World	ambient		census		World.Shore_FallenSpaceShip.WorldDialogue_01	82821	-11646	2575
+N	World	ambient		census		World.Shore_FallenSpaceShip.WorldDialogue_02	-23861	-13398	-27988
+N	World	ambient		census		World.Shore_FallenSpaceShip.WorldDialogue_19	85307	-7900	3335
+N	World	ambient		census		World.Shore_FallenSpaceShip.WorldDialogue_40	83649	-10589	1098
+N	World	ambient		census		World.Shore_FallenSpaceShip.WorldDialogue_46	81571	-12376	-29107
+N	World	ambient		census		World.Shore_FallenSpaceShip.WorldDialogue_57	83113	-10701	-29823
+	World			census		World.Station.Battery	20964	-268686	-34679
+	World			census		World.Station.Corridor2Spline	23659	-270283	-35174
+	World			census		World.Station.EntranceTP	18550	-270200	-34401
+	World			census		World.Station.FMODSplineHall	21580	-267130	-35100
+	World			census		World.Station.InfoRobotStation	19513	-265939	-35100
+Y	World	jammer		census		World.Station.Jammer	22319	-261673	-45102
+	World	door/gate	10	both	Energy_Activated	World.Station.Lever	21093	-268810	-34700
+	World		10	both	LocationNotifier_Discovered	World.Station.LocationNotifier	21510	-262261	-35713
+	World			census		World.Station.MediumArea1Spline	19040	-269840	-34300
+N	World	ambient		census		World.Station.PrologueDialogue	17199	-272914	-40294
+	World		10	both	Common_Done	World.Station.SaugeClimbTutorial	18855	-265767	-34953
+Y	World	vanjump	10	both	Common_Done	World.Station.SaugeJumpTutorial	19998	-265157	-34836
+	World		10	both	Common_Done	World.Station.SaugeMoveTutorial	18995	-270050	-34150
+N	World	ambient		census		World.Station.SaugeRoomDialogue	21938	-273116	-35398
+	World		10	both	Common_Done	World.Station.SaugeRunTutorial	21700	-263050	-34500
+	World			census		World.Station.StarterItemsGiver	18990	-270122	-34400
+	World			census		World.Station.TicketA	18499	-270501	-33850
+	World			census		World.Station.ToasterAd	19963	-265730	-34959
+	World		10	both	Common_Done	World.Station.ToasterTutorialBox	21195	-266051	-34914
+	World			census		World.Station.Toasterbox	20896	-266189	-35094
+	World			census		World.Station.TrainTP	21150	-261450	-34650
+	World	door/gate		census		World.Station.VehiculeDoorA	21350	-268150	-34700
+N	World	ambient		census		World.Station.WorldDialogue_57	21058	-268987	-34600
+	World	door/gate	30	both	GrappableDoor_Broken	World.SucculentForest.BackdoorA	39050	-35050	-250
+	World	door/gate	50	both	GrappableDoor_Broken	World.SucculentForest.BackdoorB	43900	-34400	400
+	World			census		World.SucculentForest.BuriedReinetoE	37204	-22893	253
+	World			census		World.SucculentForest.FrontLakeTP	40299	-27850	-59
+	World			census		World.SucculentForest.LoadArea	37777	-28148	-171
+	World		30	both	LocationNotifier_Discovered	World.SucculentForest.LocationNotifierA	35470	-31900	800
+	World			census		World.SucculentForest.MushroomB	37317	-22200	294
+	World		30	both	MushroomGreen_Collected	World.SucculentForest.MushroomC	37063	-22918	261
+	World			census		World.SucculentForest.ReinetoEntranceTPLookOut	35490	-33106	-270
+	World			census		World.SucculentForest.SaugeTP_Point	34188	-14878	1882
+	World			census		World.SucculentForest.ToasterBox	36950	-34967	225
+N	World	ambient		census		World.SucculentForest.WorldDialogue_01	40705	-27228	-42
+N	World	ambient		census		World.SucculentForest.WorldDialogue_10	35923	-33784	497
+	World	door/gate		census		World.SucculentForest_ReinetoEntrance.ReinetoGrottoDoor	34098	-33914	-182
+Y	World	sitspot	30	both	SitSpot_Discovered	World.SucculentForest_ReinetoEntrance.SitSpotChill	37578	-26181	538
+N	World	ambient		census		World.SucculentForest_ReinetoEntrance.WorldDialogue_51	37269	-26420	594
+	World	door/gate		census		World.SucculentForest_RuinEnergy.DoorPlateBattery	39072	-37094	2104
+	World	energy		census		World.SucculentForest_RuinEnergy.EnergyRuinSpline	42200	-38020	3120
+	World	energy		census		World.SucculentForest_RuinEnergy.EntranceTP	42619	-34375	737
+	World	door/gate		census		World.SucculentForest_RuinEnergy.FrontOfTheDoorTP	39503	-36738	2110
+Y	World	jammer	30	both	Jammer_Broken	World.SucculentForest_RuinEnergy.Jammer	46486	-21049	4594
+	World	door/gate	50	both	Energy_Activated	World.SucculentForest_RuinEnergy.RuinAntennaDoor	39515	-36975	2107
+	World	door/gate		census		World.SucculentForest_RuinEnergy.SEnergyRuin_Door	39517	-37279	2112
+Y	World	scrap	50	both	ScrapMetal_Collected	World.SucculentForest_RuinEnergy.Scrap_125	39193	-41991	2821
+N	World	ambient		census		World.SucculentForest_RuinEnergy.WorldDialogue_35	38921	-41821	2908
+	World			census		World.Village.BatteryA	26092	47971	1559
+	World			census		World.Village.BigWindTurbineA	78342	-36205	7653
+	World			census		World.Village.BigWindTurbineB	76863	-38176	7757
+	World			census		World.Village.BottomStairsToCepeCoffeeTPLookIn	71825	-44185	1300
+Y	World	sitspot	30	both	SitSpot_Discovered	World.Village.BridgeSitSpot	70401	-44242	3824
+	World			census		World.Village.CafeSleepSpot	68348	-45740	-13462
+Y	World	collectible	30	both	SmallRadio_Discovered	World.Village.CafeSmallRadio	75225	-62434	2860
+	World			census		World.Village.CafeSoccerBall	71560	-45820	2900
+	World			census		World.Village.CalanquesEntrance_LoadArea	77027	-48523	848
+	World			census		World.Village.CepeCoffeeTP	70103	-45647	2977
+	World			census		World.Village.ClementineGarageSauge	72861	-44254	1327
+	World			census		World.Village.ClementineGarageVanParked	73068	-43609	1364
+	World			census		World.Village.ClementineHouse	75444	-43891	-15272
+	World			census		World.Village.EnterCafe	69778	-44984	3095
+	World			census		World.Village.EnterClementineHouse	75157	-44045	3414
+	World			census		World.Village.Entrance2InLookOut_TP	71192	-43342	1310
+	World			census		World.Village.Entrance2TPLookIn	70984	-43005	1315
+	World			census		World.Village.Entrance2TPLookOut	70045	-41018	1351
+	World			census		World.Village.EntranceTPLookIn	73172	-45425	1348
+	World			census		World.Village.EntranceTPLookOut	74193	-46483	1289
+	World			census		World.Village.ExitCafe	69754	-44962	-13732
+	World			census		World.Village.ExitClementineHouse	75270	-43969	-15146
+	World			census		World.Village.FaceToClementineGarageTP	72665	-44911	1336
+	World			census		World.Village.Fountain	70319	-46061	3124
+	World		90	both	Common_Done	World.Village.GoalTrigger	72085	-45415	2937
+	World			census		World.Village.Hopscotch	73145	-44404	2880
+	World			census		World.Village.InsideCafe	69588	-44970	-13835
+	World			census		World.Village.InsideCafeAtBar	69280	-44720	-13835
+	World			census		World.Village.InsideCafeNextToTable	69278	-45561	-13835
+Y	World	sitspot		census		World.Village.InsideCafeSitSpot	69517	-45271	-13793
+	World			census		World.Village.InterludeAbricot	74250	-43700	2980
+	World			census		World.Village.InterludeClementine	0	0	0
+	World			census		World.Village.InterludeSafran	0	0	0
+	World			census		World.Village.Interlude_EstelloArea	0	0	0
+	World			census		World.Village.Interlude_EstelloAreaNefle	72790	-43820	1350
+Y	World	jammer	20	both	Jammer_Broken	World.Village.JammerNoDM	72614	-44780	539
+	World			census		World.Village.LoadArea	73717	-45789	1274
+	World		20	both	LocationNotifier_Discovered	World.Village.LocationNotifierVillage	72280	-44810	1190
+	World		70	both	LocationNotifier_Discovered	World.Village.LocationNotifierWindTurbines	77409	-36605	7823
+	World			census		World.Village.MainPlaceTP	71220	-46074	2977
+	World	door/gate		census		World.Village.MetaDoorNefleShop	73603	-43274	1356
+	World		30	both	Common_Done	World.Village.MetaShopGrapple	0	0	0
+	World		70	both	Common_Done	World.Village.MetaShopPowerCable	0	0	0
+	World		50	both	Common_Done	World.Village.MetaShopZipline	0	0	0
+	World		30	both	MushroomBrown_Collected	World.Village.MushroomXD	82204	-48158	580
+	World		30	both	MushroomGreen_Collected	World.Village.MushroomXE	82495	-47718	572
+	World			census		World.Village.NefleWentToAperoWarning	73071	-44032	1355
+	World	door/gate		census		World.Village.OpenWorldDoorOpen	70665	-41809	1334
+	World			census		World.Village.OpenWorldEntrance_LoadArea	68540	-39990	1349
+	World			census		World.Village.OpenWorldNote	70432	-41955	1518
+	World			census		World.Village.OutsideCafe	70188	-45134	2977
+	World			census		World.Village.OutsideClementineHouse	74974	-44186	3296
+	World			census		World.Village.PlateHumanA	25872	47587	1559
+	World			census		World.Village.ReinetoBuriedF	82672	-47730	560
+	World		30	both	Common_Done	World.Village.SceneAntenna	72622	-43695	1355
+	World		30	both	Common_Done	World.Village.SceneGrapple	0	0	0
+	World		70	both	Common_Done	World.Village.ScenePowerCable	0	0	0
+	World		50	both	Common_Done	World.Village.SceneZipline	0	0	0
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Village.Scrap_14	24024	47730	779
+Y	World	scrap		census		World.Village.Scrap_164	72630	-43185	1565
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Village.Scrap_184	26711	47031	940
+Y	World	scrap	30	both	ScrapMetal_Collected	World.Village.Scrap_42	70080	-46422	3907
+Y	World	scrap	20	both	ScrapMetal_Collected	World.Village.Scrap_52	71023	-45686	1818
+	World		30	both	Common_Done	World.Village.ShopAntenna	72676	-43650	1355
+	World			census		World.Village.SignA	69620	-41609	1344
+	World			census		World.Village.SignB	74028	-47116	1197
+Y	World	sitspot	70	both	SitSpot_Discovered	World.Village.SitSpot_01	80817	-65243	2775
+Y	World	collectible	70	both	SmallRadio_Discovered	World.Village.SmallRadio	83813	-37060	7944
+Y	World		70	both	ToasterBox_Collected|ToasterBox_Hacked	World.Village.ToasterboxA	73597	-44187	2880
+	World			census		World.Village.Toys_01	76891	-62790	310
+	World	door/gate		census		World.Village.VillageDoorLeft	70650	-41769	1326
+N	World	ambient		census		World.Village.WorldDialogue_01	74245	-45509	1502
+N	World	ambient		census		World.Village.WorldDialogue_19	69290	-43710	3067
+N	World	ambient		census		World.Village.WorldDialogue_22	70348	-45329	1416
+N	World	ambient		census		World.Village.WorldDialogue_33	73467	-42610	2843
+N	World	ambient		census		World.Village.WorldDialogue_39	74477	-40410	7720
+N	World	ambient		census		World.Village.WorldDialogue_44	74841	-43868	3434
+N	World	ambient		census		World.Village.WorldDialogue_65	70760	-47135	4592
+	World			census		World.Village.YuccaBattery	68610	-43830	-17420
+	World			census		World.Village.YuccaEnter	69144	-44111	3093
+	World			census		World.Village.YuccaExit	69237	-44049	-17282
+	World			census		World.Village.YuccaInside	69007	-44188	-17420
+	World			census		World.Village.YuccaLamp	68892	-43933	-17149
+	World	door/gate	30	both	Energy_Activated|Energy_Deactivated	World.Village.YuccaLever	68752	-44050	-17420
+	World			census		World.Village.YuccaOutside	69377	-44005	2977
