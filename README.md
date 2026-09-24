@@ -1,3 +1,5 @@
+# I started to work on this when Fable was released for Claude. I was curious how well an AI model could create an AP world fully on it's own. I acted only as prompting the direction and what I envisioned the game to be, then I let the AI do it's work. I was in the middle of the first play-test when Fable became a pay-to-use model and this is where we got to by that point. Uploading this here incase anyone would like a springboard to work off of. I do not have the time at this moment to work on it myself, and maybe in the future if no one else picks up this project I may return to work on it personally. Or if Fable ever comes back to free-to-use maybe I'll continue my little experiment. 
+
 # Caravan SandWitch — Archipelago
 
 Work-in-progress [Archipelago](https://archipelago.gg) multiworld support for
